@@ -1,0 +1,1 @@
+For the checked Indonesian translation file, later combine this through the ID and Indonesian (by excluding the English) because there are some errors in the English and these are corrected in the original Google Sheet file checked by Barnaby. That means, we need to re-run the code in 4-pre-processing... file.
