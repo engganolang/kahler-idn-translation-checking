@@ -1068,8 +1068,8 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 2081;Jenis iblis yang seharusnya berada di gua batu;Demon type that is supposed to be in stone caves;Dämonenart, die sich in Steinhöhlen aufhalten soll;ekũmãkũũ;15_1684375576;k;183;13
 2082;Spesies pohon;Tree species;Baumart;ekũmãnũã;15_1684375911;k;183;14
 2083;lalat kecil yang menggigit;tiny biting flies;winzige Stechfliegen;ekũmẽhãʔãhõ;15_1684376084;k;183;15
-2090;untuk menombak (ikan);to spear (fish);speeren (Fische);kuna;17_1683958752;k;184;7
-2094;untuk membatalkan (intr);to cancel (intr);abbrechen (intr);kunãʔã;17_1683960052;k;185;1
+2090;menombak (ikan);to spear (fish);speeren (Fische);kuna;17_1683958752;k;184;7
+2094;batal;to cancel (intr);abbrechen (intr);kunãʔã;17_1683960052;k;185;1
 2096;area memasak yang terbuat dari tiga batu;cooking area made of three stones;Kochstelle aus drei Steinen;ekũnã:ĩnõ;17_1683982202;k;185;3
 2098;Klitoris;Clitoris;Clitoris;ekunĩnĩ;17_1683982995;k;185;5
 2099;Bagian belakang paha;Back of the thigh;Rückseite des Oberschenkels;ekũnũnṹhũã uiʔo;17_1683983407;k;185;6
@@ -1080,19 +1080,19 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 2113;bengkak;swollen;geschwollen;kupo;17_1684158039;k;186;8
 2114;hutan;jungle;Urwald;ekurio;17_1684158091;k;186;9
 2118;tanjung, titik terluar;cape , outermost point;Kap, äußerster Punkt;ekuru;17_1684243453;k;187;1
-2119;kacamata renang;swimming goggles;Taucherbrille;ekuruhuáʔa ubaka;17_1684243567;k;187;2
+2119;kacamata selam;swimming goggles;Taucherbrille;ekuruhuáʔa ubaka;17_1684243567;k;187;2
 2120;Kumbang;Beetle;Käfer;ekṹʔũ;17_1684243719;k;187;3
 2124;Spesies ikan;Fish species;Fischart;ekúʔua;17_1684245096;k;187;7
 2128;kumbang badak;rhinocerous beetle;Nashornkäfer;ekṹʔũã;17_1684246208;k;187;11
-2130;Spesies tombak;Lance species;Lanzenart;ekuʔuábo;17_1684674888;k;188;1
+2130;jenis tombak;Lance species;Lanzenart;ekuʔuábo;17_1684674888;k;188;1
 2132;Dahi;Forehead;Stirn;ekṹʔũĩ;17_1684675317;k;188;3
 2133;Tulang pinggul;Hip bone;Hüftknochen;ekũʔukúʔu;17_1684675454;k;188;4
-2134;"1. 1. kerut mata; 2. spesies pisang";"1. eye wrinkle ; 2. banana species";"1. Augenfalte; 2. Bananenart";ekuʔukuʔu ubaka;17_1684675601;k;188;5
+2134;"1. kerut/lipatan mata; 2. spesies pisang";"1. eye wrinkle ; 2. banana species";"1. Augenfalte; 2. Bananenart";ekuʔukuʔu ubaka;17_1684675601;k;188;5
 2136;Spesies burung;Bird species;Vogelart;ekuʔupãnũ;17_1684675767;k;188;7
-2138;l hanya muncul dalam dialek barat dan setara dengan d (= r);l only occurred in the west dialect and is equivalent with d (= r);l kam nur im West-Dialekt vor und ist mit d (= r) gleichwertig;l;17_1684822690;l;188;1
+2138;i hanya muncul di dialek barat dan setara dengan d (= r);l only occurred in the west dialect and is equivalent with d (= r);l kam nur im West-Dialekt vor und ist mit d (= r) gleichwertig;l;17_1684822690;l;188;1
 2139;Mereka (Orang Ketiga Jamak);They (3rd Person Plural);sie (3. Pl);la -;17_1684822776;l;188;2
-2141;Pada malam hari (Francis Lako Aisje);At night (Francis Lako Aisje);nachts (Francis lako aisje);lakoʔa:ixa;17_1684822947;l;188;4
-2142;Fathom;Fathom;Klafter;lau;17_1684822995;l;188;5
+2141;Pada malam hari (Francis “lako aisje”);At night (Francis Lako Aisje);nachts (Francis lako aisje);lakoʔa:ixa;17_1684822947;l;188;4
+2142;melipat;Fathom;Klafter;lau;17_1684822995;l;188;5
 2148;pemakaian;the wearing;das Tragen;ealole;17_1684823505;l;188;11
 2149;"Tanah, bumi; Cuaca";"Land , earth ; Weather";"Land, Erde; Wetter";elopo;15_1687835758;l;189;1
 2150;cepatlah kemari! (bentuk tunggal);hurry here! (sg);eile herbeiǃ;luluka;15_1687835882;l;189;2
@@ -1106,7 +1106,7 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 2159;Nama sebuah desa di Karukua;Name of a village at Karukua;Name eines Dorfes bei Karukua;Mãhãmẽ;15_1687837135;m;189;9
 2160;jenis pisang;type of banana;Bananenart;emãhãmẽ;15_1687837230;m;189;10
 2161;emas;gold;Gold;emãhĩ;15_1687837375;m;189;11
-2162;"Jika tidak, sebaliknya ; dalam kasus ; tampaknya, mungkin";"Otherwise , otherwise ; in case ; apparently , possibly";"andernfalls, sonst; falls etwa; anscheinend, möglicherweise";mãhĩkũã;15_1687837569;m;189;12
+2162;"Jika tidak, sebaliknya ; jika ; tampaknya, mungkin";"Otherwise , otherwise ; in case ; apparently , possibly";"andernfalls, sonst; falls etwa; anscheinend, möglicherweise";mãhĩkũã;15_1687837569;m;189;12
 2163;Spesies ikan;Fish species;Fischart;emãhĩnṍkẽ;15_1687837650;m;189;13
 2164;Spesies burung;Bird species;Vogelart;emãhõkãkĩ;15_1687837762;m;189;14
 2165;Spesies pohon;Tree species;Baumart;ema:inãʔá:úa:i;15_1687838004;m;189;15
@@ -1126,7 +1126,7 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 2191;celemek, ikat pinggang;apron , waistband;Schurz, Leibbinde;eĩmĩĩ;15_1688054163;m;191;7
 2195;jenis pisang;type of banana;Bananenart;emĩkãnṍãhã:ĩ;15_1688122814;m;192;1
 2197;telur atau anakan kutu atau serangga parasit lainnya, terutama telur kutu kepala yang menempel pada rambut manusia.;nit;Nisse;emĩkĩõ;15_1688123376;m;192;3
-2198;burung bersenandung;humming-bird;Kolibri;emĩkõ;15_1688123424;m;192;4
+2198;burung Kolibri (hummingbird);humming-bird;Kolibri;emĩkõ;15_1688123424;m;192;4
 2204;palem Areng;Areng palm;Arengpalme;emĩnũmĩnũ;15_1688124475;m;192;10
 2206;Minyak;Oil;Öl;emĩñãʔã;15_1688124911;m;192;12
 2207;Ujung pisau;Knife tip;Messerspitze;emĩũ upakamãĩ;15_1688125085;m;192;13
@@ -1148,7 +1148,7 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 2243;pot tanah;earthen pot;irdener Topf;emũʔṹhũã;10_1689483932;m;195;9
 2245;Kata yang diawali dengan k- dapat diubah menjadi d- , r- atau n- dengan prenasalisasi;Word stems with k- can be changed to d- , r- or n- by prenasalization;Wortstämme mit k- können durch Pränasalierung in d-, r- oder n- verändert werden;n;10_1689484146;n;195;11
 2246;mereka (awalan pronominal untuk orang ketiga jamak);they (pronominal prefix of the 3rd Person Plural.);sie (pronominales Präffix der 3.Pl.);nã-;10_1689484258;n;195;12
-2247;sebelum pernyataan yang mengacu pada waktu di masa depan;before statements referring to times in the future;vor Zeitangaben der Zukunft;nã-;10_1689484421;n;195;13
+2247;digunakan sebelum pernyataan yang mengacu pada waktu di masa depan;before statements referring to times in the future;vor Zeitangaben der Zukunft;nã-;10_1689484421;n;195;13
 2248;mereka (akhiran/sufiks posesif/kepemilikan dari Orang Ketiga Jamak);their (possesive suffix of the 3rd Person Plural);ihr(e) (Possessivsuffix der 3.Pl);-nã;10_1689484729;n;196;1
 2251;setelah itu;afterwards;nachher;nãʔãã;10_1689592732;n;196;5
 2252;seseorang , yang (sg/pl?) kakak laki-lakinya meninggal;someone , whose (sg/pl?) older brother died;jmd, dessen (deren?) älterer Bruder gestorben ist;nãʔãhã:ĩyã;10_1689593555;n;196;6
