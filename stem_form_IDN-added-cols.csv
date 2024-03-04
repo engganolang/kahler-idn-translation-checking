@@ -1160,20 +1160,20 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 2260;Spesies pohon;Tree species;Baumart;enãʔá:úa:i;10_1689597790;n;197;4
 2261;Ibu, ibu mertua;Mother , mother-in-law;Mutter, Schwiegermutter;nãẽ;10_1689598407;n;197;5
 2262;kutu;louse;Laus;enãẽ;10_1689598452;n;197;6
-2264;ibu dari (sg/pl) ..;mother of the (sg/pl)..;Mutter des (der) ..;nãhã ..;10_1689598634;n;197;8
+2264;ibu dari (bentuk tunggal/jamak) ..;mother of the (sg/pl)..;Mutter des (der) ..;nãhã ..;10_1689598634;n;197;8
 2265;rambut halus di dagu;downy hairs of the chin;Flaum(haare) des Kinns;enãhã́õã uporoʔo:ipo;10_1689598717;n;197;9
 2266;"Janda; Istri yang sudah meninggal";"Widow ; Deceased wife";"Witwe; verstorbene Ehefrau";enãhã:õnãhã;10_1689598944;n;197;10
 2267;"Kami (ekslusif; Akhiran/Sufiks posesif/kepemilikan Orang Pertama Jamak eksklusif)";"Our (ex ; Possessive Suffix 1st Person Plural exclusive)";"unser (ex; Possessivsuffix 1.Pl ex)";-nãĩ;10_1689599119;n;197;11
 2268;Janda dari pelaku bigami;Widow(s) of a bigamist;Witwe(n) eines Bigamisten;nãʔĩʔãhã;10_1689599248;n;197;12
-2271;Cord , piece (kata bantu bilangan/numeralia saat menghitung tali manik-manik kaca);Cord , piece (auxiliary count word when counting glass bead cords);Schnur, Stück (Hilfszählwort beim Zählen von Glasperlenschnüren);enãkã;10_1689603451;n;197;15
+2271;utas , sepotong (kata bantu bilangan/numeralia saat menghitung tali manik-manik kaca);Cord , piece (auxiliary count word when counting glass bead cords);Schnur, Stück (Hilfszählwort beim Zählen von Glasperlenschnüren);enãkã;10_1689603451;n;197;15
 2273;Kapan?;When?;wann?;nãkũãnõ;10_1689604258;n;198;2
 2274;Spesies ikan;Fish species;Fischart;enãkũõpõ;10_1689604400;n;198;3
 2275;di malam hari;in the evening;abends;nãmãhã:ũmã;10_1689604475;n;198;4
 2277;besok, keesokan harinya;tomorrow , the following day;morgen, am folgenden Tage;nãmãnĩxõ;10_1689604576;n;198;6
-2278;berselancar;surf;Brandung;enãnãã;10_1689604895;n;198;7
+2278;ombak yang memecah;surf;Brandung;enãnãã;10_1689604895;n;198;7
 2281;ombak laut;surf of the sea;Brandung des Meeres;enãnãkĩ uʔue;10_1689605942;n;198;10
 2282;merentangkan (jaring);stretch out (a net);ausspannen (ein Netz);nãnã́ki;10_1689606013;n;198;11
-2286;akar kompartemen;compartment root;Fachwurzel;enãnĩ;10_1689606843;n;199;4
+2286;akar spesialis;compartment root;Fachwurzel;enãnĩ;10_1689606843;n;199;4
 2288;Gunung kecil, bukit di selatan pulau;Small mountain , hill in the south of the island;kleiner Berg, Hügel im Süden der Insel;Nãnũʔṹã;10_1689607013;n;199;6
 2290;Gurita;Octopus;Tintenfisch;enãpĩʔĩõõ;10_1689608023;n;199;8
 2291;Musang, kucing luwak;Musang , civet cat;Musang, Zibetkatze;enãpĩnãpĩ;10_1689608120;n;199;9
@@ -1190,7 +1190,7 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 2312;Batas terluar dari atrium;The outermost limit of the atrium;die äußerste Grenze des Vorhofes;enẽkãʔã:ə̃nã;17_1688737520;n;200;17
 2317;Terumbu karang;Coral reef;Korallenriff;enẽnãnẽnã;17_1688738332;n;201;3
 2319;berbaris! (bentuk tunggal);line up! (sg);reihe aneinanderǃ;nẽnẽ;17_1688822415;n;201;5
-2331;"Selatan; Musim kemarau (musim hangat)";"South ; Dry season (warm season)";"Süden; Trockenzeit (warme Jahreszeit)";enə̃́ãhã:ĩ;17_1688826410;n;202;11
+2331;"Selatan; Musim kemarau (musim panas)";"South ; Dry season (warm season)";"Süden; Trockenzeit (warme Jahreszeit)";enə̃́ãhã:ĩ;17_1688826410;n;202;11
 2333;Beban bahu;Shoulder load;Schulterlast;enə̃ʔə̃́hə̃;17_1688827047;n;203;2
 2345;-nya, -nya (Akhiran/sufiks posesif/kepemilikan orang ketiga tunggal);his , her (Possessive suffix 3rd singular);sein, ihr (PS 3.Sg);-nĩã;17_1688908935;n;203;14
 2354;gigi seri;incisor;Schneidezahn;enĩnĩ;12_1687753449;n;205;1
@@ -1202,7 +1202,7 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 2366;hati;liver;Leber;enĩũnĩũ;12_1687754575;n;205;13
 2367;"Cara (melakukan); seolah-olah, seakan-akan";"Way (of doing) ; as if , as it were";"Art und Weise; alsob, gleichsam";nõõ;12_1687754773;n;205;14
 2369;sebuah muara sungai di Enggano;a river mouth on Enggano;eine Flußmündung auf Enggano;nõáu;12_1687763663;n;206;1
-2372;limbah, sisa makanan;waste , leftovers;Abfall, Speisereste;enõhãnã;12_1687764112;n;206;4
+2372;sampah, sisa makanan;waste , leftovers;Abfall, Speisereste;enõhãnã;12_1687764112;n;206;4
 2373;Makanan, makanan, makanan tambahan;Food , food , extra food;Nahrung, Speise, Zukost;enõhõ;12_1687764166;n;206;5
 2374;Rasanya;The taste;Geschmack;enõhõã;12_1687764230;n;206;6
 2375;Keranjang sampah yang dianyam dari rotan;Wastebasket woven from rattan;aus Rotan geflochtener Abfallkorb;enõhṍã;12_1687764342;n;206;7
@@ -1210,30 +1210,30 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 2378;tongkat penggali;digging stick;Grabstock;enõĩyãʔã;12_1687765074;n;206;10
 2382;Manik-manik kaca Bugis;Buginesian glass beads;buginesische Glasperlen;enõkĩnõkĩ;12_1687791000;n;207;3
 2386;Pinggul;Hip;Hüfte;enõmõnõmõ;12_1687792183;n;208;1
-2388;bagaimana (terstruktur/alami)?;how (structured/natured)?;wie (beschaffen)?;nõnõ;12_1687792326;n;208;3
+2388;bagaimana (cara memperolehnya)?;how (structured/natured)?;wie (beschaffen)?;nõnõ;12_1687792326;n;208;3
 2390;mangsa;prey;Beute;enõnõkĩ;12_1687792440;n;208;5
 2393;jadi;so;so;nõʔõã́hã;12_1687793135;n;208;8
 2395;teluk;bay;Bucht;enõʔõhṍãʔã;12_1687793637;n;208;10
 2396;sekarang;now;jetzt;nõʔõĩ;12_1687793684;n;208;11
 2397;sebagai berikut, jadi;as follows , so;folgendermaßen, so;nõʔṍ:ĩ́ʔĩẽ;12_1687793898;n;208;12
 2398;sekarang, baru saja;now , just now;jetzt, eben erst;nõʔṍnĩ;12_1687794551;n;208;13
-2400;Lubang musim gugur yang ditutupi dedaunan untuk menangkap babi hutan;Fall pit covered with leaves for the wild boar catch;mit Blättern überdeckte Fallgrube für den Wildschweinfang;enõpõ;12_1687821467;n;209;1
+2400;Lubang perangkap yang ditutupi daun untuk menangkap babi hutan;Fall pit covered with leaves for the wild boar catch;mit Blättern überdeckte Fallgrube für den Wildschweinfang;enõpõ;12_1687821467;n;209;1
 2401;Anda (akhiran/sufiks posesif/kepemilikan orang kedua jamak);Your (possessive suffix 2nd Person Plural);euer (Possessivsuffix 2.Pl);-nũ;12_1687821624;n;209;2
 2405;kecil, sedikit;small , a little;klein, ein wenig;nũkĩ;12_1687822221;n;209;6
 2408;Spesies ikan;Fish species;Fischart;enũkõpũ;12_1687822784;n;209;9
 2416;dia, dia;he , she;er, sie;ñ-;12_1687824359;ñ;210;1
-2417;untuk pergi (pergi);to go (away);(fort)gehen;ñãã;12_1687824410;ñ;210;2
+2417;pergi (menjauh);to go (away);(fort)gehen;ñãã;12_1687824410;ñ;210;2
 2418;posisi, tempat, lokasi;position , place , location;Stelle, Platz, Ort;eñãhã;12_1687824462;ñ;210;3
 2419;Jagung;Corn;Mais;eñãkõ;12_1687824576;ñ;210;4
 2420;membentuk gerund;forms gerunds;bildet Gerundiva;-[C]o;12_1687824865;o;210;1
 2421;simpan! (bentuk tunggal);keep! (sg);bewahre (auf)ǃ;oo;12_1687834033;o;211;1
-2423;anda (bentuk tunggal) (awalan kata ganti sebelum kata kerja dengan b (u) - , m (ũ) -;you (sg) (pronoun prefix before verbs with b (u)- , m (ũ)-;du (Pronominales Präfix vor Verben mit b(u)-, m(ũ)-;ʔo-;12_1687834260;o;211;3
+2423;Anda (bentuk tunggal) (awalan kata ganti sebelum kata kerja dengan b (u) - , m (ũ) -;you (sg) (pronoun prefix before verbs with b (u)- , m (ũ)-;du (Pronominales Präfix vor Verben mit b(u)-, m(ũ)-;ʔo-;12_1687834260;o;211;3
 2424;Anda dan sejenisnya Orang Kedua Jamak;You and the like 2nd Person Plural;ihr dgl 2.Pl;ʔo- ... -aʔa;12_1687834368;o;211;4
 2425;ayo, mulai! (BB: seperti dalam bahasa Inggris ok, ayo, ayo lakukan!);come on , start! (BB: as in ok , go , let's do it!);wohlan, losǃ;ʔoo;12_1687834427;o;211;5
-2427;maka (dapat memperkenalkan klausa utama setelah klausa bersyarat yang tidak mungkin;then (can introduce the main clause following an improbable conditional clause;dann (kann den einem irrealen Konditionalsatz nachgestellten Hauptsatz einleiten);ʔoo;12_1687834812;o;211;7
-2428;jika , jika (memperkenalkan klausa bersyarat yang tidak mungkin , seolah-olah , mungkin (menunjukkan arealis);if , in case (introduces improbable conditional clauses , as if , possibly (denotes arealis);wenn, falls (leitet irreale Konditionalsätze ein, als ob, eventuell (Kennzeichnet Arealis);ʔoo (a-);12_1687834992;o;211;8
+2427;maka (dapat memperkenalkan klausa utama setelah klausa bersyarat yang tidak nyata);then (can introduce the main clause following an improbable conditional clause;dann (kann den einem irrealen Konditionalsatz nachgestellten Hauptsatz einleiten);ʔoo;12_1687834812;o;211;7
+2428;jika, jika (memperkenalkan kalimat bersyarat yang tidak nyata, seolah-olah, mungkin (menunjukkan arealis);if , in case (introduces improbable conditional clauses , as if , possibly (denotes arealis);wenn, falls (leitet irreale Konditionalsätze ein, als ob, eventuell (Kennzeichnet Arealis);ʔoo (a-);12_1687834992;o;211;8
 2429;ya!;yes!;jaǃ;ʔõõ;12_1687835111;o;211;9
-2432;Daging perut (dari babi);Abdominal bacon (of the pig);Bauchspeck (des Schweines);eʔõã;12_1687835599;o;211;12
+2432;Lemak perut (dari babi);Abdominal bacon (of the pig);Bauchspeck (des Schweines);eʔõã;12_1687835599;o;211;12
 2433;uap, kabut, asap;steam , haze , smoke;Dampf, Dunst, Rauch;eoaba;12_1687835797;o;211;13
 2436;Jenis rumput;Grass type;Grasart;eʔoaha:əda;12_1687844088;o;212;1
 2445;Sesekali, sesekali, sesekali;Every now and then , every now and then;hin und wieder, ab und zu;obaʔa;12_1687845906;o;212;10
@@ -1251,7 +1251,7 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 2482;gulma;weed;Unkraut;eoho:uda;19_1688025558;o;217;13
 2483;ohǃ;ohǃ;ohǃ;oi;19_1688025588;o;217;14
 2486;ya;yes;jaǃ;oiʔi;19_1688027116;o;218;1
-2489;melihat (pada) ǃ;look (at) ǃ;sieh (an) ǃ;oka;19_1688028266;o;218;4
+2489;lihatlah ([ke]pada) ǃ;look (at) ǃ;sieh (an) ǃ;oka;19_1688028266;o;218;4
 2490;Kalung yang terbuat dari rambut (wanita), yang merupakan perhiasan berharga di masa lalu;Necklace made of (women's) hair , which was a valuable piece of jewelery in earlier times;Halskette aus (Frauen-)Haar , die in früherer Zeit ein wertvolles Schmuckstück darstellte;eʔokaʔá:ua uudu;19_1688028451;o;218;5
 2492;untuk menertawakan;to laugh at;auslachen;ʔokáha:i;19_1688028694;o;218;7
 2493;berjalan;the walking;das Gehen;eokəya;19_1688028796;o;218;8
@@ -1273,17 +1273,17 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 2522;tempat penyimpanan/penyimpanan;deposit/storage place;Lagerstätte;eʔomãhã:ĩñã;11_1687148669;o;221;9
 2524;Daun (pisang) kering;Dry (banana) leaves;trockene (Bananen-) Blätter;eomeʔeaha:i (uʔido);11_1687148832;o;221;11
 2528;bambu;bamboo;Bambus;eõmõhĩ;11_1687149729;o;222;1
-2529;jatuh, pergi ke bawah;fall , go under;fallen, untergehen;ʔõmõĩ;11_1687149795;o;222;2
+2529;jatuh , binasa/musnah;fall , go under;fallen, untergehen;ʔõmõĩ;11_1687149795;o;222;2
 2532;mangkuk anyaman rotan yang berfungsi sebagai wadah makanan;rattan braided bowl that served as a food container;aus Rotan geflochtene Schale, die als Essensbehälter diente;eonẽkẽ;11_1687150304;o;222;5
 2533;Lihatlah ke belakang, lihatlah ke sekeliling;Look back , look aroundǃ;schau rückwärts, sieh dich umǃ;ʔõnĩ;11_1687150375;o;222;6
 2535;Spesies pohon;Tree species;Baumart;eʔõnõ;11_1687150705;o;222;8
 2537;Keranjang besar untuk menyimpan makanan siap saji, buah-buahan, dll.;Large basket for storing prepared foods , fruits , etc.;großer Korb zum Aufbewahren von zubereiteten Lebensmitteln, Früchten usw;eõnõnĩ;11_1687834090;o;223;2
 2538;bagian belakang lutut;back of the knee;Kniekehle;eʔõnõʔõnõ;11_1687834145;o;223;3
-2543;anda, diri Anda sendiri;you , yourself;du, dich;ʔoʔo;11_1687834759;o;223;8
+2543;Anda, diri Anda sendiri;you , yourself;du, dich;ʔoʔo;11_1687834759;o;223;8
 2545;Ya;Yes;ja;õʔõ;11_1687835114;o;223;10
 2548;leher;neck;Nacken;eʔõʔõ ukahãõ;11_1687835647;o;223;13
 2564;Jenis labu;Pumpkin type;Kürbisart;eʔopa;11_1687846237;o;226;4
-2565;"komunitas klan yang terdiri dari dua klan cabang dari klan utama atau anggota dari dua klan utama; seseorang yang dekat dengan saya";"clan community consisting of two branch clans of a main clan or members of two main clans ; someone close to me";"Sippengemeinschaft, die aus zwei Zweigclans eines Hauptclans oder Angehörigen zweier Hauptclans besteht ; ein mir Nahestehender";[ʔ]opahã:ĩã;11_1687846631;o;226;5
+2565;"Komunitas klan yang terdiri dari dua klan cabang dari klan utama atau anggota dari dua klan utama; kerabat dekat";"clan community consisting of two branch clans of a main clan or members of two main clans ; someone close to me";"Sippengemeinschaft, die aus zwei Zweigclans eines Hauptclans oder Angehörigen zweier Hauptclans besteht ; ein mir Nahestehender";[ʔ]opahã:ĩã;11_1687846631;o;226;5
 2574;lubang di tanah;pit in the ground;Grube in der Erde;eʔopəháha udopo;11_1688355881;o;227;4
 2578;sekali / beberapa waktu yang lalu;once/a while ago;weiland;opoho;11_1688356454;o;227;8
 2583;tikar (daun) (untuk makan);(leaf) mat (for eating);(Blatt)Unterlage (fürs Essen);eopoi;11_1688357328;o;228;4
@@ -1296,19 +1296,19 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 2593;Spesies ikan;Fish species;Fischart;eoro;11_1688358864;o;228;14
 2594;balok lantai rumah;floor beams of the house;Flurbalken des Hauses;eorohéi;9_1684986164;o;229;1
 2595;ngarai;canyon;Schlucht;eoromẽẽ;9_1684986561;o;229;2
-2596;Aliran gunung (di Enggano??);Mountain stream (on Enggano??);Gebirgsbach (auf Enggano??);eoromẽã uboo;9_1684986847;o;229;3
+2596;Aliran pegunungan (di Enggano??);Mountain stream (on Enggano??);Gebirgsbach (auf Enggano??);eoromẽã uboo;9_1684986847;o;229;3
 2597;sabut kelapa berserat;fibrous husk of coconut;faserige Schale der Kokosnuß;eoroya;9_1684987092;o;229;4
 2598;ya;yes;jaǃ;ʔou;9_1684987180;o;229;5
 2600;Spesies pohon dengan buah yang dapat dimakan;Tree species with eadible fruits;Baumart mit eßbaren Früchten;eʔóu;9_1684987479;o;229;7
 2603;betis, kaki bagian bawah;calf , lower leg;Wade, Unterschenkel;epiəpiə;12_1685075532;p;149;5
-2604;Komponen awalan dari kata benda causativum dengan kip(a)-;Component of the prefix of the noun causativum with kip(a)-;Bestandteil des Präfixes des Nomen causativum mit kip(a)-;p(a)-;9_1684987873;p;229;1
-2605;menunjukkan penguatan atau jamak;denotes reinforcement or plural;bezeichnet Verstärkung oder Mehrzahl;pa- + Verbalstamm + -()i;9_1684988081;p;229;2
+2604;Bagian dari awalan kata benda kausatif dengan kip(a)-;Component of the prefix of the noun causativum with kip(a)-;Bestandteil des Präfixes des Nomen causativum mit kip(a)-;p(a)-;9_1684987873;p;229;1
+2605;menunjukkan penekanan atau bentuk jamak;denotes reinforcement or plural;bezeichnet Verstärkung oder Mehrzahl;pa- + Verbalstamm + -()i;9_1684988081;p;229;2
 2606;Sisir (pisang);Comb (bananas);Kamm (Bananen);epãã;9_1684988334;p;229;3
 2607;gigi geraham;molar tooth;Backenzahn;epãã;9_1684988647;p;229;4
 2608;sisi, bagian;side , part;Seite, Teil;epãã;9_1685070678;p;229;5
 2617;Nama laki-laki;Male name;Männername;Paʔa:udiki;9_1685072125;p;230;7
 2618;dipasangkan satu sama lain;paired against each other;paarweise gegeneinander gelegt;paʔã:ũʔũ;9_1685072405;p;230;8
-2619;hati-hati, hati-hati, lembut, tepat;cautious , carefully , gently , exactly;vorsichtig, sorgfältig, behutsam, genau;paʔã́:ṹʔũõ;9_1685072490;p;230;9
+2619;cermat, teliti, hati-hati, tepat;cautious , carefully , gently , exactly;vorsichtig, sorgfältig, behutsam, genau;paʔã́:ṹʔũõ;9_1685072490;p;230;9
 2620;di malam hari;in the evening;abends;pabaha:eba;9_1685072549;p;230;10
 2621;Plasenta, pasca kelahiran;Placenta , post -birth;Placenta, Nachgeburt;epada;9_1685072592;p;230;11
 2625;pasca kelahiran, plasenta;post-birth , placenta;Nachgeburt, Placenta;epade;9_1685073704;p;231;4
@@ -1319,7 +1319,7 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 2636;Plasenta, pasca kelahiran;Placenta , post -birth;Placenta, Nachgeburt;epado;9_1685080630;p;232;4
 2641;anak;child;Kind;epae;9_1685205468;p;233;1
 2642;"jenis rotan; parutan kelapa yang terbuat dari rotan";"rattan type ; coconut grater made of rattan";"Rotanart; Kokosraspel aus Rotan";epáʔe;9_1685205532;p;233;2
-2644;udang karang, udang;crayfish , shrimp;Flußkrebs, Garnele;epã́ẽkã;9_1685205809;p;233;4
+2644;udang karang/lobster air tawar, udang;crayfish , shrimp;Flußkrebs, Garnele;epã́ẽkã;9_1685205809;p;233;4
 2645;kunyit;turmeric;Gelbwurz;epaʔẽnõã;9_1685205875;p;233;5
 2646;Nama laki-laki;Male name;Männername;Paʔẽnũ;9_1685205915;p;233;6
 2648;garpu cabang;branch fork;Astgabelung;epahã́ã́;9_1685206102;p;233;8
@@ -1331,10 +1331,10 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 2654;cabang/ranting;branch/twig;Zweig;epahakábu;9_1685206567;p;233;14
 2655;Nama laki-laki;Male name;Männername;Pahapuaha;9_1685206653;p;233;15
 2658;pagi-pagi sekali;early in the morning;früh morgens;pahã:ũhũmãnã;11_1684987408;p;234;2
-2660;senja (kata kerja) , berada di malam hari;twilight (verb) , to be in the evening;dämmern, abends sein;pahã:ũmã[nã];11_1684988020;p;234;4
+2660;fajar , berada di malam hari;twilight (verb) , to be in the evening;dämmern, abends sein;pahã:ũmã[nã];11_1684988020;p;234;4
 2661;ekor;tail;Schwanz;epahəhai;11_1684988056;p;234;5
 2662;Di pagi hari;In the morning;morgens;pahũmãnã;11_1684988372;p;234;6
-2664;pisau cutter (pisau kasar untuk memotong benda daripada membuat potongan yang presisi);cutter knife (rough knife for hewing things rather than making precise cuts);Haumesser;epáici;11_1684988517;p;234;8
+2664;pisau kasar untuk memotong benda daripada membuat potongan yang presisi;cutter knife (rough knife for hewing things rather than making precise cuts);Haumesser;epáici;11_1684988517;p;234;8
 2666;bara api;embers;Feuerglut;epá:ixa uʔobi;11_1684988751;p;234;10
 2668;Mortir;Mortar;Mörser;epã́ĩxũ;11_1684989076;p;234;12
 2670;Tang, gunting, penjepit;Pliers , scissors , clamp;Zange, Schere, Klemme;epãĩnĩ;11_1684989492;p;234;14
@@ -1361,7 +1361,7 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 2706;Kertas, stempel (ǃ);Paper , stamp (ǃ);Papier, Briefmarke (ǃ);epanãnãũ;11_1685073647;p;237;12
 2707;semak belukar;shrub;Strauch;epãnãpãnã;11_1685073679;p;237;13
 2709;di antara ruang / sela, di antara;in-between-space/interstice , between;Zwischenraum, zwischen;epanã:ũʔũã;11_1685074439;p;238;1
-2710;"Hampir , hampir , sekitar ; mendekatiǃ";"Nearly , nearly , vicinity ; approachǃ";"beinahe, fast, nahe; nähere dichǃ";panẽẽ;11_1685074696;p;238;2
+2710;"Hampir , hampir , sekitar ; mendekatǃ";"Nearly , nearly , vicinity ; approachǃ";"beinahe, fast, nahe; nähere dichǃ";panẽẽ;11_1685074696;p;238;2
 2711;Antara (sementara itu?);Between (in the meantime?);zwischen (Zwischenzeit?);epanõ;11_1685074771;p;238;3
 2715;Hidung;Nose;Nase;epãnũ;11_1685074937;p;238;7
 2716;luka;wound;Wunde;epao;11_1685074990;p;238;8
@@ -1374,24 +1374,24 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 2724;Tempat di pantai selatan pulau;Place on the south coast of the island;Ort an der Südküste der Insel;Papĩnĩ ʔArua;17_1685023692;p;239;1
 2725;Nama laki-laki;Male name;Männername;Papudu;17_1685023767;p;239;2
 2726;Plasenta;Placenta;Placenta;epara;17_1685023888;p;239;3
-2727;tanaman pendakian;climbing plant;Rankpflanze;epára;17_1685023933;p;239;4
+2727;tanaman panjat;climbing plant;Rankpflanze;epára;17_1685023933;p;239;4
 2734;lengan atas;upper arm;Oberarm;eparaha:odi;17_1685025592;p;239;11
-2735;menggantung sesuatu!;hang something up!;hänge etwas aufǃ;paraiaʔa;17_1685025767;p;239;12
-2736;menggantung sesuatu!;hang something up!;hänge etwas aufǃ;paraʔíaʔa;17_1685083616;p;240;1
+2735;gantung sesuatu!;hang something up!;hänge etwas aufǃ;paraiaʔa;17_1685025767;p;239;12
+2736;gantung sesuatu!;hang something up!;hänge etwas aufǃ;paraʔíaʔa;17_1685083616;p;240;1
 2738;Lumpang makanan (dari kayu Merbau);Food mortar (from Merbau-wood);Nahrungsmörser (aus Merbau-Holz);eparáu;17_1685083853;p;240;3
 2742;jenis semut;type of ant;Ameisenart;eparəʔokáʔa;17_1685084273;p;240;7
 2744;Perhiasan untuk daun telinga yang ditindik;Jewelry for the pierced earlobes;Schmuck für die durchlöcherten Ohrläppchen;eparikóho:i;17_1685084581;p;240;9
 2746;Spesies pohon;Tree species;Baumart;eparipupu;17_1685085277;p;240;11
 2750;laut dalam;deep sea;tiefe See;eparoba;17_1685085901;p;241;1
 2751;jenis pisang;type of banana;Bananenart;eparobiki;17_1685086007;p;241;2
-2754;"""Saudara"", sapaan untuk anggota masyarakat desa di antara mereka sendiri; Kawan desa, komunitas";"""Siblings"" , salutation of the members of a village community among themselves ; Village comrade , community";"""Geschwister"", Anrede der Angehörigen einer Dorfgemeinschaft untereinander; Dorfgenosse, -gemeinschaft";eparopãhã:ĩ;17_1685086550;p;241;5
+2754;"""Saudara"", bentuk sapaan untuk anggota masyarakat desa; kawan sekampung, komunitas";"""Siblings"" , salutation of the members of a village community among themselves ; Village comrade , community";"""Geschwister"", Anrede der Angehörigen einer Dorfgemeinschaft untereinander; Dorfgenosse, -gemeinschaft";eparopãhã:ĩ;17_1685086550;p;241;5
 2755;sesama warga desa;fellow-villager;Dorfgenosse;eparopãhã:ĩã;17_1685086740;p;241;6
 2757;kelapa sawit nipah;nipah palm;Nipahpalme;eparopiʔi;17_1685087056;p;241;8
 2758;rahim, rahim;womb , uterus;Gebärmutter, Uterus;eparua;17_1685087101;p;241;9
-2762;Top?;Top?;Oberseite?;eapãũã;17_1685087907;p;241;13
+2762;Sisi atas?;Top?;Oberseite?;eapãũã;17_1685087907;p;241;13
 2763;mempertahankan , melarang , memperdebatkan sesuatuǃ (bentuk tunggal);defend , prohibit , argue about somethingǃ (sg);verteidige, verbiete, streite um etwasǃ;pauahaʔa;17_1685088085;p;241;14
 2765;Spesies pohon;Tree species;Baumart;epaʔukéʔe:i;17_1685107173;p;242;1
-2766;permusuhan, permusuhan;enmity , the enmity;Feindschaft, das Verfeindetsein;epauki;17_1685107273;p;242;2
+2766;permusuhan, menjadi musuh;enmity , the enmity;Feindschaft, das Verfeindetsein;epauki;17_1685107273;p;242;2
 2767;Semak;Shrub;Strauchart;epaʔukuʔei;17_1685107345;p;242;3
 2768;Spesies ikan;Fish species;Fischart;epaʔúoko;17_1685107428;p;242;4
 2771;Akhiran/sufiks pertanyaan/interogatif pada predikat;Question suffix on the predicate;Fragesuffix am Prädikat;-pe;17_1685107962;p;242;7
