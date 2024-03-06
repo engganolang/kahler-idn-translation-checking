@@ -1441,7 +1441,7 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 2888;mengacu pada tindakan permanen, terkadang tindakan patologis yang berlebihan atau kondisi patologis;refers to a permanent , sometimes pathologically exaggerated action or pathological conditions;bezeichnet eine dauernde, zT krankhaft übertriebene Handlung oder krankhafte Zustände;po-;15_1685072567;p;254;4
 2889;Kelapa sawit, kelapa;Coconut palm , coconut;Kokospalme, Kokosnuß;epoo;15_1685073261;p;254;5
 2894;bungkus, tutupi / bungkus!;wrap , cover in/wrap up!;wickle ein, hülle einǃ;podi;15_1685075594;p;255;2
-2897;Gable;Gable;Hausgiebel;epohanũmã uuba;15_1685080851;p;255;5
+2897;Rumah atap pelana;Gable;Hausgiebel;epohanũmã uuba;15_1685080851;p;255;5
 2900;bubungan atap;roof ridge;Dachfirst;epohonũmã;15_1685081918;p;255;8
 2904;Gadis muda, perawan;Young girl , virgin;junges Mädchen, Jungfrau;epoʔinãmõ;15_1685320306;p;256;4
 2905;baru;new;neu;epoʔituda;15_1685320352;p;256;5
@@ -1449,7 +1449,7 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 2908;Spesies ikan kecil;Small fish species;kleine Fischart;epokaredo nũʔũ;15_1685320799;p;256;8
 2910;talas;taro;Taro;epokeʔa;15_1685321231;p;257;1
 2913;Tempat di Enggano;Place in Enggano;Ort auf Enggano;Pokiteo;15_1685321481;p;257;4
-2917;(akan berlangsung) di Darkmoon;(to take place) at Darkmoon;bei Dunkelmond (stattfinden);ponõpõõ;15_1685322261;p;257;8
+2917;saat bulan gelap (berlangsung);(to take place) at Darkmoon;bei Dunkelmond (stattfinden);ponõpõõ;15_1685322261;p;257;8
 2922;semak, jambul (jenis tanaman);bush , tuft (type of plant);Busch, Büschel (Pflanzenart);epṍʔõ:ĩ;15_1685323414;p;257;13
 2924;kupu-kupu;butterfly;Schmetterling;epõʔõpãõ;15_1685324957;p;258;1
 2925;"Jenis pohon; Dengan lekukan yang berfungsi sebagai tangga rumah";"Tree type ; With notches it served as a house staircase";"Baumart; mit Kerben versehen diente er als Haustreppe";epoʔo:udi;15_1685325121;p;258;2
@@ -1468,9 +1468,9 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 2951;"Dapur, area memasak; abu";"Kitchen , cooking area ; ash";"Küche, Kochstelle; Asche";epũʔã;19_1685157357;p;260;6
 2954;Wanita (sekarang ehuda);Woman (now ehuda);Frau (jetzt ehuda);epuʔá:iyo;19_1685157915;p;261;1
 2957;kelapa yang dilubangi sebagai wadah minum;hollowed out coconut as a drinking vessel;ausgehöhlte Kokosnuß als Trinkgefäß;epuáo;19_1685158316;p;261;4
-2959;mandrel, lonjakan;mandrel , spike;Dorn, Stachel;epudadi;19_1685160155;p;261;6
+2959;duri, paku;mandrel , spike;Dorn, Stachel;epudadi;19_1685160155;p;261;6
 2960;Pulau;Island;Insel;epudáu;19_1685160664;p;261;7
-2967;nama yang tepat secara geografis;geographical proper name;geografischer Eigenname;Epudikaha;19_1685196950;p;262;5
+2967;nama tempat geografis;geographical proper name;geografischer Eigenname;Epudikaha;19_1685196950;p;262;5
 2969;rambut kemaluan;pubic hair(s);Schamhaar(e);epudu;19_1685198401;p;263;1
 2971;Rambut;Hair;Haar(e);epududui;19_1685576837;p;263;3
 2972;penis;penis;Penis;epue;19_1685577404;p;263;5
@@ -1485,22 +1485,22 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 3002;Kura-kura;Tortoise;Landschildkröte;epũnũʔṍʔõ:ĩ;8_1685083919;p;266;12
 3003;penis;penis;Penis;epuo;8_1685083984;p;266;13
 3006;tanah liat, tanah liat;clay , clay;Ton, Tonerde;epũpũ;8_1685084370;p;267;2
-3008;"duri , duri; sirip (ǃ , tidak ada dalam epudadi)";"thorn , thorn ; fin (ǃ , absent from epudadi)";"Dorn, Stachel; Flosse (ǃ, fehlt bei epudadi)";epuradi;8_1685084731;p;267;4
+3008;"duri , tulang belakang; sirip (ǃ , tidak ada dalam epudadi)";"thorn , thorn ; fin (ǃ , absent from epudadi)";"Dorn, Stachel; Flosse (ǃ, fehlt bei epudadi)";epuradi;8_1685084731;p;267;4
 3013;lembar / daun;sheet/leaf;Blatt;epuru;8_1685085635;p;267;9
 3014;Rambut kemaluan;Pubic hair;Schamhaare;epuru;8_1685085754;p;267;10
 3015;bulu mata;eyelash;Wimper;epurudubaka;8_1685085829;p;267;11
 3016;Bulu, rambut, bulu, daun;Bristle , hair , feather , leaf;Borste, Haar, Feder, Blatt;epurudui;8_1685086114;p;267;12
 3017;Nama perempuan;Women's name;Frauenname;Puruhíaʔa;8_1685086174;p;268;1
 3019;elang;hawk;Habicht;epurúhui;8_1685086297;p;268;2
-3020;sinar (hewan);ray(s) (animal);Rochen;epurukíoʔo:i;8_1685086422;p;268;3
+3020;sinar (untuk hewan);ray(s) (animal);Rochen;epurukíoʔo:i;8_1685086422;p;268;3
 3021;Daun pohon;Tree leaf;Baumblatt;epurukuo;8_1685086592;p;268;4
-3022;piece (kata bantu bilangan/numeralia untuk papan, kayu, kain);piece (auxiliary count word for boards , wood , cloth);Stück (Hilfszählwort für Bretter, Holz, Stoffe);puʔu;8_1685086967;p;268;6
+3022;bagian (kata bantu bilangan/numeralia untuk papan, kayu, kain);piece (auxiliary count word for boards , wood , cloth);Stück (Hilfszählwort für Bretter, Holz, Stoffe);puʔu;8_1685086967;p;268;6
 3027;Spesies ikan besar;Large fish species;große Fischart;epuʔudu;10_1686139648;p;269;2
 3032;mencukupi , mengisi (waktu) , sesuai;to suffice , fill (time) , correspond;genügen, (Zeit) erfüllen, entsprechen;pũʔũĩnã;10_1686148859;p;269;7
 3033;"Pasangan; Klan; marga";"Couple ; Clan ; clan";"Paar; Sippe; Clan";epuʔũĩñã;10_1686149024;p;269;8
 3034;Klan, klan;Clan , clan;Sippe, Clan;epũʔũĩ́yã;17_1685457136;p;270;1
 3038;Jenis kerang;Mussel type;Muschelart;epuʔupuʔu;17_1685457759;p;270;5
-3039;ekuivalen dengan d;is equivalent with d;ist gleichwertig mit d;r;17_1685517381;r;270;1
+3039;setara dengan D;is equivalent with d;ist gleichwertig mit d;r;17_1685517381;r;270;1
 3040;Kata yang diawali dengan k- dapat diawali dengan d- , r- atau n- dengan prenasalisasi;Word stems with k- can start with d- , r- or n- by prenasalization;Wortstämme mit k- können durch Pränasalierung mit d-, r- oder n- anlauten;r;17_1685517645;r;270;2
 3041;mereka (dengan bentuk tunggal/jamak) (akhiran/sufiks posesif/kepemilikan dari Orang Ketiga Jamak);their (with sg/pl) (possesive suffix of 3rd Person Plural);ihr, ihre (Possessivsuffix 3. Pl);-ra;17_1685517755;r;270;3
 3042;(akhiran/sufiks yang memberi penekanan);(emphasis suffix);(Hervorhebungssuffix);-ra;17_1685517822;r;270;4
@@ -1517,7 +1517,7 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 3121;Sawah basah;Wet rice field;nasses Reisfeld;etawaha;10_1688920169;t;276;5
 3122;cara (melakukan);way (of doing);Art und Weise;tee;10_1689178924;t;276;6
 3129;gigitan sirih;betel bite;Betelbissen;etirii;10_1689179504;t;276;13
-3130;Bagaimana (sebagai perbandingan);How (in comparison);wie (beim Vergleich);too;10_1689179683;t;276;14
+3130;Bagaimana (digunakan dalam perbandingan);How (in comparison);wie (beim Vergleich);too;10_1689179683;t;276;14
 3138;ujung, ujung paling ujung (dari sebuah cabang);tip , extreme end (of a branch);Spite, äußerstes Ende (eines Astes);etoroa;10_1689180777;t;277;6
 3139;melompat! , pergi! , mulai! (bukan kata kerja);hop! , go! , start! (not a verb);husch!, hopp!, los!;tuo;10_1689180816;t;277;7
 3140;"indikator atribut di depan rektum; ini menggantikan artikel tunggal e-";"attribute indicator in front of the rectum ; it replaces the singular article e-";"Attributanzeiger vor dem Rectum; es ersetzt den Singular-Artikel e-";u-;10_1689180940;u;277;1
@@ -1533,11 +1533,11 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 3156;Rumah, wadah, sarang;House , container , nest;Haus, Behälter, Nest;euba;10_1689187473;u;279;4
 3158;Melarang sesuatu! (bentuk tunggal);Prohibit something! (sg);verbiete etwas!;ʔubaha:o;10_1689212024;u;280;2
 3164;Obat-obatan, pengobatan;Medicine , medication;Arznei, Medikament;eʔubéʔe;10_1689221107;u;280;8
-3165;(yang harus dilakukan =) apa yang harus/harus dilakukan;(that to be done =) what should/must be done;(das zu Tuende =) das, was getan werden soll/muß;eʔuboho;10_1689221620;u;280;9
+3165;(yang harus dilakukan =) apa yang seharusnya/harus dilakukan;(that to be done =) what should/must be done;(das zu Tuende =) das, was getan werden soll/muß;eʔuboho;10_1689221620;u;280;9
 3167;hal yang harus dilakukan;the thing to do;das zu Tuende;eʔubúoho;10_1689221857;u;280;11
 3173;kulit, kulit (buah), kulit kayu;skin , peel (of fruits) , bark;Haut, Schale (von Früchten), Rinde;eʔudi;10_1689228151;u;281;4
 3175;Talas (umbi-umbian);Taro (tuber);Taro(knolle);eʔudopo;10_1689228795;u;281;6
-3176;Kepala (rambut);Head (hair);Kopf(haar);eudu;10_1689228909;u;281;7
+3176;(rambut) kepala;Head (hair);Kopf(haar);eudu;10_1689228909;u;281;7
 3180;hulu (dari sebuah sungai);headwaters (of a river);Oberlauf (eines Flusses);eudua;10_1689438417;u;282;4
 3181;jenis semak;type of shrub;Strauchart;eudúadi;10_1689438582;u;282;5
 3182;kelopak mata;eyelid;Augenlid;eʔudubaka;10_1689438741;u;282;6
@@ -1547,19 +1547,19 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 3192;Spesies pohon;Tree species;Baumart;eṹhũã;9_1687443887;u;283;8
 3194;tikus;rat;Ratte;eʔuiʔui;9_1687444092;u;283;10
 3198;leher;neck;Nacken;eukahã́ũ;9_1687444490;u;283;14
-3203;tarik keluar, tarik keluar;pull out , pull away;ziehe heraus, ziehe fortǃ;uki;9_1687445340;u;284;4
+3203;tarik keluar, menarik diri;pull out , pull away;ziehe heraus, ziehe fortǃ;uki;9_1687445340;u;284;4
 3204;Kulit, kupas, kulit kayu;Skin , peel , bark;Haut, Schale, Rinde;eʔuki;9_1687445433;u;284;5
-3207;Baik, pertobatan;Fine , repentance;Geldstrafe, Buße;euko;9_1687446257;u;284;8
+3207;Denda, penebusan;Fine , repentance;Geldstrafe, Buße;euko;9_1687446257;u;284;8
 3208;Tebu;Sugar cane;Zuckerrohr;eũkõ;9_1687446323;u;284;9
 3209;tulang rusuk;rib;Rippe;euku;9_1687446392;u;284;10
 3210;Kentut, perut kembung (flatus ventris);Fart , flatulence (flatus ventris);Furz, Blähung (flatus ventris);eũkũ;9_1687446520;u;284;11
-3211;kemiripan;likeness;Ebenbild;eũkũũ;9_1687446613;u;284;12
+3211;gambar;likeness;Ebenbild;eũkũũ;9_1687446613;u;284;12
 3212;peraturan;regulation;Regelung;eukuʔa;9_1687446652;u;284;13
 3213;Perangkap untuk menangkap babi hutan;Trap to catch wild boar;Falle zum Fangen von Wildschweinen;eukṹʔã;9_1687612982;u;285;1
 3214;bibir;lip;Lippe;eukudipo;9_1687613013;u;285;2
 3215;Racun ikan;Fish poison;Fischgift;eũkṹhũĩ;9_1687613099;u;285;3
 3216;jarum;needle;Nadel;eʔukúi;9_1687613235;u;285;4
-3217;Posting, pasak;Post , stake;Pfosten, Pfahl;eũkũnã;9_1687613542;u;285;5
+3217;pasang, pasak;Post , stake;Pfosten, Pfahl;eũkũnã;9_1687613542;u;285;5
 3218;bibir;lip;Lippe;eukuripo;9_1687613632;u;285;6
 3221;"atau , atau ; saya tidak tahu siapa yang tahu ; mungkin ; apa yang menjadi perhatian (BB: 'etwa' adalah partikel modal yang menekankan kemungkinan)";"or , or ; I don't know who knows ; maybe ; what concerns (BB: 'etwa' is a modal particle that emphasizes a possibility)";"oder, oder etwa; ich weiß nicht, wer weiß; vielleicht etwa; was betrifft";ũmãhã́ũ [a-];9_1687614424;u;285;9
 3223;Merpati liar;Wild pigeon;Wildtaube;eʔũmãõ;9_1687614737;u;285;11
@@ -1569,24 +1569,24 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 3228;Upah, imbalan, hadiah (kata ini diambil dari bahasa dukun [=ʔ]);Wages , remuneration , gift (this word is taken from the dukun language [= ʔ]);Lohn, Vergütung, Gabe (dieses Wort ist der Dukun-Sprache [=ʔ] entnommen);eʔúna;9_1687615377;u;286;3
 3231;semak belukar;shrub;Strauch;e[ʔ]unãʔã́:ṹʔũ;9_1687616102;u;286;6
 3237;Keranjang untuk menyimpan makanan;Basket for storing food;Korb zum Aufbewahren von Nahrungsmitteln;e[ʔ]ũnẽkẽ;9_1687617701;u;287;1
-3242;dada (laki-laki), batang tubuh;(male) chest , torso;(männliche) Brust, Oberkörper;eũnũũ;9_1687618355;u;287;6
+3242;dada (laki-laki), batang tubuh/tubuh bagian atas;(male) chest , torso;(männliche) Brust, Oberkörper;eũnũũ;9_1687618355;u;287;6
 3243;garis pohon (di pantai);tree line (at the beach);Baumgrenze (am Strand);eũnũãnĩ;9_1687618403;u;287;7
 3244;kepiting laut;sea crab;Seekrabbe;eũnũkĩõ;9_1687618497;u;287;8
 3245;Kura-kura;Tortoise;Landschildkröte;eʔũnũʔũnũ;9_1687618842;u;287;9
 3247;babi yang ditangkap sebelum perayaan;pig caught before festivities;vor Festlichkeiten eingefangenes Schwein;eʔúoʔo;9_1687833699;u;288;1
-3249;Jaket;Jacket;Jacke;eũpã;9_1687833869;u;288;3
+3249;Jaket/mantel;Jacket;Jacke;eũpã;9_1687833869;u;288;3
 3253;Pinang;Areca Palm;Arecapalme;eupo;9_1687834559;u;288;7
-3256;pengikatan ujung pada batang tombak;binding of the tip on the spear shaft;Bindung der Spitze am Speerschaft;eupuʔĩ́ãhã:ĩ;9_1687834994;u;289;1
-3258;panji-panji di haluan perahu;the pennants on the bows of the boats;die Wimpel am Bug der Boote;eupurúhui;9_1687835318;u;289;3
+3256;ikatan ujung tombak pada batang tombak;binding of the tip on the spear shaft;Bindung der Spitze am Speerschaft;eupuʔĩ́ãhã:ĩ;9_1687834994;u;289;1
+3258;panji-panji di haluan perahu/kapal;the pennants on the bows of the boats;die Wimpel am Bug der Boote;eupurúhui;9_1687835318;u;289;3
 3259;mekar, putik, bunga;blossom , pistil , flower;Blüte, Blütenstempel, Blume;eupuyo;9_1687835571;u;289;4
 3261;Kepala;Head;Kopf;euru;9_1687835760;u;289;6
-3262;Bagian atas;Upper reaches;Oberlauf;eurua;9_1687835816;u;289;7
+3262;Bagian hulu;Upper reaches;Oberlauf;eurua;9_1687835816;u;289;7
 3263;Spesies pohon;Tree species;Baumart;eurupá:íʔio;9_1687835884;u;289;8
 3264;Spesies ikan;Fish species;Fischart;eʔuʔu;9_1687835936;u;289;9
 3265;Burung hantu;Owl;Eule;eʔuʔu;9_1687835993;u;289;10
 3266;leher, batang, tangkai;neck , stem , stalk;Hals, Stengel, Stiel;eũʔũ;9_1687836340;u;289;11
-3267;pusat;center;Mitte;eũʔũũ;9_1687836872;u;290;1
-3269;(menekankan kata berikut);(emphasizes the following word);(hebt das folgende Wort hervor);ʔuʔuada;9_1687838176;u;290;3
+3267;pusat/bagian tengah;center;Mitte;eũʔũũ;9_1687836872;u;290;1
+3269;(menekankan kata selanjutnya);(emphasizes the following word);(hebt das folgende Wort hervor);ʔuʔuada;9_1687838176;u;290;3
 3270;Akar minum;Drinking root;Trinkwurzel;euʔúae;9_1687838212;u;290;4
 3271;Spesies pohon;Tree species;Baumart;euʔuai;9_1687838257;u;290;5
 3275;Burung hantu;Owl;Eule;euʔuhṹ;9_1687838633;u;291;2
@@ -1594,15 +1594,15 @@ ID;stem_IDN2;stem_EN;stem_DE;stem_form;stem_id;kms_Alphabet;kms_page;kms_entry_n
 3282;(Kata depan untuk tempat istirahat);(Preposition for the place of rest);(Präposition für den Ort der Ruhe);y-;9_1687839309;y;291;2
 3283;jangan lakukan, jangan lakukan! (bentuk tunggal);do not do , refrain! (sg);tu nicht, unterlaßǃ;yádaʔa;9_1687839417;y;291;3
 3284;Jaring ikan;Fishnet;Fischnetz;eyadoo;9_1687839459;y;291;4
-3286;(ke arah) di sini (indikator arah);(towards) here (direction indicator);her (Richtungsanzeiger);yai;9_1687844162;y;291;6
+3286;(ke arah) sini (indikator arah);(towards) here (direction indicator);her (Richtungsanzeiger);yai;9_1687844162;y;291;6
 3287;jangan lakukan, jangan lakukan! (bentuk tunggal);do not do , refrain! (sg);tu nicht, unterlaßǃ;yálaʔa;9_1687844502;y;292;1
 3288;jangan lakukan , menahan diri , tidak/bukan! (bentuk tunggal);do not do , refrain , no/not! (sg);tu nicht, unterlaß, nichtǃ;yáraʔa;9_1687844682;y;292;2
 3289;Pertama, pertama, sebelumnya, sebelumnya, sebelumnya, sebelumnya;First , first , previously , before , in advance;erst, zuerst, vorher, zuvor, vorweg;yáudu;9_1687844733;y;292;3
 3293;muntah;vomit;sich erbrechen, übergeben;kəʔa;15_1687061663;ə;59;3
 3302;yang sesuai (refleksif);the befitting (reflexive);das sich Ziemen;eədaʔa;17_1688263363;ə;61;1
-3307;untuk menakut-nakuti (intr);to scare (intr);erschrecken (intr);ʔədəha;17_1688265256;ə;61;6
-3310;yang (m/n/f) dingin (kata benda);the (m/n/f) cold (noun);d Kalte;eʔə̃hã;17_1688266639;ə;61;9
+3307;menakut-nakuti (intr);to scare (intr);erschrecken (intr);ʔədəha;17_1688265256;ə;61;6
+3310;yang (maskulin/netral/feminin) dingin (kata benda);the (m/n/f) cold (noun);d Kalte;eʔə̃hã;17_1688266639;ə;61;9
 3314;Tantangan;Challenge;Herausforderung;eəhədai;17_1686204193;ə;62;4
 3315;Drum mulut;Mouth drum;Mundtrommel;eə̃hə̃nə̃ã;17_1686204226;ə;62;5
-3319;menghukum!;punish!;bestrafeǃ;əkə;17_1686205950;ə;62;9
+3319;hukum!;punish!;bestrafeǃ;əkə;17_1686205950;ə;62;9
 3325;Pagar;Fence;Zaun;eʔə̃pə̃́ãʔã;17_1686207008;ə;62;15
