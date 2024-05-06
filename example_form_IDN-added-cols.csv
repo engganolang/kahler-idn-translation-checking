@@ -14,10 +14,10 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited
 13	10_1683776956_2	10_1683776956	hoo bukodo	schluckte	swallowed	ditelan	ditelan
 14	10_1683776956_3	10_1683776956	ʔuadodo (iʔioo) uʔubéʔe	ich schlucke Arznei	I swallow medicine	Aku menelan obat	Aku minum (lit. menelan) obat
 15	10_1683776956_4	10_1683776956	kabadodo	etwas verschlucken	to swallow something	untuk menelan sesuatu	menelan sesuatu
-16	10_1683776956_5	10_1683776956	ekodoho	(noun) zu Schluckende	(things) to be swallowed (noun)	(benda) yang ditelan (kata benda)	(benda) yang ditelan
+16	10_1683776956_5	10_1683776956	ekodoho	(noun) zu Schluckende	(things) to be swallowed (noun)	(benda) yang ditelan (kata benda)	(benda) yang ditelan (kata benda)
 17	10_1683776956_6	10_1683776956	ekodəa	(noun) Schlucken , Verschluckensort	swallowing (noun) , place of swallowing	menelan (kata benda) , tempat menelan	(proses) menelan/penelanan , tempat menelan
 18	10_1683776956_7	10_1683776956	eabadodo	das (Ver)Schlucken	the (swallowing)	itu (menelan)	penelanan
-19	10_1683776956_8	10_1683776956	edikodo	(noun) Verschluckte	swallowed (things) (noun)	menelan (benda) (kata benda) (nomina)	(benda) yang ditelan
+19	10_1683776956_8	10_1683776956	edikodo	(noun) Verschluckte	swallowed (things) (noun)	menelan (benda) (kata benda) (nomina)	(benda) yang ditelan (kata benda)
 20	10_1683777395_0	10_1683777395	kikodóki	sie verwendet als Schurz (trockene Bananenblätter)	she used as an apron (dry banana leaves)	yang digunakannya sebagai celemek (daun pisang kering)	Dia menggunakannya sebagai celemek (daun pisang kering)
 21	10_1683777395_1	10_1683777395	eʔokodo	Frauenschurz (aus Glasperlen)	Woman's apron (made of glass beads)	Celemek wanita (terbuat dari manik-manik kaca)	
 22	10_1683777395_2	10_1683777395	kaʔokodo	solch einen Schurz tragen	to wear such an apron	untuk memakai celemek seperti itu	memakai celemek seperti itu
@@ -40,7 +40,7 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited
 39	10_1684204920_4	10_1684204920	kadohe u-	etwas hobeln	to plane something	untuk pesawat sesuatu	menarah/meratakan sesuatu
 40	10_1684204920_5	10_1684204920	kikohéaʔa	etwas mit etwas hobeln	to plane something with something	untuk merencanakan sesuatu dengan sesuatu	menarah/meratakan sesuatu dengan sesuatu (alat)
 41	10_1684204920_6	10_1684204920	eokohe	Hobel	Plane	Pesawat	penarahan/perataan
-42	10_1684204920_7	10_1684204920	edikohe	(noun) Gehobelte	(thing) planed (noun)	(benda) yang direncanakan (kata benda)	(benda) yang ditarah/diratakan
+42	10_1684204920_7	10_1684204920	edikohe	(noun) Gehobelte	(thing) planed (noun)	(benda) yang direncanakan (kata benda)	(benda) yang ditarah/diratakan (kata benda)
 43	10_1684204920_8	10_1684204920	edikohéaʔa	das , womit gehobelt wird	that with which is planed	yang dengan yang direncanakan	(benda) itu, yang digunakan untuk menarah/meratakan (alat menarah/meratakan)
 44	10_1684204920_9	10_1684204920	eadohea	Hobelnsort	place of planing	tempat perencanaan	tempat menarah/meratakan
 45	10_1684205147_0	10_1684205147	ʔua kikohéa	ich gleite ab/aus (wie der ekãmãã-Fisch)	I slide off (like the ekãmãã fish)	Saya meluncur (seperti ikan ekãmãã)	
@@ -101,29 +101,29 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited
 101	10_1684290713_0	10_1684290713	kaʔikoko	rot	red	merah	
 102	10_1684290713_1	10_1684290713	kaʔikoko kikehə́ʔoa	braun , dunkelrot	brown , dark red	coklat, merah tua	
 103	10_1684290713_2	10_1684290713	ʔua kikixo iʔioo uʔobi yaʔikoko	ich erhitze (es) im Feuer , damit/bis es rot ist	I heat (it) in the fire , so/until it is red	Saya memanaskannya di dalam api, jadi / sampai berwarna merah	
-104	10_1684290796_0	10_1684290796	kikokóaʔa:i	rufen	to call	untuk menelepon	
+104	10_1684290796_0	10_1684290796	kikokóaʔa:i	rufen	to call	untuk menelepon	menelepon
 105	10_1684290988_0	10_1684290988	eabapakokodíoho:i	das Schwitzenmachen	the making sweat (noun)	yang membuat berkeringat (kata benda)	
 106	10_1684291251_0	10_1684291251	kipakokoéhe	sich hocken (beim Sitzen) , hocken	to crouch (while sitting) , crouch	berjongkok (sambil duduk) , berjongkok	
 107	10_1684291251_1	10_1684291251	ʔua kipakokoéhe ʔua	ich hocke mich hin	I crouch	Aku berjongkok	
 108	10_1684291251_2	10_1684291251	epahakokoehea	Hockensort	place of squatting	tempat jongkok	
-109	10_1684292624_0	10_1684292624	kikokoi	(herum)gehen	to walk/go around	untuk berjalan/berkeliling	
-110	10_1684292624_1	10_1684292624	hoo bukokoi	ging bereits	Already went	Sudah pergi	
+109	10_1684292624_0	10_1684292624	kikokoi	(herum)gehen	to walk/go around	untuk berjalan/berkeliling	berjalan/berkeliling
+110	10_1684292624_1	10_1684292624	hoo bukokoi	ging bereits	Already went	Sudah pergi	sudah pergi
 111	10_1684292624_2	10_1684292624	kikokóiya	werde gehen	will go	akan pergi	
-112	10_1684292624_3	10_1684292624	epahakokoi	das Gehen	the walking	berjalan	
-113	10_1684292624_4	10_1684292624	kipakokoi	gehen lassen , fragen , übermitteln	let go , question , to transfer	lepaskan, pertanyaan, untuk mentransfer	
+112	10_1684292624_3	10_1684292624	epahakokoi	das Gehen	the walking	berjalan	(proses) berjalan
+113	10_1684292624_4	10_1684292624	kipakokoi	gehen lassen , fragen , übermitteln	let go , question , to transfer	lepaskan, pertanyaan, untuk mentransfer	lepaskan, tanyakan, kirimkan
 114	10_1684292624_5	10_1684292624	kipakokoi eici	etwas mitteilen	tell something	mengatakan sesuatu	
-115	10_1684292624_6	10_1684292624	kokoho:i	gehe auf etwas , begehe!	Walk on something , walk (somewhere)! (sg)	Berjalanlah di atas sesuatu, berjalanlah (di suatu tempat)! (sg)	
+115	10_1684292624_6	10_1684292624	kokoho:i	gehe auf etwas , begehe!	Walk on something , walk (somewhere)! (sg)	Berjalanlah di atas sesuatu, berjalanlah (di suatu tempat)! (sg)	Berjalanlah di atas sesuatu, berjalanlah (di suatu tempat)! (tunggal)
 116	10_1684292624_7	10_1684292624	keabaʔa bukokoHi	wird nicht begangen	is not traversed/walked on/in	tidak dilalui/diinjak/dipijak	
 117	10_1684292624_8	10_1684292624	ʔua kipakokói ʔua pakuru	ich Stehe Kopf	I'm upside down	Aku terbalik	
-118	10_1684292684_0	10_1684292684	kikokoi	verfaulen lassen	to let rot	untuk membiarkan membusuk	
+118	10_1684292684_0	10_1684292684	kikokoi	verfaulen lassen	to let rot	untuk membiarkan membusuk	(mem)biarkan membusuk
 119	10_1684293021_0	10_1684293021	kikokoiya	müde , faul	Tired , lazy	Lelah, malas	
 120	10_1684293021_1	10_1684293021	hoo bukokoiya	bereits müde	already tired	sudah lelah	
 121	10_1684293021_2	10_1684293021	eakokoiya uʔaa	Müdigkeit , Trägheit	tiredness , sluggishness	kelelahan, kelesuan	
 122	10_1684293021_3	10_1684293021	be ikokóiya	weil schwach wird	because becomes weak	karena menjadi lemah	
 123	10_1684293213_0	10_1684293213	kipakokoki	unordentlich herumliegen	lying around untidy	tergeletak tidak rapi	
 124	10_1684293213_1	10_1684293213	edobu eʔana kipakokoki	die Sachen liegen unordentlich herum	things are lying around untidy	barang-barang tergeletak tidak rapi	
-125	10_1684293213_2	10_1684293213	kipakokokíaʔa	unordentlich herumliegen lassen , verstreuen	to leave untidy lying around , to scatter	untuk meninggalkan yang tidak rapi tergeletak di sekitar, untuk menyebarkan	
-126	10_1684293429_0	10_1684293429	kipakokomĩmĩ	spreizen	to spread	untuk menyebar	
+125	10_1684293213_2	10_1684293213	kipakokokíaʔa	unordentlich herumliegen lassen , verstreuen	to leave untidy lying around , to scatter	untuk meninggalkan yang tidak rapi tergeletak di sekitar, untuk menyebarkan	meninggalkan yang tidak rapi tergeletak di sekitar, menyebarkan
+126	10_1684293429_0	10_1684293429	kipakokomĩmĩ	spreizen	to spread	untuk menyebar	menyebar
 127	10_1684294505_0	10_1684294505	kikõkõnã	herauskommen , -gehen , (Gestirne) aufgehen	come out , go out , (stars) rise	keluar, keluar, (bintang) terbit	
 128	10_1684294505_1	10_1684294505	kikõkõnãhã	wird herauskommen	will come out	akan keluar	
 129	10_1684294505_10	10_1684294505	eakõkõnã́hã uhuìu	Rille/Weg des Holzmehls bei der Feuerzubereitung auf der Holzunterlage	Groove/path of the wood flour when preparing the fire on the wooden base	Alur/jalur tepung kayu saat menyiapkan api di atas alas kayu	
@@ -140,64 +140,64 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited
 140	10_1684852282_2	10_1684852282	hoo mũkõkõnĩ	zog bereits heraus	Already pulled out	Sudah ditarik keluar	
 141	10_1684852282_3	10_1684852282	ʔua kikõkõnĩ edudui ukeʔo	ich ziehe den Rotandorn heraus	I pull out the rattan thorn	Saya mencabut duri rotan	
 142	10_1684852282_4	10_1684852282	enĩkõkõnĩ	(noun) Herausgezogene	(things) pulled out (noun)	(benda) ditarik keluar (kata benda)	
-143	10_1684852282_5	10_1684852282	eokõkõnĩ	Herausziehensinstrument	extraction instrument	instrumen ekstraksi	
+143	10_1684852282_5	10_1684852282	eokõkõnĩ	Herausziehensinstrument	extraction instrument	instrumen ekstraksi	alat untuk mengekstraksi
 144	10_1684852282_6	10_1684852282	ekõkõnĩõ	(noun) Herauszuziehende	(things) to be pulled out (noun)	(benda) yang akan ditarik keluar (kata benda)	
-145	10_1684855043_0	10_1684855043	kikokokonĩʔĩ	jmd kitzeln (tr)	tickle someone (tr)	menggelitik seseorang (tr)	
-146	10_1684855043_1	10_1684855043	hoo mũkõkõnĩʔĩ	kitzelte bereits	already tickled	sudah menggelitik	
+145	10_1684855043_0	10_1684855043	kikokokonĩʔĩ	jmd kitzeln (tr)	tickle someone (tr)	menggelitik seseorang (tr)	menggelitik seseorang (transitif)
+146	10_1684855043_1	10_1684855043	hoo mũkõkõnĩʔĩ	kitzelte bereits	already tickled	sudah menggelitik	sudah menggelitik/sudah tergelitik
 147	10_1684855043_2	10_1684855043	kipakõkõnĩʔĩ	kitzeln (ein kitzelndes Gefühl verursachen)	tickle (cause a tickling sensation)	menggelitik (menimbulkan sensasi menggelitik)	
 148	10_1684855043_3	10_1684855043	ekõpẽnẽ kipakõkõnĩʔĩ	die Raupe kitzelt	The caterpillar tickles	Ulat itu menggelitik	
 149	10_1684855043_4	10_1684855043	eokokonĩʔĩ	Mittel zum Kitzeln	means of tickling	sarana menggelitik	
-150	10_1684855043_5	10_1684855043	enĩkõkõnĩʔĩ	(noun) Gekitzelte	tickled (things) (noun)	menggelitik (benda) (kata benda)	
-151	10_1684855043_6	10_1684855043	ekõkõnĩʔĩ́õ	(noun) zu Kitzelnde	(things) to be tickled (noun)	(benda) yang digelitik (kata benda)	
+150	10_1684855043_5	10_1684855043	enĩkõkõnĩʔĩ	(noun) Gekitzelte	tickled (things) (noun)	menggelitik (benda) (kata benda)	(benda) yang digelitik (kata benda)
+151	10_1684855043_6	10_1684855043	ekõkõnĩʔĩ́õ	(noun) zu Kitzelnde	(things) to be tickled (noun)	(benda) yang digelitik (kata benda)	(benda) yang akan digelitik (kata benda)
 152	10_1684855043_7	10_1684855043	ekunĩnĩ	Clitoris	Clitoris	Klitoris	
 153	10_1684978487_0	10_1684978487	kikokopiʔi	schlürfen	slurping	menghirup	
 154	10_1684978487_1	10_1684978487	hoo bukokopiʔi	schlürfte	sipped	menghirup	
-155	10_1684978487_2	10_1684978487	edikokopiʔi	(noun) Geschlürfte	sipped (things) (noun)	menyesap (benda) (kata benda) (kata benda)	
+155	10_1684978487_2	10_1684978487	edikokopiʔi	(noun) Geschlürfte	sipped (things) (noun)	menyesap (benda) (kata benda) (kata benda)	(benda) yang disesap (kata benda)
 156	10_1684978487_3	10_1684978487	ekokopiʔiyo	(noun) zu Schlürfende	(things) to be sipped (noun)	(benda) yang diminum (kata benda)	
 157	10_1684979326_0	10_1684979326	kidikole	es wird auferlegt	It is imposed	Hal ini diberlakukan	
 158	10_1684979326_1	10_1684979326	ekoleka	Schulterlast	Shoulder load	Beban bahu	
 159	10_1684979326_2	10_1684979326	ealole	das Tragen	the wearing	pemakaian	
-160	10_1684980482_0	10_1684980482	kikomã	prüfen , versuchen	to check , try	untuk memeriksa, coba	
+160	10_1684980482_0	10_1684980482	kikomã	prüfen , versuchen	to check , try	untuk memeriksa, coba	memeriksa, mencoba
 161	10_1684980482_1	10_1684980482	kakoomãʔã	laßt uns versuchen!	Let us try!	Mari kita coba!	
-162	10_1685005177_0	10_1685005177	kikõmãʔã	dechseln , mit dem Querbeil arbeiten	adze , work with the axe	adze, bekerja dengan kapak	
-163	10_1685005177_1	10_1685005177	kidikoomãʔã	wird gedechselt	is adzed	adalah adzed	
-164	10_1685005177_2	10_1685005177	edikoomãʔã	(noun) Gedechselte	adzed (things) (noun)	adzed (benda) (kata benda) (kata benda)	
-165	10_1685005177_3	10_1685005177	eanõmãʔã:ə̃ã	Ort , wo man dechselt	place where one adzes	tempat di mana seseorang mengagumi	
-166	10_1685005177_4	10_1685005177	epanõmãʔã	Dechsel , Querbeil	Adze , cross ax	Adze, kapak silang	
-167	10_1685054848_0	10_1685054848	kamãʔĩkõmãʔã	auf Fischreiher ausgehen	to go out after herons	untuk pergi keluar mengejar bangau	
+162	10_1685005177_0	10_1685005177	kikõmãʔã	dechseln , mit dem Querbeil arbeiten	adze , work with the axe	adze, bekerja dengan kapak	kampak, bekerja dengan kapak silang
+163	10_1685005177_1	10_1685005177	kidikoomãʔã	wird gedechselt	is adzed	adalah adzed	dikampak
+164	10_1685005177_2	10_1685005177	edikoomãʔã	(noun) Gedechselte	adzed (things) (noun)	adzed (benda) (kata benda) (kata benda)	(benda) yang dikampak (kata benda)
+165	10_1685005177_3	10_1685005177	eanõmãʔã:ə̃ã	Ort , wo man dechselt	place where one adzes	tempat di mana seseorang mengagumi	tempat di mana seseorang mengampak
+166	10_1685005177_4	10_1685005177	epanõmãʔã	Dechsel , Querbeil	Adze , cross ax	Adze, kapak silang	kampak, kapak silang
+167	10_1685054848_0	10_1685054848	kamãʔĩkõmãʔã	auf Fischreiher ausgehen	to go out after herons	untuk pergi keluar mengejar bangau	pergi keluar mengejar bangau
 168	10_1685056988_0	10_1685056988	kikõmẽ	auf etwas Dünnem (zB einem Tau) gehen , balancieren	to walk on something thin (e.g. a rope) , to balance	berjalan di atas sesuatu yang tipis (misalnya tali), untuk menyeimbangkan	
 169	10_1685056988_1	10_1685056988	kakumõmẽ	er balancierte	He balanced	Dia seimbang	
 170	10_1685056988_2	10_1685056988	eõkõmẽ	das Balancieren , Gehen über eine Brücke	balancing , walking over a bridge	menyeimbangkan, berjalan di atas jembatan	
 171	10_1685056988_3	10_1685056988	ekõmẽã	(Wandelnsort =) Brücke	(Walking place =) bridge	(Tempat berjalan kaki =) jembatan	
 172	10_1685056988_4	10_1685056988	ekõmẽã Kaʔarubi	Schlingpflanze	creeper	menjalar	
-173	10_1685056988_5	10_1685056988	kinĩkõmẽãnii	überbrückt werden , sein	to be bridged	untuk dijembatani	
-174	10_1685056988_6	10_1685056988	karonõmẽaʔa	krabbeln	to crawl	untuk merangkak	
-175	10_1685057088_0	10_1685057088	epakomẽnĩ́ãʔã	Gerüst	Framework	Kerangka kerja	
+173	10_1685056988_5	10_1685056988	kinĩkõmẽãnii	überbrückt werden , sein	to be bridged	untuk dijembatani	dijembatani
+174	10_1685056988_6	10_1685056988	karonõmẽaʔa	krabbeln	to crawl	untuk merangkak	merangkak
+175	10_1685057088_0	10_1685057088	epakomẽnĩ́ãʔã	Gerüst	Framework	Kerangka kerja	bingkai
 176	10_1685070497_0	10_1685070497	ekõmõ ukaʔa	Zahnfleisch	Gums	Gusi	
-177	10_1685070598_0	10_1685070598	ekõmõkõmõ	Schlamm , Morast , Schlick	mud , morass , silt	lumpur, rawa, lumpur	
-178	10_1685071276_0	10_1685071276	kikõmõĩñã	entkommen	to escape	untuk melarikan diri	
-179	10_1685071276_1	10_1685071276	kikõmõĩ́ãʔã	etwas loslassen , freigeben	to let go , to release	untuk melepaskan, untuk melepaskan	
-180	10_1685071276_2	10_1685071276	kikõmõĩñãʔã	jmd entkommen lassen , loslassen , freigeben , abdrücken	let sb escape , let go , release , pull the trigger	biarkan sb melarikan diri, lepaskan, lepaskan, tarik pelatuknya	
+177	10_1685070598_0	10_1685070598	ekõmõkõmõ	Schlamm , Morast , Schlick	mud , morass , silt	lumpur, rawa, lumpur	lumpur, rawa, lumpur
+178	10_1685071276_0	10_1685071276	kikõmõĩñã	entkommen	to escape	untuk melarikan diri	melarikan diri
+179	10_1685071276_1	10_1685071276	kikõmõĩ́ãʔã	etwas loslassen , freigeben	to let go , to release	untuk melepaskan, untuk melepaskan	melepaskan
+180	10_1685071276_2	10_1685071276	kikõmõĩñãʔã	jmd entkommen lassen , loslassen , freigeben , abdrücken	let sb escape , let go , release , pull the trigger	biarkan sb melarikan diri, lepaskan, lepaskan, tarik pelatuknya	biarkan seseorang melarikan diri, lepaskan, lepaskan, tarik pelatuknya
 181	10_1685071276_3	10_1685071276	hoo mũkõmõĩñãʔã	ließ bereits los	Already let go	Sudah lepaskan	
 182	10_1685071276_4	10_1685071276	eakõmõĩñã	das Entkommen	the escape	pelarian	
-183	10_1685071853_0	10_1685071853	kikona hii	auf jmd stoßen , mit jmd zusammentreffen	to bump into sb. , to meet smb	untuk bertemu dengan sb, untuk bertemu dengan smb	
+183	10_1685071853_0	10_1685071853	kikona hii	auf jmd stoßen , mit jmd zusammentreffen	to bump into sb. , to meet smb	untuk bertemu dengan sb, untuk bertemu dengan smb	untuk bertemu/berjumpa dengan seseorang
 184	10_1685071853_1	10_1685071853	ʔua kikṍnã	ich ziele	I aim	Aku bertujuan	
 185	10_1685072187_0	10_1685072187	eakõnãhã	Osten	east	timur	
 186	10_1685072292_0	10_1685072292	kikonaʔa	genau treffen	hit exactly	memukul dengan tepat	
 187	10_1685072477_0	10_1685072477	kikõõnãʔã	Kurs auf etwas nehmen	set course for something	menetapkan arah untuk sesuatu	
-188	10_1685075081_0	10_1685075081	kipiʔikaʔa	ausschütteln	to shake out	untuk mengguncang	
+188	10_1685075081_0	10_1685075081	kipiʔikaʔa	ausschütteln	to shake out	untuk mengguncang	mengguncang
 189	10_1685075644_0	10_1685075644	kahapĩʔĩõ	ein Bündel	a bundle	satu bundel	
 190	10_1685075644_1	10_1685075644	ʔanõhãpĩʔĩõ	zwei Bündel	two bundles	dua bundel	
 191	10_1685080862_0	10_1685080862	kiʔapĩkã	Zwillinge sein	to be twins	menjadi kembar	
-192	10_1685080862_1	10_1685080862	kaʔapĩkã	(Bäume) sich kurz über der Wurzel teilen , so daß zwei Stämme entstehen	(trees) divide just above the root , so that two trunks arise	(pohon) membelah tepat di atas akar, sehingga muncul dua batang	
-193	10_1685081633_0	10_1685081633	kabikabixi	"für jmd beten (das geschieht durch einen Sippenvorsteher , der einen Fisch über dem Körper des Neugeborenen abschuppt mit den Worten: ""Jetzt schuppe ich diesen Fisch über deinem Körper ab , damit dein Atem nicht schwer sei und dein Körper gesund bleibe!"""	"to pray for someone (this is done by a clan leader who scales a fish over the body of the newborn with the words: ""Now I scale this fish over your body , so that your breathing may not be difficult and your body may remain healthy!"""	"untuk mendoakan seseorang (hal ini dilakukan oleh seorang pemimpin suku yang meletakkan sisik ikan di atas tubuh bayi yang baru lahir dengan kata-kata: ""Sekarang saya meletakkan sisik ikan ini di atas tubuhmu, agar pernapasanmu tidak sulit dan tubuhmu tetap sehat!"""	
-194	10_1685081633_1	10_1685081633	kaha babikaKAbixi	gehen , um inständig für jmd zu bitten	go to plead for smb	pergi untuk memohon smb	
-195	10_1685082038_0	10_1685082038	kipiki	auseinander drängen	to push apart	untuk mendorong terpisah	
-196	10_1685082038_1	10_1685082038	ʔua karapikĩ́xĩ	ich zerfetze , reiße in Stücke	I tear to pieces	Aku merobek berkeping-keping	
-197	10_1685082038_2	10_1685082038	kabarápikĩxĩ ʔua	ich werde zerfetzt	I get shredded	Saya mendapatkan abon	
-198	10_1685082334_0	10_1685082334	kipikiaʔa	ausschütteln	to shake out	untuk mengguncang	
-199	10_1685082334_1	10_1685082334	edipikiaʔa	(noun) Ausgeschüttelte	(thing) shaken out (noun)	(benda) terguncang (kata benda)	
-200	10_1685082502_0	10_1685082502	kipikiʔíaʔa	ausschütteln	to shake out	untuk mengguncang	
+192	10_1685080862_1	10_1685080862	kaʔapĩkã	(Bäume) sich kurz über der Wurzel teilen , so daß zwei Stämme entstehen	(trees) divide just above the root , so that two trunks arise	(pohon) membelah tepat di atas akar, sehingga muncul dua batang	(terkait pohon) membelah tepat di atas akar, sehingga muncul dua batang
+193	10_1685081633_0	10_1685081633	kabikabixi	"für jmd beten (das geschieht durch einen Sippenvorsteher , der einen Fisch über dem Körper des Neugeborenen abschuppt mit den Worten: ""Jetzt schuppe ich diesen Fisch über deinem Körper ab , damit dein Atem nicht schwer sei und dein Körper gesund bleibe!"""	"to pray for someone (this is done by a clan leader who scales a fish over the body of the newborn with the words: ""Now I scale this fish over your body , so that your breathing may not be difficult and your body may remain healthy!"""	"untuk mendoakan seseorang (hal ini dilakukan oleh seorang pemimpin suku yang meletakkan sisik ikan di atas tubuh bayi yang baru lahir dengan kata-kata: ""Sekarang saya meletakkan sisik ikan ini di atas tubuhmu, agar pernapasanmu tidak sulit dan tubuhmu tetap sehat!"""	"mendoakan seseorang (hal ini dilakukan oleh seorang pemimpin suku yang meletakkan sisik ikan di atas tubuh bayi yang baru lahir dengan kata-kata: ""Sekarang saya meletakkan sisik ikan ini di atas tubuhmu, agar pernapasanmu tidak sulit dan tubuhmu tetap sehat!"")"
+194	10_1685081633_1	10_1685081633	kaha babikaKAbixi	gehen , um inständig für jmd zu bitten	go to plead for smb	pergi untuk memohon smb	pergi berdoa untuk seseorang
+195	10_1685082038_0	10_1685082038	kipiki	auseinander drängen	to push apart	untuk mendorong terpisah	mendorong memisahkan
+196	10_1685082038_1	10_1685082038	ʔua karapikĩ́xĩ	ich zerfetze , reiße in Stücke	I tear to pieces	Aku merobek berkeping-keping	Aku merobek-robek hingga berkeping-keping
+197	10_1685082038_2	10_1685082038	kabarápikĩxĩ ʔua	ich werde zerfetzt	I get shredded	Saya mendapatkan abon	Aku tercabik-cabik
+198	10_1685082334_0	10_1685082334	kipikiaʔa	ausschütteln	to shake out	untuk mengguncang	mengocok/mengguncang
+199	10_1685082334_1	10_1685082334	edipikiaʔa	(noun) Ausgeschüttelte	(thing) shaken out (noun)	(benda) terguncang (kata benda)	(benda) yang diguncang/terguncang (kata benda)
+200	10_1685082502_0	10_1685082502	kipikiʔíaʔa	ausschütteln	to shake out	untuk mengguncang	mengguncang
 201	10_1685082600_0	10_1685082600	kipikitaʔa	säubern , in Ordnung bringe , jäten (?)	clean , put in order , weed (?)	bersihkan, rapikan, gulma (?)	
 202	10_1685082716_0	10_1685082716	ehũaa upiko	Manggisfrucht	Manggis fruit	Buah manggis	
 203	10_1685082927_0	10_1685082927	kipikoaʔa	(mit den Fingernägeln) nach etwas schnellen , schnipsen , etwas kneifen , (Insekten) beißen ; beißen lassen	to snap (with the fingernails) at something , snap , pinch something , bite (insects) ; let bite	menjentikkan (dengan kuku) pada sesuatu , menjentikkan , mencubit sesuatu , menggigit (serangga); membiarkan menggigit	
