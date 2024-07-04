@@ -180,7 +180,7 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 180	10_1685071276_2	10_1685071276	kikõmõĩñãʔã	jmd entkommen lassen , loslassen , freigeben , abdrücken	let sb escape , let go , release , pull the trigger	biarkan sb melarikan diri, lepaskan, lepaskan, tarik pelatuknya	biarkan seseorang melarikan diri, lepaskan, lepaskan, tarik pelatuknya	
 181	10_1685071276_3	10_1685071276	hoo mũkõmõĩñãʔã	ließ bereits los	Already let go	Sudah lepaskan		
 182	10_1685071276_4	10_1685071276	eakõmõĩñã	das Entkommen	the escape	pelarian		
-183	10_1685071853_0	10_1685071853	kikona hii	auf jmd stoßen , mit jmd zusammentreffen	to bump into sb. , to meet smb	untuk bertemu dengan sb, untuk bertemu dengan smb	untuk bertemu/berjumpa dengan seseorang	
+183	10_1685071853_0	10_1685071853	kikona hii	auf jmd stoßen , mit jmd zusammentreffen	to bump into sb. , to meet smb	untuk bertemu dengan sb, untuk bertemu dengan smb	bertemu/berjumpa dengan seseorang	
 184	10_1685071853_1	10_1685071853	ʔua kikṍnã	ich ziele	I aim	Aku bertujuan		
 185	10_1685072187_0	10_1685072187	eakõnãhã	Osten	east	timur		
 186	10_1685072292_0	10_1685072292	kikonaʔa	genau treffen	hit exactly	memukul dengan tepat		
@@ -822,124 +822,124 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 831	11_1684996533_3	11_1684996533	eamãkãʔã́:ṹãʔã	Wissen	knowledge	pengetahuan		
 832	11_1684996533_4	11_1684996533	eamãkãʔã:ũãʔã:ə̃nã	ihr Wissen	their/her knowledge	pengetahuan mereka		
 833	11_1684996869_0	11_1684996869	kipakahadee	töten , löschen (Feuer)	kill , extinguish (fire)	membunuh, memadamkan (api)		
-834	11_1684996869_1	11_1684996869	edipakahadee	(noun) Getötete	(thing) killed (noun)	(benda) terbunuh (kata benda)		
+834	11_1684996869_1	11_1684996869	edipakahadee	(noun) Getötete	(thing) killed (noun)	(benda) terbunuh (kata benda)	(benda) yang terbunuh (kata benda)	
 835	11_1684996869_2	11_1684996869	eapakahadee	Tötensmittel	means of killing	sarana untuk membunuh		
-836	11_1684996869_3	11_1684996869	eabakahadeea	Tötensort	Kill site	Bunuh situs		
+836	11_1684996869_3	11_1684996869	eabakahadeea	Tötensort	Kill site	Bunuh situs	tempat pembunuhan	
 837	11_1685070458_0	11_1685070458	ipakaraha	im Norden	in the north	di utara		
 838	11_1685070924_0	11_1685070924	kipapãkõ ; kipãpãkõ	(Gliedmaßen) einschlafen	to fall asleep (limbs)	tertidur (anggota badan)		
 839	11_1685070924_1	11_1685070924	eapapãkõ	das Eingeschlafensein	the having falled asleep (noun)	yang tertidur (kata benda)		
 840	11_1685071495_0	11_1685071495	eãpãkũ	1. Anker ; 2. dünnwadiger Holzzylinder , der an einer Seite geschlossen und mit feinen Löchern durchbohrt war , in die Schmuckfedern (eicíaʔa) gesteckt wurden. In ihn wurde das zusammengebundene Haar der Frauen (auch eicíaʔaʔ) teilweise hineingesteckt	1. anchor ; 2. thin-walled wooden cylinder closed on one side and pierced with fine holes into which ornamental feathers (eicíaʔa) were inserted. The women's tied hair (also eicíaʔaʔ) was partially/sometimes inserted into it.	1. jangkar; 2. silinder kayu berdinding tipis yang ditutup di satu sisi dan ditusuk dengan lubang-lubang halus di mana bulu-bulu hias (eicíaʔa) dimasukkan ke dalamnya. Rambut wanita yang diikat (juga eicíaʔaʔ) sebagian/kadang-kadang dimasukkan ke dalamnya.		
 841	11_1685071495_1	11_1685071495	ʔuapakúaʔa	tragt solche Holzzylinderǃ	wear such wooden cylindersǃ (pl)	memakai silinder kayu seperti ituǃ (pl)		
-842	11_1685071762_0	11_1685071762	kaʔapãkũ	niesen	to sneeze	untuk bersin		
+842	11_1685071762_0	11_1685071762	kaʔapãkũ	niesen	to sneeze	untuk bersin	bersin	
 843	11_1685071762_1	11_1685071762	hoo mãʔãpãkũ	nieste bereits	sneezed already	sudah bersin		
-844	11_1685071762_2	11_1685071762	kaʔapãkṹãʔã	zum Niesen bringen , niesen machen	to make sneeze , to make sneeze	untuk membuat bersin, untuk membuat bersin		
-845	11_1685071762_3	11_1685071762	kinãʔãpãkṹãʔã	zum Niesen veranlaßt	made to sneeze	dibuat untuk bersin		
-846	11_1685071762_4	11_1685071762	eaʔapãkũ	das Niesen	the sneezing	bersin		
+844	11_1685071762_2	11_1685071762	kaʔapãkṹãʔã	zum Niesen bringen , niesen machen	to make sneeze , to make sneeze	untuk membuat bersin, untuk membuat bersin	membuat bersin, membuat bersin	
+845	11_1685071762_3	11_1685071762	kinãʔãpãkṹãʔã	zum Niesen veranlaßt	made to sneeze	dibuat untuk bersin	dibuat bersin	
+846	11_1685071762_4	11_1685071762	eaʔapãkũ	das Niesen	the sneezing	bersin	bersin(nya) (kata benda)	
 847	11_1685071762_5	11_1685071762	enãʔãpãkṹãʔã	(noun) zum Niesen Gebrachte	(person) made to sneeze (noun)	(orang) yang dibuat bersin (kata benda)		
 848	11_1685072259_0	11_1685072259	ipakukuha hii ebaka ukahaʔo	jeden Tag	every day	setiap hari		
-849	11_1685072452_0	11_1685072452	kaʔapakũnũñõ	Mitesser haben	to have eating-companions/to have spots	memiliki teman makan / memiliki bintik-bintik		
-850	11_1685072683_0	11_1685072683	e[ʔ]apãmã	Menge , Anzahl , Vielsein , Vielzahl	Amount , number , multitude , variety	Jumlah, jumlah, banyak, variasi		
-851	11_1685072825_0	11_1685072825	éiʔie edopo pamãhã:ũmã	jetzt dämmert es	now it dawns	sekarang sadar		
+849	11_1685072452_0	11_1685072452	kaʔapakũnũñõ	Mitesser haben	to have eating-companions/to have spots	memiliki teman makan / memiliki bintik-bintik	memiliki bintik-bintik/komedo	
+850	11_1685072683_0	11_1685072683	e[ʔ]apãmã	Menge , Anzahl , Vielsein , Vielzahl	Amount , number , multitude , variety	Jumlah, jumlah, banyak, variasi	Jumlah, jumlah, banyak, keragaman	
+851	11_1685072825_0	11_1685072825	éiʔie edopo pamãhã:ũmã	jetzt dämmert es	now it dawns	sekarang sadar	sekarang fajar menyingsing	
 852	11_1685073158_0	11_1685073158	epanãʔã:ũã uhopa upãnũ	Nasenscheidewand	Nasal septum	Septum hidung		
 853	11_1685073534_0	11_1685073534	kipanãkõõ	übereinstimmen , genügen , reichen , erfüllen	agree , suffice , reach , fulfill	setuju, mencukupi, mencapai, memenuhi		
 854	11_1685073534_1	11_1685073534	hoo panãkõõ ehapəʔa udopo	die zeit ist gekommen	the time has come	waktunya telah tiba		
 855	11_1685073534_2	11_1685073534	epanãkõõ	das Genügen	the sufficing	kecukupan		
 856	11_1685073534_3	11_1685073534	epanãkõõ uiji	Einigkeit , das Einigsein	agreement , being in agreement	kesepakatan, berada dalam kesepakatan		
-857	11_1685073534_4	11_1685073534	epanãkõõ ukidei	Einverständnis	Agreement	Perjanjian		
-858	11_1685074372_0	11_1685074372	kipanãũ	sprechen , (be)reden	to speak , to discuss	untuk berbicara, untuk berdiskusi		
+857	11_1685073534_4	11_1685073534	epanãkõõ ukidei	Einverständnis	Agreement	Perjanjian	perjanjian	
+858	11_1685074372_0	11_1685074372	kipanãũ	sprechen , (be)reden	to speak , to discuss	untuk berbicara, untuk berdiskusi	berbicara, berdiskusi	
 859	11_1685074372_1	11_1685074372	hoo panãũ	sprach bereits	already spoke	sudah berbicara		
 860	11_1685074372_10	11_1685074372	epanãũãʔã́hõ	(noun) zu Besprechende	(thing) to be discussed (noun)	(benda) yang akan dibahas (kata benda)		
 861	11_1685074372_11	11_1685074372	epanã́ũã	Ort , wo man spricht	Place where people talk	Tempat di mana orang berbicara		
-862	11_1685074372_2	11_1685074372	kipanãnãũ	dauernd reden	to talk constantly	untuk berbicara terus-menerus		
-863	11_1685074372_3	11_1685074372	kapanãũ ekitai	denken , meinen	to think , mean	untuk berpikir, berarti		
+862	11_1685074372_2	11_1685074372	kipanãnãũ	dauernd reden	to talk constantly	untuk berbicara terus-menerus	berbicara terus-menerus	
+863	11_1685074372_3	11_1685074372	kapanãũ ekitai	denken , meinen	to think , mean	untuk berpikir, berarti	berpikir, berarti	
 864	11_1685074372_4	11_1685074372	kipanãũãʔã	über etwas sprechen	speak about something	berbicara tentang sesuatu		
-865	11_1685074372_5	11_1685074372	kipanãũãʔã:ə̃ã	beraten werden (Futur)	to be advised (future tense)	untuk diberitahu (bentuk waktu yang akan datang)		
+865	11_1685074372_5	11_1685074372	kipanãũãʔã:ə̃ã	beraten werden (Futur)	to be advised (future tense)	untuk diberitahu (bentuk waktu yang akan datang)	diberitahu/disarankan (bentuk waktu yang akan datang)	
 866	11_1685074372_6	11_1685074372	kipaHAnãũãʔã:ə̃ã iʔioo	über etwas sprechen werden	will talk about something	akan berbicara tentang sesuatu		
 867	11_1685074372_7	11_1685074372	epanãnã́ũ	Papier , Buchstabe	paper , letter	kertas, surat		
 868	11_1685074372_8	11_1685074372	eapanãũ	das Sprechen , Rede , Wort	speaking , speech , word	berbicara, ucapan, kata		
-869	11_1685074372_9	11_1685074372	epanãũ ubaha:u	Gedanke	Thought	Pemikiran		
+869	11_1685074372_9	11_1685074372	epanãũ ubaha:u	Gedanke	Thought	Pemikiran	p(em)ikiran	
 870	11_1685074696_0	11_1685074696	panẽẽ i-	nahe bei	close to	dekat dengan		
 871	11_1685074696_1	11_1685074696	euba eʔana panẽẽ i-Malakõnĩ	das Haus (steht) nahe bei Malakõnĩ	the house (is) close to Malakõnĩ	rumah itu (berada) dekat dengan Malakõnĩ		
-872	11_1685074696_2	11_1685074696	kapanẽẽ hii	sich jmd nähern	to approach someone	untuk mendekati seseorang		
+872	11_1685074696_2	11_1685074696	kapanẽẽ hii	sich jmd nähern	to approach someone	untuk mendekati seseorang	mendekati seseorang	
 873	11_1685074696_3	11_1685074696	ʔua hoo panẽẽ kipuʔudaha	ich bin beinahe gefallen	I almost fell	Aku hampir jatuh		
 874	11_1685074696_4	11_1685074696	epanẽẽ	das sich Nähern	the approaching (noun)	yang mendekat (kata benda)		
-875	11_1685074696_5	11_1685074696	eapanẽẽ	das Nahesein , die Nähe	the closeness , the closeness	kedekatan, kedekatan		
-876	11_1685074833_0	11_1685074833	kipanõã	die Hand auf etwas legen	put your hand on something	letakkan tangan Anda pada sesuatu		
-877	11_1685074869_0	11_1685074869	kipanõã	ausstrecken	to reach out/extend	untuk menjangkau/memperluas		
-878	11_1685074907_0	11_1685074907	kipanõõã	überreichen	to hand over	untuk menyerahkan		
-879	11_1685075062_0	11_1685075062	kipaoahaʔa	verbieten	to forbid	untuk melarang		
+875	11_1685074696_5	11_1685074696	eapanẽẽ	das Nahesein , die Nähe	the closeness , the closeness	kedekatan, kedekatan	kedekatan, kedekatan	
+876	11_1685074833_0	11_1685074833	kipanõã	die Hand auf etwas legen	put your hand on something	letakkan tangan Anda pada sesuatu	meletakkan tangan Anda pada sesuatu	
+877	11_1685074869_0	11_1685074869	kipanõã	ausstrecken	to reach out/extend	untuk menjangkau/memperluas	menjangkau/memperluas	
+878	11_1685074907_0	11_1685074907	kipanõõã	überreichen	to hand over	untuk menyerahkan	menyerahkan	
+879	11_1685075062_0	11_1685075062	kipaoahaʔa	verbieten	to forbid	untuk melarang	melarang	
 880	11_1685075378_0	11_1685075378	epapa uiʔo	Gesäßbacke	buttock	pantat		
 881	11_1685428330_0	11_1685428330	ahoo	nachdem	after	setelah		
-882	11_1685428509_0	11_1685428509	adua; ʔakodu; ʔaopa; adoho; ahiu; aici; anə̃kĩ; anõkĩ; ʔapia; apuho	usw	etc	dll		
+882	11_1685428509_0	11_1685428509	adua; ʔakodu; ʔaopa; adoho; ahiu; aici; anə̃kĩ; anõkĩ; ʔapia; apuho	usw	etc	dll	dll.	
 883	11_1685429142_0	11_1685429142	kipəá·ha	werde sehen	will see	akan melihat		
 884	11_1685429142_1	11_1685429142	kipudu·a	werde töten	will kill	akan membunuh		
 885	11_1685429142_2	11_1685429142	kidipudu·a	wird getötet werden	will be killed	akan dibunuh		
 886	11_1685429142_3	11_1685429142	ʔua hoo bupudu·a kia	ich bin bereit , ihn zu töten	I'm ready/prepared to kill him	Saya siap/siap untuk membunuhnya		
-887	11_1685429613_0	11_1685429613	kaa	fortgehen	to go away	untuk pergi		
+887	11_1685429613_0	11_1685429613	kaa	fortgehen	to go away	untuk pergi	pergi	
 888	11_1685429613_1	11_1685429613	hoo mãã	ist gegangen	has gone	telah pergi		
-889	11_1685429613_2	11_1685429613	kixii amãã	wieder gehen	to go again	untuk pergi lagi		
+889	11_1685429613_2	11_1685429613	kixii amãã	wieder gehen	to go again	untuk pergi lagi	pergi lagi	
 890	11_1685429613_3	11_1685429613	eaa	(noun) Gehen	going/walking (noun)	pergi/berjalan (kata benda)		
-891	11_1685430453_0	11_1685430453	eʔaa	Knochen , Gerüst	bone(s) , framework	tulang, kerangka		
+891	11_1685430453_0	11_1685430453	eʔaa	Knochen , Gerüst	bone(s) , framework	tulang, kerangka	tulang, perancah	
 892	11_1685430453_1	11_1685430453	eʔaa uahao	Schläfe	Temple (body part)	Pelipis (bagian tubuh)		
 893	11_1685430453_10	11_1685430453	eʔaa ukabake	Gerippe , Skelett	skeleton	kerangka		
-894	11_1685430453_11	11_1685430453	eʔaa ukaraha	Knochen	Bone (sg/pl)	Tulang (sg/pl)		
+894	11_1685430453_11	11_1685430453	eʔaa ukaraha	Knochen	Bone (sg/pl)	Tulang (sg/pl)	tulang (tunggal/jamak)	
 895	11_1685430453_12	11_1685430453	eʔaa ukĩʔĩ	Unterkiefer	Lower jaw	Rahang bawah		
 896	11_1685430453_13	11_1685430453	eʔaa ukũkã	Rückgrat , Wirbelsäule	Spine , vertebral column	Tulang belakang, kolom tulang belakang		
 897	11_1685430453_14	11_1685430453	eʔaa upoo	Kokosnußschale	Coconut shell	Tempurung kelapa		
 898	11_1685430453_15	11_1685430453	eʔaa uudu [ukabake]	(Toten-)Schädel	(Dead) skull	tengkorak (Mati)		
-899	11_1685430453_16	11_1685430453	eʔaa uuku	Rippen (knochen)	Ribs (bones)	Tulang rusuk (tulang)		
-900	11_1685430453_2	11_1685430453	eʔaa uʔa:iyo	(Fisch-) Gräte	(Fish) bone	tulang (ikan)		
+899	11_1685430453_16	11_1685430453	eʔaa uuku	Rippen (knochen)	Ribs (bones)	Tulang rusuk (tulang)	tulang rusuk	
+900	11_1685430453_2	11_1685430453	eʔaa uʔa:iyo	(Fisch-) Gräte	(Fish) bone	tulang (ikan)	tulang (ikan)	
 901	11_1685430453_3	11_1685430453	eʔaa uʔakaruba	Türpfosten	Doorpost	Tiang pintu		
 902	11_1685430453_4	11_1685430453	eʔaa uãmãhã	Brustbein	Breastbone	Tulang dada		
 903	11_1685430453_5	11_1685430453	eʔaa uʔapo	Armknochen	Arm bone	Tulang lengan		
-904	11_1685430453_6	11_1685430453	eʔaa udahá:uhu	Himmel	sky ; heaven	langit; surga		
-905	11_1685430453_7	11_1685430453	eʔaa udopo itebe	Himmel	sky ; heaven	langit; surga		
-906	11_1685430453_8	11_1685430453	eʔaa uiʔo	Steiß	Rump	Rump		
+904	11_1685430453_6	11_1685430453	eʔaa udahá:uhu	Himmel	sky ; heaven	langit; surga	langit	
+905	11_1685430453_7	11_1685430453	eʔaa udopo itebe	Himmel	sky ; heaven	langit; surga	langit	
+906	11_1685430453_8	11_1685430453	eʔaa uiʔo	Steiß	Rump	Rump	bagian buntuk/belakang	
 907	11_1685430453_9	11_1685430453	eʔaa ukaʔa	Gebiß , Zähne	Denture , Teeth	Gigi tiruan, Gigi		
 908	11_1685430716_0	11_1685430716	kaʔa·nãʔã	laßt uns gehenǃ	Let's goǃ	Mari kita pergi		
-909	11_1685430954_0	11_1685430954	enãmĩ kia	Schau nach ihm ausǃ	Look out for himǃ (sg)	Perhatikan diaǃ (sg)		
-910	11_1685430954_1	11_1685430954	enãmĩãʔã kia	schaut nach ihm ausǃ	Look out for himǃ (pl)	Perhatikan diaǃ (pl)		
+909	11_1685430954_0	11_1685430954	enãmĩ kia	Schau nach ihm ausǃ	Look out for himǃ (sg)	Perhatikan diaǃ (sg)	Perhatikan diaǃ (bentuk tunggal)	
+910	11_1685430954_1	11_1685430954	enãmĩãʔã kia	schaut nach ihm ausǃ	Look out for himǃ (pl)	Perhatikan diaǃ (pl)	Perhatikan diaǃ (bentuk jamak)	
 911	11_1685431014_0	11_1685431014	kipaʔaʔa	zeigen	show	menunjukkan		
-912	11_1685431230_0	11_1685431230	[e]ʔaʔa	ältere Schwester , älterer Bruder , älteres Halbgeschwister ; Schwager , Schwägerin (Anrede des Ehemanns oder der Ehefrau an den älteren Bruder oder die ältere Schwester des Mannes bzw. der Frau)	elder sister , elder brother , elder half-sibling ; brother-in-law , sister-in-law (husband's or wife's address to the husband's or wife's elder brother or sister).	kakak perempuan, kakak laki-laki, saudara tiri laki-laki, saudara tiri perempuan, ipar laki-laki, ipar perempuan (alamat suami atau istri kepada kakak laki-laki atau perempuan suami atau istri).		
-913	11_1685431230_1	11_1685431230	kahoʔaʔa	Pl	Plural	Jamak		
+912	11_1685431230_0	11_1685431230	[e]ʔaʔa	ältere Schwester , älterer Bruder , älteres Halbgeschwister ; Schwager , Schwägerin (Anrede des Ehemanns oder der Ehefrau an den älteren Bruder oder die ältere Schwester des Mannes bzw. der Frau)	elder sister , elder brother , elder half-sibling ; brother-in-law , sister-in-law (husband's or wife's address to the husband's or wife's elder brother or sister).	kakak perempuan, kakak laki-laki, saudara tiri laki-laki, saudara tiri perempuan, ipar laki-laki, ipar perempuan (alamat suami atau istri kepada kakak laki-laki atau perempuan suami atau istri).	kakak perempuan, kakak laki-laki, saudara tiri laki-laki, saudara tiri perempuan, ipar laki-laki, ipar perempuan (sapaan suami atau istri kepada kakak laki-laki atau perempuan suami atau istri).	
+913	11_1685431230_1	11_1685431230	kahoʔaʔa	Pl	Plural	Jamak	bentuk jamak	
 914	11_1685431314_0	11_1685431314	eʔaʔa udobu	das Erbe	the heritage	warisan		
 915	11_1685431384_0	11_1685431384	kiʔaʔakəa	Schwimmen	swimming (noun)	berenang (kata benda)		
-916	11_1685431703_0	11_1685431703	kiʔãʔãkõ	schwimmen	to swim	untuk berenang		
+916	11_1685431703_0	11_1685431703	kiʔãʔãkõ	schwimmen	to swim	untuk berenang	berenang	
 917	11_1685431703_1	11_1685431703	eãʔãkə̃ã	Schwimmplatz ; Schwimmittel	swimming place ; swimming means	tempat berenang; sarana berenang		
-918	11_1685431703_2	11_1685431703	kiʔãʔãkṍʔõ:ĩ	auf etwas schwimmen	to swim on something	untuk berenang di atas sesuatu		
-919	11_1685431703_3	11_1685431703	ʔua kiʔãʔãkõʔõ:ĩ ekuo	ich schwimme auf einem Baum(stamm)	I swim/am swimming on a tree(trunk)	Saya berenang/sedang berenang di atas pohon (batang)		
+918	11_1685431703_2	11_1685431703	kiʔãʔãkṍʔõ:ĩ	auf etwas schwimmen	to swim on something	untuk berenang di atas sesuatu	berenang di atas sesuatu	
+919	11_1685431703_3	11_1685431703	ʔua kiʔãʔãkõʔõ:ĩ ekuo	ich schwimme auf einem Baum(stamm)	I swim/am swimming on a tree(trunk)	Saya berenang/sedang berenang di atas pohon (batang)	Saya berenang/sedang berenang di atas (batang) pohon	
 920	11_1685432114_0	11_1685432114	eʔamakóko	Walddämon	forest demon	setan hutan		
 921	11_1685497982_0	11_1685497982	e[ʔ]abeha eʔadə́ai	Bambusart	bamboo species	spesies bambu		
-922	11_1685497982_1	11_1685497982	e[ʔ]abeha eõmõhĩ	Bambusart	Bamboo species	Spesies bambu		
+922	11_1685497982_1	11_1685497982	e[ʔ]abeha eõmõhĩ	Bambusart	Bamboo species	Spesies bambu	spesies bambu	
 923	11_1685497982_2	11_1685497982	e[ʔ]abeha ebõ	Bambus als Wasserbehälter	bamboo as a water container	bambu sebagai wadah air		
 924	11_1685498127_0	11_1685498127	abə́hadaʔa	lediglich ; schließlich	merely ; finally	hanya; akhirnya		
 925	11_1685498127_1	11_1685498127	kaʔabəha	beendet , fertig sein	finished , be finished	selesai, selesai		
-926	11_1685498127_2	11_1685498127	eaʔabəha	(noun) Beendetsein	beeing-finished (noun)	menjadi-jadi (kata benda)		
+926	11_1685498127_2	11_1685498127	eaʔabəha	(noun) Beendetsein	beeing-finished (noun)	menjadi-jadi (kata benda)	yang telah selesai, akhir (kata benda)	
 927	11_1685498175_0	11_1685498175	kabia	es gab , war vorhanden	there was , was present	ada, hadir		
 928	11_1685498307_0	11_1685498307	eábiàbi kaʔapaʔápa epũ̀nũ	Orchidee	Orchid	Anggrek		
-929	11_1685498307_1	11_1685498307	eábiàbi epúko ukòyo	Liane	Vine	Vine		
+929	11_1685498307_1	11_1685498307	eábiàbi epúko ukòyo	Liane	Vine	Vine	Liana	
 930	11_1685498537_0	11_1685498537	kabuhui	tun	do	melakukan		
-931	11_1685498970_0	11_1685498970	kabúe	fließen , strömen , herausquellen , -treten	to flow , to stream , to ooze out , to protrude	mengalir, mengalir, mengalir keluar, menonjol		
+931	11_1685498970_0	11_1685498970	kabúe	fließen , strömen , herausquellen , -treten	to flow , to stream , to ooze out , to protrude	mengalir, mengalir, mengalir keluar, menonjol/menjorok		
 932	11_1685498970_1	11_1685498970	kabue epitu	es tritt heraus das Gummi	the rubber comes out	karet keluar		
 933	11_1685498970_2	11_1685498970	kabue eʔũmõʔõ	es tritt heraus der Schweiß	the sweat comes out	keringat keluar		
 934	11_1685498970_3	11_1685498970	kababue	es quillt hervor	it oozes	itu merembes		
 935	11_1685498970_4	11_1685498970	dababue	sie bluten	they bleed	mereka berdarah		
-936	11_1685498970_5	11_1685498970	kaha:uda kabue ekiaki iʔiõõnã	die Frauen menstruieren	the women menstruate	wanita menstruasi		
-937	11_1685499169_0	11_1685499169	kiʔabuki	jmd für sich einnehmen , sympathisch sein	to win someone over , to be likeable	untuk memenangkan hati seseorang, untuk menjadi disukai		
+936	11_1685498970_5	11_1685498970	kaha:uda kabue ekiaki iʔiõõnã	die Frauen menstruieren	the women menstruate	wanita menstruasi	wanita itumenstruasi	
+937	11_1685499169_0	11_1685499169	kiʔabuki	jmd für sich einnehmen , sympathisch sein	to win someone over , to be likeable	untuk memenangkan hati seseorang, untuk menjadi disukai	memenangkan hati seseorang, menjadi disukai	
 938	11_1685499169_1	11_1685499169	epaʔabuki	Sympathie , das für sich Einnehmen	sympathy , the winning someone over	simpati, memenangkan hati seseorang		
-939	11_1685499169_2	11_1685499169	kipəhai buʔabuki	es verstehen , jmd für sich einzunehmen	to know how to win sb. over	untuk mengetahui bagaimana cara memenangkan sb. atas		
+939	11_1685499169_2	11_1685499169	kipəhai buʔabuki	es verstehen , jmd für sich einzunehmen	to know how to win sb. over	untuk mengetahui bagaimana cara memenangkan sb. atas	mengetahui bagaimana cara memenangkan (hati) seseorang atas sesuatu hal	
 940	11_1685499169_3	11_1685499169	epaʔabuki	Versammlung (ǃ)	Assembly (ǃ)	Perakitan (ǃ)		
 941	11_1685499427_0	11_1685499427	eada ubeduʔu	Bootsbesatzung	Boat crew	Awak kapal		
 942	11_1685499427_1	11_1685499427	eaʔada	Geburt , Gebären ; Kind(er) Haben	Birth , Giving-Birth (noun) ; The having of a child/children (noun)	Kelahiran , Melahirkan (kata benda); memiliki anak/anak (kata benda)		
 943	11_1685499427_2	11_1685499427	kabaʔada	ein Kind , Kinder haben	having a child , children	memiliki anak , anak-anak		
 944	11_1685499427_3	11_1685499427	hoo baʔaʔada	bereits Kinder haben	to already have children	sudah memiliki anak		
 945	11_1685499498_0	11_1685499498	ádaʔa epuru ubaba	so groß wie die Blätter der (ML) birah	As large as the leaves of the (ML) birah	Sebesar daun (ML) birah		
-946	11_1685499651_0	11_1685499651	kadeo yai	Kurs nehmen auf , sich begeben nach	To set course for , to go to	Untuk mengatur arah , untuk pergi ke		
-947	11_1685499909_0	11_1685499909	kadəda	umziehen , den Wohnort wechseln , ein neues Dorf anlegen	to move , to change one's place of residence , to create a new village	untuk pindah, untuk mengubah tempat tinggal seseorang, untuk membuat desa baru		
-948	11_1685499909_1	11_1685499909	eadəda	(noun) Umziehen usw	Moving , etc.	Memindahkan, dll.		
+946	11_1685499651_0	11_1685499651	kadeo yai	Kurs nehmen auf , sich begeben nach	To set course for , to go to	Untuk mengatur arah , untuk pergi ke	menentukan arah tujuan , pergi ke	
+947	11_1685499909_0	11_1685499909	kadəda	umziehen , den Wohnort wechseln , ein neues Dorf anlegen	to move , to change one's place of residence , to create a new village	untuk pindah, untuk mengubah tempat tinggal seseorang, untuk membuat desa baru	pindah, mengubah tempat tinggal seseorang, membuat desa baru	
+948	11_1685499909_1	11_1685499909	eadəda	(noun) Umziehen usw	Moving , etc.	Memindahkan, dll.	pemindahan	
 949	11_1685499909_2	11_1685499909	eadədáha	Umziehensort , neuer Wohnort	Place of relocation , new place of residence	Tempat relokasi, tempat tinggal baru		
-950	11_1685499983_0	11_1685499983	yaʔadəha	es ist wie beschaffen?	how is it natured/structured?	bagaimana sifat/strukturnya?		
-951	11_1685500220_0	11_1685500220	kadi	antworten	to reply	untuk membalas		
+950	11_1685499983_0	11_1685499983	yaʔadəha	es ist wie beschaffen?	how is it natured/structured?	bagaimana sifat/strukturnya?	seperti apa rasanya?	
+951	11_1685500220_0	11_1685500220	kadi	antworten	to reply	untuk membalas	membalas/menjawab	
 952	11_1685500220_1	11_1685500220	kadia	wird antworten	will answer	akan menjawab		
 953	11_1685500220_2	11_1685500220	ʔubadixa	ich werde beantworten	I will answer	Aku akan menjawab		
 954	11_1685500220_3	11_1685500220	hoo badi	antwortete	replied	menjawab		
@@ -957,18 +957,18 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 966	11_1685500735_4	11_1685500735	eaʔado	(noun) Spüren , Betasten	Feeling , touching	Merasa, menyentuh		
 967	11_1685500735_5	11_1685500735	edado	das Gespürte (das , was schmerzt)	that which is felt (that which hurts)	apa yang dirasakan (apa yang menyakitkan)		
 968	11_1685500735_6	11_1685500735	edado ukaka eʔana eʔapodia	das Gespürte jenes Menschen ist seine Hand	that which is felt of that person is his hand.	yang dirasakan dari orang itu adalah tangannya.		
-969	11_1685500921_0	11_1685500921	kiʔado	antworten	to answer	untuk menjawab		
+969	11_1685500921_0	11_1685500921	kiʔado	antworten	to answer	untuk menjawab	menjawab	
 970	11_1685500921_1	11_1685500921	eahaʔado	das Antworten	the answering	jawabannya		
 971	11_1685500921_2	11_1685500921	epaʔadóho:i	(noun) Beantworten	the answering	jawabannya		
 972	11_1685501040_0	11_1685501040	adoho	wie?	how?	bagaimana?		
 973	11_1685501040_1	11_1685501040	iʔadohóha	wieso?	why?	kenapa?		
 974	11_1685501206_0	11_1685501206	ʔadua ekaka	(2x20=) vierzig	(2x20=) forty	(2x20=) empat puluh		
-975	11_1685501206_1	11_1685501206	kipaʔadua	verdoppeln	to double	untuk menggandakan		
+975	11_1685501206_1	11_1685501206	kipaʔadua	verdoppeln	to double	untuk menggandakan	menggandakan	
 976	11_1685501301_0	11_1685501301	kabaduhe	den Oberkörper abwechselnd vor- und zurückbeugen	bend the upper body backwards and forwards alternately	tekuk tubuh bagian atas ke belakang dan ke depan secara bergantian		
-977	11_1686116299_0	11_1686116299	kadə́həa	erzählen	to tell	untuk memberitahu		
-978	11_1686116541_0	11_1686116541	kaədəhə́aʔa	anklagen	to accuse	untuk menuduh		
-979	11_1686116541_1	11_1686116541	kaudəhə́aʔa	jmd beschuldigen	to accuse sb.	untuk menuduh sb.		
-980	11_1686116541_2	11_1686116541	kakidə́həa	beschuldigen	to accuse	untuk menuduh		
+977	11_1686116299_0	11_1686116299	kadə́həa	erzählen	to tell	untuk memberitahu	memberitahu	
+978	11_1686116541_0	11_1686116541	kaədəhə́aʔa	anklagen	to accuse	untuk menuduh	menuduh	
+979	11_1686116541_1	11_1686116541	kaudəhə́aʔa	jmd beschuldigen	to accuse sb.	untuk menuduh sb.	menuduh seseorang	
+980	11_1686116541_2	11_1686116541	kakidə́həa	beschuldigen	to accuse	untuk menuduh	menuduh	
 981	11_1686116933_0	11_1686116933	hoo dəhəda	bereits beendet , fertig	already finished , finished	sudah selesai, selesai		
 982	11_1686116933_1	11_1686116933	kadəhəda	nachdem	after	setelah		
 983	11_1686116933_2	11_1686116933	kadəhəda	beendet , fertig , vergangen sein	to be finished/past	akan selesai/lalu		
@@ -976,63 +976,63 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 985	11_1686116933_4	11_1686116933	edəhədaha	Beendigung	finishing (noun)	finishing (kata benda)		
 986	11_1686116933_5	11_1686116933	e[h]adəhəda	das Ende	the end	akhir		
 987	11_1686117052_0	11_1686117052	kixii badəkədai ʔika uici	wir werden das Gespräch wieder auf etwas anderes bringen	we will bring the conversation back to something else	kami akan membawa percakapan kembali ke hal lain		
-988	11_1686117110_0	11_1686117110	kipadəpaʔa	wecken	to wake up	untuk bangun		
+988	11_1686117110_0	11_1686117110	kipadəpaʔa	wecken	to wake up	untuk bangun	bangun	
 989	11_1686117644_0	11_1686117644	kadidíaʔa	weit , ausgedehnt , groß	wide , expansive , large	lebar, luas, besar		
 990	11_1686117644_1	11_1686117644	ekaʔudára eiʔie kadidiáʔa	dies Dorf ist groß	this village is big	desa ini besar		
 991	11_1686117644_2	11_1686117644	ipakuápa kadidiàʔa	auf dem (in den Wald führenden) Weg , der frei (=baumlos) ist	on the path (leading into the forest) that is free (= treeless)	di jalan setapak (yang mengarah ke hutan) yang bebas (= tanpa pohon)		
 992	11_1686117697_0	11_1686117697	kididixo	weit , geräumig	wide , spacious	lebar, luas		
-993	11_1686117773_0	11_1686117773	kididixoi	etwas umwickeln	to wrap something	untuk membungkus sesuatu		
+993	11_1686117773_0	11_1686117773	kididixoi	etwas umwickeln	to wrap something	untuk membungkus sesuatu	membungkus sesuatu	
 994	11_1686117846_0	11_1686117846	kididika	fleißig	industrious	rajin		
 995	11_1686117846_1	11_1686117846	hoo didika	bereits fleißig	already industrious	sudah rajin		
-996	11_1686117920_0	11_1686117920	kipadidika	einander kreuzen	cross each other	saling menyeberang satu sama lain		
+996	11_1686117920_0	11_1686117920	kipadidika	einander kreuzen	cross each other	saling menyeberang satu sama lain	saling menyilang satu sama lain	
 997	11_1686117975_0	11_1686117975	kipadidika	verwickelt , verworren	entangled , tangled	terjerat, kusut		
-998	11_1686118305_0	11_1686118305	kididiki	einwickeln , umwickeln , umwinden , verwirren	to wrap , to entwine , to tangle up	untuk membungkus, membelit, menjerat		
-999	11_1686118305_1	11_1686118305	kidididiki	umwickelt werden	to be wrapped	untuk dibungkus		
-1000	11_1686118305_2	11_1686118305	kididikiaʔa	mit etwas umwickeln , verwirren	to wrap with something , to tangle	untuk membungkus dengan sesuatu , untuk kusut		
-1001	11_1686118305_3	11_1686118305	kipadidiki	einander umwickeln	to wrap each other	untuk membungkus satu sama lain		
+998	11_1686118305_0	11_1686118305	kididiki	einwickeln , umwickeln , umwinden , verwirren	to wrap , to entwine , to tangle up	untuk membungkus, membelit, menjerat	membungkus, membelit, menjerat	
+999	11_1686118305_1	11_1686118305	kidididiki	umwickelt werden	to be wrapped	untuk dibungkus	dibungkus	
+1000	11_1686118305_2	11_1686118305	kididikiaʔa	mit etwas umwickeln , verwirren	to wrap with something , to tangle	untuk membungkus dengan sesuatu , untuk kusut	membungkus dengan sesuatu , kusut	
+1001	11_1686118305_3	11_1686118305	kipadidiki	einander umwickeln	to wrap each other	untuk membungkus satu sama lain	membungkus satu sama lain	
 1002	11_1686118305_4	11_1686118305	ekadii kipadidikA	das Tau ist verworren	the rope is tangled	talinya kusut		
-1003	11_1686118305_5	11_1686118305	kipadidikíaʔa	etwas verwickeln , verwirren	to entangle something , to confuse	untuk menjerat sesuatu , untuk membingungkan		
-1004	11_1686118305_6	11_1686118305	ehadidíki	(noun) Umwickeln	to wrap (noun)	untuk membungkus (kata benda)		
+1003	11_1686118305_5	11_1686118305	kipadidikíaʔa	etwas verwickeln , verwirren	to entangle something , to confuse	untuk menjerat sesuatu , untuk membingungkan	menjerat sesuatu , membuat bingung	
+1004	11_1686118305_6	11_1686118305	ehadidíki	(noun) Umwickeln	to wrap (noun)	untuk membungkus (kata benda)	bungkus(an) (kata benda)	
 1005	11_1686118305_7	11_1686118305	epadidiki	Umwickelnsmittel	Wrapping material/tool	Bahan/alat pembungkus		
-1006	11_1686118305_8	11_1686118305	edididiki	(noun) Umwickelte , Eingewickelte	wrapped (person/object) (noun)	dibungkus (orang/benda) (kata benda) (kata benda)		
+1006	11_1686118305_8	11_1686118305	edididiki	(noun) Umwickelte , Eingewickelte	wrapped (person/object) (noun)	dibungkus (orang/benda) (kata benda) (kata benda)	(orang/benda) yang dibungkus	
 1007	11_1686118305_9	11_1686118305	eididiki	Umwickelnsmittel	Wrapping material/tool	Bahan/alat pembungkus		
 1008	11_1686118389_0	11_1686118389	abadidikoʔaʔa edopo	wenn der Abend dämmert	when the evening dawns	ketika malam menjelang		
 1009	11_1686118616_0	11_1686118616	kididio	sich in etwas verw̱irren , sich verirrt haben	to get lost in something , to have lost one's way.	tersesat dalam sesuatu, tersesat di jalan.		
 1010	11_1686118616_1	11_1686118616	hoo budidio	verw̱irrte sich bereits	already got lost	sudah tersesat		
-1011	11_1686118616_2	11_1686118616	edidioa	Ort , wo man sich in etwas verwirrt	place where one gets confused in something	tempat di mana seseorang menjadi bingung dalam sesuatu		
+1011	11_1686118616_2	11_1686118616	edidioa	Ort , wo man sich in etwas verwirrt	place where one gets confused in something	tempat di mana seseorang menjadi bingung dalam sesuatu	tempat di mana seseorang menjadi bingung akan sesuatu	
 1012	11_1686118980_0	11_1686118980	kidixi	rupfen , auszupfen , jäten ; roden	to pluck up , pluck out , weed ; to clear.	mencabut, mencabut, menyiangi; membersihkan.		
 1013	11_1686118980_1	11_1686118980	hoo budixi	rupfte bereits	already plucked	sudah dipetik		
-1014	11_1686118980_2	11_1686118980	edidixi	(noun) Gerupfte	Plucked	Dipetik		
-1015	11_1686118980_3	11_1686118980	eidixi	Instrument zum Rupfen	Instrument for plucking	Instrumen untuk memetik		
-1016	11_1686118980_4	11_1686118980	edixio	(noun) zu Rupfende	to be plucked (noun)	dipetik (kata benda)		
-1017	11_1686118980_5	11_1686118980	edixiʔo	"(""das zu Säubernde"" =) das Rodeland"	"(""the thing to be cleared"" =) the Rodeland"	"(""hal yang harus dibersihkan"" =) Rodeland"		
+1014	11_1686118980_2	11_1686118980	edidixi	(noun) Gerupfte	Plucked	Dipetik	yang dipetik/yang terpetik (kata benda)	
+1015	11_1686118980_3	11_1686118980	eidixi	Instrument zum Rupfen	Instrument for plucking	Instrumen untuk memetik	alat untuk memetik	
+1016	11_1686118980_4	11_1686118980	edixio	(noun) zu Rupfende	to be plucked (noun)	dipetik (kata benda)	yang dipetik (kata benda)	
+1017	11_1686118980_5	11_1686118980	edixiʔo	"(""das zu Säubernde"" =) das Rodeland"	"(""the thing to be cleared"" =) the Rodeland"	"(""hal yang harus dibersihkan"" =) Rodeland"	"(""hal yang harus dibersihkan"" =) lahan terbuka/yang dibuka"	
 1018	11_1686118980_6	11_1686118980	edixíʔio	"(""das zu Rodende"" =) Grundbesitz , Gebiet der Clans"	"(""the land to be cleared"" =) landed property , territory of the clans"	"(""tanah yang akan dibuka"" =) tanah milik, wilayah marga"		
 1019	11_1686118980_7	11_1686118980	eahadixi	das Jäten	the weeding	penyiangan		
-1020	11_1686119085_0	11_1686119085	edixia uboo	Wasserquelle (danach benannt die Sippe Karixia uboo)	water source (the clan Karixia uboo is named after it)	sumber air (klan Karixia uboo dinamai menurut namanya)		
-1021	11_1686119135_0	11_1686119135	kabaʔadixika	sich bemühen	to strive	untuk berjuang		
-1022	11_1686119879_0	11_1686119879	kipadixoʔíaʔa	durcheinanderrühren	to stir things up	untuk mengaduk-aduk		
+1020	11_1686119085_0	11_1686119085	edixia uboo	Wasserquelle (danach benannt die Sippe Karixia uboo)	water source (the clan Karixia uboo is named after it)	sumber air (klan Karixia uboo dinamai menurut namanya)	sumber air (nama klan Karixia uboo dinamai menurut arti kata ini)	
+1021	11_1686119135_0	11_1686119135	kabaʔadixika	sich bemühen	to strive	untuk berjuang	berjuang	
+1022	11_1686119879_0	11_1686119879	kipadixoʔíaʔa	durcheinanderrühren	to stir things up	untuk mengaduk-aduk	Mengaduk-aduk	
 1023	11_1686119879_1	11_1686119879	edipadixoʔíaʔa	das Durcheinandergerührte	the jumbled up (noun)	yang bercampur aduk (kata benda)		
 1024	11_1686119879_2	11_1686119879	epadixoʔíaʔa	Mittel zum Durcheinanderrühren	means for stirring up	sarana untuk mengaduk		
-1025	11_1686119945_0	11_1686119945	kipadixopi	etwas behutsam tun	to do something gently	untuk melakukan sesuatu dengan lembut		
+1025	11_1686119945_0	11_1686119945	kipadixopi	etwas behutsam tun	to do something gently	untuk melakukan sesuatu dengan lembut	melakukan sesuatu dengan lembut	
 1026	11_1686120024_0	11_1686120024	eidarika	Fleiß	diligence	ketekunan		
 1027	11_1686120024_1	11_1686120024	kididika	fleißig	diligent	rajin		
-1028	11_1686120167_0	11_1686120167	kipadikaʔa	widerstehen , Widerstand leisten	to resist , to offer resistance to	untuk menolak, untuk menawarkan perlawanan terhadap		
-1029	11_1686120167_1	11_1686120167	edipadikaʔa	das , wogegen man Widerstand leistet	that which is resisted	apa yang ditolak		
+1028	11_1686120167_0	11_1686120167	kipadikaʔa	widerstehen , Widerstand leisten	to resist , to offer resistance to	untuk menolak, untuk menawarkan perlawanan terhadap	menolak, menawarkan perlawanan terhadap	
+1029	11_1686120167_1	11_1686120167	edipadikaʔa	das , wogegen man Widerstand leistet	that which is resisted	apa yang ditolak	hal yang ditolak	
 1030	11_1686120167_2	11_1686120167	epahadika?a:əa	Widerstehensort	place of resistance	tempat perlawanan		
 1031	11_1686120278_0	11_1686120278	ediko ukiʔadobu	Schwanzfeder des Hahns	Tail feather of the cock	Bulu ekor ayam jantan		
 1032	11_1686120278_1	11_1686120278	ediko uʔaháe	Schwansfedern des Papageis	tail feathers of the parrot	bulu ekor burung beo		
-1033	11_1686120503_0	11_1686120503	adio	welche(r ,s) auch immer	whichever	yang mana		
-1034	11_1686120632_0	11_1686120632	kadiodio	spitz	pointed	menunjuk		
-1035	11_1686120690_0	11_1686120690	kadipa	sich entfalten	to unfold	untuk mengungkap		
+1033	11_1686120503_0	11_1686120503	adio	welche(r ,s) auch immer	whichever	yang mana	yang mana saja	
+1034	11_1686120632_0	11_1686120632	kadiodio	spitz	pointed	menunjuk	(me)runcing	
+1035	11_1686120690_0	11_1686120690	kadipa	sich entfalten	to unfold	untuk mengungkap	mengungkap	
 1036	11_1686120690_1	11_1686120690	padipa	entfalte etwasǃ	unfold somethingǃ	membuka sesuatuǃ		
 1037	11_1686120764_0	11_1686120764	kipadipa	Vögel mit einer Schlinge fangen	catching birds with a snare	menangkap burung dengan jerat		
 1039	11_1686121318_0	11_1686121318	doo eʔixa	als ob	as if	seolah-olah		
 1040	11_1686121318_1	11_1686121318	kidoo	sein wie etwas , nach Art von etwas sein	to be like something , to be after the manner of something	menjadi seperti sesuatu , menjadi seperti cara sesuatu		
-1041	11_1686121653_0	11_1686121653	kidobiaʔa	etwas kräuseln	to ruffle something	untuk mengacak-acak sesuatu		
-1042	11_1686121653_1	11_1686121653	edobiaʔa	das Kräuseln	to ruffle (noun)	mengacak-acak (kata benda)		
-1043	11_1686121653_2	11_1686121653	kidobika	(Haar) gekräuselt	(hair) crimped	(rambut) berkerut		
+1041	11_1686121653_0	11_1686121653	kidobiaʔa	etwas kräuseln	to ruffle something	untuk mengacak-acak sesuatu	mengacak-acak sesuatu	
+1042	11_1686121653_1	11_1686121653	edobiaʔa	das Kräuseln	to ruffle (noun)	mengacak-acak (kata benda)	pengacak-acakan	
+1043	11_1686121653_2	11_1686121653	kidobika	(Haar) gekräuselt	(hair) crimped	(rambut) berkerut	keriting	
 1044	11_1686122277_0	11_1686122277	kapəhai badobu	wir dürfen als Schmuck benutzen	we may use as an ornament	dapat kita gunakan sebagai ornamen		
-1045	11_1686122277_1	11_1686122277	aʔadobuaʔa	schmückt euchǃ	adorn yourselves!	menghiasi dirimu!		
+1045	11_1686122277_1	11_1686122277	aʔadobuaʔa	schmückt euchǃ	adorn yourselves!	menghiasi dirimu!	hiasi dirimu!	
 1046	11_1686122277_2	11_1686122277	eaʔadobu	das sich Schmüken ; das Beschenken	adorning oneself (noun) ; the gifting	menghiasi diri sendiri (kata benda); pemberian		
 1047	11_1686122277_3	11_1686122277	edadobu	das als Schmuck Benutzte	that which is used as an ornament	yang digunakan sebagai ornamen		
 1048	11_1686122277_4	11_1686122277	kiparobuki	jmd beschenken	to make sb. a present	untuk membuat sb. hadiah		
