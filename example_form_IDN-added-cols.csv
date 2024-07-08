@@ -1403,10 +1403,10 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 1419	12_1683772576_0	12_1683772576	kaha:əka	Waise	Orphan	Yatim piatu		
 1420	12_1683774116_0	12_1683774116	kipakahã́ũpã	(mit der Hand) umschließen	to enclose (with the hand)	untuk melingkupi (dengan tangan)	melingkupi sesuatu (dengan tangan)	
 1421	12_1683776248_0	12_1683776248	kahə́aʔa	fange mit dem Schleppnetz!	catch with a trawl!	menangkap dengan pukat!		
-1422	12_1683776248_1	12_1683776248	kabadahə́aʔa	ein Netz spannen	to stretch a net	untuk meregangkan jaring		
+1422	12_1683776248_1	12_1683776248	kabadahə́aʔa	ein Netz spannen	to stretch a net	untuk meregangkan jaring	meregangkan jaring	
 1423	12_1683776248_2	12_1683776248	eara:əaʔaʔa	das Netzespannen	the stretching of the net	peregangan jaring		
-1424	12_1683776366_0	12_1683776366	kikahəaʔa	spannen (tr)	to stretch (tr)	untuk meregangkan (tr)		
-1425	12_1683776366_1	12_1683776366	kabarahəaʔa	etwas spannen	to stretch something	untuk meregangkan sesuatu		
+1424	12_1683776366_0	12_1683776366	kikahəaʔa	spannen (tr)	to stretch (tr)	untuk meregangkan (tr)	meregangkan (transitif)	
+1425	12_1683776366_1	12_1683776366	kabarahəaʔa	etwas spannen	to stretch something	untuk meregangkan sesuatu	meregangkan sesuatu	
 1426	12_1683777180_0	12_1683777180	ekahíoʔo ehuda	Witwe	widow	janda		
 1427	12_1683777738_0	12_1683777738	kaho[ʔ]aʔa	ältere Geschwister	older brothers and sisters	saudara laki-laki dan perempuan yang lebih tua		
 1428	12_1683777738_1	12_1683777738	kahoʔamã	die Väter	fathers	ayah		
@@ -1425,14 +1425,14 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 1442	12_1684221058_3	12_1684221058	kidikai	ergriffen werden	to be seized	untuk disita		
 1443	12_1684221058_4	12_1684221058	epahakai	das Ergreifen	the seizing (noun)	perebutan (kata benda)		
 1444	12_1684221058_5	12_1684221058	ekaiya	Ergreifensort	place of seizing	tempat penyitaan		
-1445	12_1684221058_6	12_1684221058	edikai	(noun) Ergriffene	seized (things) (noun)	menyita (benda) (kata benda) (kata benda)		
+1445	12_1684221058_6	12_1684221058	edikai	(noun) Ergriffene	seized (things) (noun)	menyita (benda) (kata benda) (kata benda)	(benda) yang disita (kata benda)	
 1446	12_1684222989_0	12_1684222989	pakaʔĩ́õhõ:ĩ	geschmackvoll , gut angeordnet	tasteful , well arranged	berselera tinggi, diatur dengan baik		
-1447	12_1684222989_1	12_1684222989	kipakakaʔĩõhõ:ĩ	(Früchte) dicht sitzen	(fruits) densely seated	(buah-buahan) duduk dengan padat		
+1447	12_1684222989_1	12_1684222989	kipakakaʔĩõhõ:ĩ	(Früchte) dicht sitzen	(fruits) densely seated	(buah-buahan) duduk dengan padat	(buah-buahan) terkumpul (lit. duduk) rapat/padat	
 1448	12_1684226706_0	12_1684226706	Kaʔitora Kakəhua	Name eines Subclans	Name of a subclan	Nama submarga		
 1449	12_1684226706_1	12_1684226706	Kaʔitora kapúhua udipo	Name eines Subclans	Name of a subclan	Nama submarga		
 1450	12_1684226706_2	12_1684226706	Kaʔitora kakabaedo	Name eines Subclans	Name of a subclan	Nama submarga		
 1451	12_1684226706_3	12_1684226706	Kaʔitora kakedokedo	Name eines Subclans	Name of a subclan	Nama submarga		
-1452	12_1684227230_0	12_1684227230	ekaka kaʔao	Tote(r)	dead (person/people)	meninggal (orang/orang)		
+1452	12_1684227230_0	12_1684227230	ekaka kaʔao	Tote(r)	dead (person/people)	meninggal (orang/orang)	(orang yang sudah) meninggal	
 1453	12_1684227230_1	12_1684227230	ekaka kude mõhõ	Fremde(r)	Stranger(s)	Orang asing		
 1454	12_1684227230_2	12_1684227230	kaha:iʔ ekaka	zwanzig	twenty	dua puluh		
 1455	12_1684227230_3	12_1684227230	ʔadua ekaka	vierzig	forty	empat puluh		
@@ -1442,89 +1442,89 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 1459	12_1684227989_3	12_1684227989	eakadio eiʔie kakakanãkã	dieses Tau ist straff	this rope is taut	tali ini kencang		
 1460	12_1684227989_4	12_1684227989	anə̃kĩ yakãkã	ziehe es strammǃ	pull it tautǃ	tarik dengan kencangǃ		
 1461	12_1684227989_5	12_1684227989	kakakakãkã	stark gespannt , sehr gestrafft	very taut , very taut	sangat kencang, sangat kencang		
-1462	12_1684227989_6	12_1684227989	kipakãkã	etwas spannen , straffen	to tighten/stretch something	untuk mengencangkan/meregangkan sesuatu		
-1463	12_1684227989_7	12_1684227989	edipakãkã	(noun) Gespannte	stretched/tightened (things) (noun)	membentang/mengencang (benda) (kata benda) (kata benda)		
-1464	12_1684227989_8	12_1684227989	ekanãkãhã	Ort , wo etwas gespannt ist	place , where something is stretched/tensed	tempat , di mana sesuatu diregangkan / tegang		
-1465	12_1684228230_0	12_1684228230	kikakaʔa:i	hämmern	to hammer	untuk palu		
+1462	12_1684227989_6	12_1684227989	kipakãkã	etwas spannen , straffen	to tighten/stretch something	untuk mengencangkan/meregangkan sesuatu	mengencangkan/meregangkan sesuatu	
+1463	12_1684227989_7	12_1684227989	edipakãkã	(noun) Gespannte	stretched/tightened (things) (noun)	membentang/mengencang (benda) (kata benda) (kata benda)	(benda) yang membentang/mengencang (kata benda)	
+1464	12_1684227989_8	12_1684227989	ekanãkãhã	Ort , wo etwas gespannt ist	place , where something is stretched/tensed	tempat , di mana sesuatu diregangkan / tegang	tempat , di mana sesuatu diregangkan / ditegangkan	
+1465	12_1684228230_0	12_1684228230	kikakaʔa:i	hämmern	to hammer	untuk palu	memalu (yaitu memukul menggunakan palu)	
 1466	12_1684228230_1	12_1684228230	epakakaʔa:i	Holzhammer	wooden mallet	palu kayu		
-1467	12_1684228747_0	12_1684228747	kipakakabúʔui	(Früchte) dicht sitzen	(Fruits) sit close together	(Buah-buahan) duduk berdekatan		
+1467	12_1684228747_0	12_1684228747	kipakakabúʔui	(Früchte) dicht sitzen	(Fruits) sit close together	(Buah-buahan) duduk berdekatan	(buah-buahan) terkumpul (lit. duduk) berdekatan	
 1468	12_1684228747_1	12_1684228747	ehṹã kipakakabúʔui	die Früchte (sind gut angeordnet =) sitzen dicht	the fruits (are well arranged =) sit close together	buahnya (tersusun dengan baik =) duduk berdekatan		
 1469	12_1684229182_0	12_1684229182	kikakadi	zwirnen , drehen (ein Tau) ; sich umdrehen	to twist , twist (a rope) ; to turn around	memelintir, memelintir (tali); berbalik		
-1470	12_1684229182_1	12_1684229182	kadadadi	etwas zwirnen , drehen (ein Tau)	to twist something , spin (a rope)	untuk memelintir sesuatu , memutar (tali)		
+1470	12_1684229182_1	12_1684229182	kadadadi	etwas zwirnen , drehen (ein Tau)	to twist something , spin (a rope)	untuk memelintir sesuatu , memutar (tali)	memelintir sesuatu , memutar (tali)	
 1471	12_1684229182_2	12_1684229182	kixii baradadi	wieder zwirnen	twist again	memutar lagi		
 1472	12_1684229182_3	12_1684229182	eakadio	das Tau	the rope	tali		
-1473	12_1684229182_4	12_1684229182	kikakaríaʔa	sich umdrehen	to turn around	untuk berbalik		
-1474	12_1684229182_5	12_1684229182	kipakakaríaʔa	etwas umdrehen , etwas sich um die eigene Achse drehen lassen	to turn something around , to let something rotate on its own axis	untuk membalikkan sesuatu, membiarkan sesuatu berputar pada porosnya sendiri		
-1475	12_1684229182_6	12_1684229182	edipakaríaʔa	(noun) Umgewendete	converted/turned around (things) (noun)	diubah/dibalikkan (benda) (kata benda) (kata benda)		
+1473	12_1684229182_4	12_1684229182	kikakaríaʔa	sich umdrehen	to turn around	untuk berbalik	berbalik	
+1474	12_1684229182_5	12_1684229182	kipakakaríaʔa	etwas umdrehen , etwas sich um die eigene Achse drehen lassen	to turn something around , to let something rotate on its own axis	untuk membalikkan sesuatu, membiarkan sesuatu berputar pada porosnya sendiri	membalikkan sesuatu, membiarkan sesuatu berputar pada porosnya sendiri	
+1475	12_1684229182_6	12_1684229182	edipakaríaʔa	(noun) Umgewendete	converted/turned around (things) (noun)	diubah/dibalikkan (benda) (kata benda) (kata benda)	(benda) yang diubah/dibalikkan (kata benda)	
 1476	12_1684229556_0	12_1684229556	kakakadio	rund	round	bulat		
-1477	12_1684229556_1	12_1684229556	kipakakadio	einen Kreis bilden	to form a circle	untuk membentuk lingkaran		
-1478	12_1684229556_2	12_1684229556	kipakakaliə	etwas umschreiten , umkreisen	to go around something , circle around	untuk mengitari sesuatu , mengitari		
-1479	12_1684229697_0	12_1684229697	kakakadodi	rund , flachrund (wie Teller usw)	round , flat round (like plates etc)	bulat, bulat datar (seperti piring, dll)		
-1480	12_1684229697_1	12_1684229697	kipakakarodi	einen Kreis bilden	to form a circle	untuk membentuk lingkaran		
+1477	12_1684229556_1	12_1684229556	kipakakadio	einen Kreis bilden	to form a circle	untuk membentuk lingkaran	membentuk lingkaran	
+1478	12_1684229556_2	12_1684229556	kipakakaliə	etwas umschreiten , umkreisen	to go around something , circle around	untuk mengitari sesuatu , mengitari	mengitari sesuatu , mengitari	
+1479	12_1684229697_0	12_1684229697	kakakadodi	rund , flachrund (wie Teller usw)	round , flat round (like plates etc)	bulat, bulat datar (seperti piring, dll)	bulat, bulat datar (seperti piring, dll.)	
+1480	12_1684229697_1	12_1684229697	kipakakarodi	einen Kreis bilden	to form a circle	untuk membentuk lingkaran	membentuk lingkaran	
 1481	12_1684229697_2	12_1684229697	dapakakadodi	sie bilden einen Kreis um sie	they form a circle around her	mereka membentuk lingkaran di sekelilingnya		
-1482	12_1684229958_0	12_1684229958	kipakakaha	auseinander rühren	to stir apart	untuk mengaduk terpisah		
-1483	12_1684231494_0	12_1684231494	kikakarai	(ver)folgen , verjagen , jagen ; fortziehen (intr)	(follow) , to chase away , to hunt ; to move away (intr)	(mengikuti) , mengusir , memburu ; menjauh (intr)		
+1482	12_1684229958_0	12_1684229958	kipakakaha	auseinander rühren	to stir apart	untuk mengaduk terpisah	mengaduk rata	
+1483	12_1684231494_0	12_1684231494	kikakarai	(ver)folgen , verjagen , jagen ; fortziehen (intr)	(follow) , to chase away , to hunt ; to move away (intr)	(mengikuti) , mengusir , memburu ; menjauh (intr)	mengikuti/melacak , mengusir , memburu ; menjauh (intr)	
 1484	12_1684231494_1	12_1684231494	ʔua kikakarai ebeo eʔana	ich verjage den Hund	I (will) chase the dog away	Saya (akan) mengusir anjing itu		
 1485	12_1684231494_2	12_1684231494	kabukakaraixa kia	er jagte sie fort	he chased her away	dia mengusirnya pergi		
-1486	12_1684231494_3	12_1684231494	edikakarai	(noun) Fortgejagte	(things) chased away (noun)	(benda) diusir (kata benda)		
-1487	12_1684231494_4	12_1684231494	kakareica (?)	zu erlangen trachten	seek to attain	berusaha untuk mencapai		
-1488	12_1684232034_0	12_1684232034	kikakaríaʔa	sich umdrehen	to turn oneself (around one's own axis)	untuk memutar diri sendiri (di sekitar porosnya sendiri)		
-1489	12_1684232034_1	12_1684232034	kipakakaríaʔa	etwas umdrehen , rotieren lassen	to turn something over , to make it rotate	untuk membalikkan sesuatu , untuk membuatnya berputar		
-1490	12_1684232034_2	12_1684232034	edipakaríaʔa	(noun) Umgewendete	inverted (things) (noun)	terbalik (benda) (kata benda) (kata benda)		
-1491	12_1684233137_0	12_1684233137	kikaki	hobeln (mit dem Haumesser)	planing (with the knife)	merencanakan (dengan pisau)		
-1492	12_1684233137_1	12_1684233137	hoo bukaki	hobelte bereits	already planed	sudah direncanakan		
-1493	12_1684233137_10	12_1684233137	edikakíaʔa	das zum Hobeln Gebrauchte	that which is used for planing	yang digunakan untuk perencanaan		
-1494	12_1684233137_2	12_1684233137	kakiyaʔa	hobeltǃ	plane! (pl)	pesawat! (pl)		
-1495	12_1684233137_3	12_1684233137	kidikaki	wird gehobelt	is planed	direncanakan		
-1496	12_1684233137_4	12_1684233137	karaki u-	etwas hobeln	to plane something	untuk pesawat sesuatu		
-1497	12_1684233137_5	12_1684233137	kikakíaʔa	etwas zum Hobeln gebrauchen	to use something for planing	menggunakan sesuatu untuk perencanaan		
-1498	12_1684233137_6	12_1684233137	edikaki	(noun) Gehobelte	(things) planed (noun)	(hal) yang direncanakan (kata benda)		
-1499	12_1684233137_7	12_1684233137	eakaki	Hobelinstrument	Planing instrument	Instrumen perencanaan		
-1500	12_1684233137_8	12_1684233137	earaki	das Hobeln	the planing	perencanaan		
-1501	12_1684233137_9	12_1684233137	earakia	Hobelnsort	planing site	situs perencanaan		
-1502	12_1684289817_0	12_1684289817	kakãkĩ	etwas fort- , mitreißen	to tear something away	untuk merobek sesuatu		
+1486	12_1684231494_3	12_1684231494	edikakarai	(noun) Fortgejagte	(things) chased away (noun)	(benda) diusir (kata benda)	(benda) yang diusir (kata benda)	
+1487	12_1684231494_4	12_1684231494	kakareica (?)	zu erlangen trachten	seek to attain	berusaha untuk mencapai	berusaha keras untuk mencapai	
+1488	12_1684232034_0	12_1684232034	kikakaríaʔa	sich umdrehen	to turn oneself (around one's own axis)	untuk memutar diri sendiri (di sekitar porosnya sendiri)	memutar diri sendiri (di sekitar porosnya sendiri)	
+1489	12_1684232034_1	12_1684232034	kipakakaríaʔa	etwas umdrehen , rotieren lassen	to turn something over , to make it rotate	untuk membalikkan sesuatu , untuk membuatnya berputar	membalikkan sesuatu , membuatnya berputar	
+1490	12_1684232034_2	12_1684232034	edipakaríaʔa	(noun) Umgewendete	inverted (things) (noun)	terbalik (benda) (kata benda) (kata benda)	(benda) yang dibalik/terbalik (kata benda)	
+1491	12_1684233137_0	12_1684233137	kikaki	hobeln (mit dem Haumesser)	planing (with the knife)	merencanakan (dengan pisau)	menyerut (dengan pisau cangkul)	
+1492	12_1684233137_1	12_1684233137	hoo bukaki	hobelte bereits	already planed	sudah direncanakan	sudah diserut	
+1493	12_1684233137_10	12_1684233137	edikakíaʔa	das zum Hobeln Gebrauchte	that which is used for planing	yang digunakan untuk perencanaan	yang digunakan untuk menyerut	
+1494	12_1684233137_2	12_1684233137	kakiyaʔa	hobeltǃ	plane! (pl)	pesawat! (pl)	serut! (bentuk jamak)	
+1495	12_1684233137_3	12_1684233137	kidikaki	wird gehobelt	is planed	direncanakan	diserut	
+1496	12_1684233137_4	12_1684233137	karaki u-	etwas hobeln	to plane something	untuk pesawat sesuatu	menyerut sesuatu	
+1497	12_1684233137_5	12_1684233137	kikakíaʔa	etwas zum Hobeln gebrauchen	to use something for planing	menggunakan sesuatu untuk perencanaan	menggunakan sesuatu untuk menyerut	
+1498	12_1684233137_6	12_1684233137	edikaki	(noun) Gehobelte	(things) planed (noun)	(hal) yang direncanakan (kata benda)	(benda) yang diserut (kata benda)	
+1499	12_1684233137_7	12_1684233137	eakaki	Hobelinstrument	Planing instrument	Instrumen perencanaan	alat menyerut/penyerut	
+1500	12_1684233137_8	12_1684233137	earaki	das Hobeln	the planing	perencanaan	(proses) menyerut/penyerutan	
+1501	12_1684233137_9	12_1684233137	earakia	Hobelnsort	planing site	situs perencanaan	tempat menyerut	
+1502	12_1684289817_0	12_1684289817	kakãkĩ	etwas fort- , mitreißen	to tear something away	untuk merobek sesuatu	membawa pergi sesuatu	
 1503	12_1684289817_1	12_1684289817	hoo mãkãkĩ	riß bereits mit	already carried away	sudah terbawa		
-1504	12_1684289817_2	12_1684289817	edodi kakãkĩ ʔua	die Strömung riß mich fort	the current carried me away	arus membawa saya pergi		
+1504	12_1684289817_2	12_1684289817	edodi kakãkĩ ʔua	die Strömung riß mich fort	the current carried me away	arus membawa saya pergi	arusnya menyeret saya (lit. membawa saya pergi)	
 1505	12_1684289817_3	12_1684289817	kahakãkĩ	(Flüsse) schnell strömen , fließen , reissend sein	(rivers) to flow quickly	(sungai) mengalir dengan cepat		
 1506	12_1684289817_4	12_1684289817	kahakãkĩ ebedoa	der Fluß strömt schnell	the river flows fast	sungai mengalir deras		
 1507	12_1684289817_5	12_1684289817	eahakãkĩ	das Reißendsein , schnell Strömen	flowing quickly (noun)	mengalir dengan cepat (kata benda)		
 1508	12_1684290666_0	12_1684290666	kikakuaha	bestimmt sein für jmd	to be destined for someone	ditakdirkan untuk seseorang		
-1509	12_1684290961_0	12_1684290961	kikakúʔua	(Gestirne) dicht vor dem Untergehen sein	(stars) to be close to setting	(bintang-bintang) untuk mendekati terbenam		
+1509	12_1684290961_0	12_1684290961	kikakúʔua	(Gestirne) dicht vor dem Untergehen sein	(stars) to be close to setting	(bintang-bintang) untuk mendekati terbenam	(bintang-bintang) hampir terbenam	
 1510	12_1684290961_1	12_1684290961	ekanə̃ã:ĩ kikakúʔua	der Mond ist dicht vor dem Untergehen	the moon is close to setting	bulan hampir terbenam		
 1511	12_1684292048_0	12_1684292048	eakalea	größtes Fest auf Enggano	biggest festival on Enggano	festival terbesar di Enggano		
-1512	12_1684292048_1	12_1684292048	kikalea	beim Speertanz ein Geschrei anheben ; ein eakalea-Fest veranstalten	to raise a clamour at the spear dance ; to hold an eakalea festival	untuk membuat keributan pada tarian tombak; untuk mengadakan festival eakalea		
-1513	12_1684292048_2	12_1684292048	ekaleaha	Festplatz für das eakalea-Fest	festival place for the eakalea festival	tempat festival untuk festival eakalea		
-1514	12_1684293179_0	12_1684293179	kikamãĩ	an- , zuspitzen	to sharpen	untuk mempertajam		
+1512	12_1684292048_1	12_1684292048	kikalea	beim Speertanz ein Geschrei anheben ; ein eakalea-Fest veranstalten	to raise a clamour at the spear dance ; to hold an eakalea festival	untuk membuat keributan pada tarian tombak; untuk mengadakan festival eakalea	membuat keributan pada tarian tombak; mengadakan festival Eakalea	
+1513	12_1684292048_2	12_1684292048	ekaleaha	Festplatz für das eakalea-Fest	festival place for the eakalea festival	tempat festival untuk festival eakalea	tempat festival untuk festival Eakalea	
+1514	12_1684293179_0	12_1684293179	kikamãĩ	an- , zuspitzen	to sharpen	untuk mempertajam	mempertajam	
 1515	12_1684293179_1	12_1684293179	kikamãĩ́ãʔã	etwas zum Anspitzen benutzen	to use something to sharpen	menggunakan sesuatu untuk mempertajam		
 1516	12_1684293179_2	12_1684293179	epakamãĩ	(Anspitzensmittel =) Messer	(sharpener =) knife	(rautan =) pisau		
 1517	12_1684293179_3	12_1684293179	eakamãĩ	Anspitzensmittel	sharpener	rautan		
 1518	12_1684293179_4	12_1684293179	eadamãĩ	das Anspitzen	the sharpening	penajaman		
-1519	12_1684293179_5	12_1684293179	enĩkãmãĩ	(noun) Angespitzte	sharpened (objects) (noun)	diasah (benda) (kata benda) (kata benda)		
+1519	12_1684293179_5	12_1684293179	enĩkãmãĩ	(noun) Angespitzte	sharpened (objects) (noun)	diasah (benda) (kata benda) (kata benda)	(benda) yang diasah (kata benda)	
 1520	12_1684293179_6	12_1684293179	eanãmãĩyã	Anspitzensort	place of sharpening	tempat mengasah		
 1521	12_1684293179_7	12_1684293179	enĩkamãĩ́ãʔã	(noun) zum Anspitzen Benutzte	(things) used for sharpening (noun)	(benda) yang digunakan untuk mengasah (kata benda)		
-1522	12_1684293982_0	12_1684293982	kikaməka	zuverlässig sein	to be reliable	agar dapat diandalkan		
-1523	12_1684294123_0	12_1684294123	kikãmĩ	im Tragetuch vor sich tragen	to carry in front of oneself in a sling	untuk dibawa di depan diri sendiri dengan gendongan		
-1524	12_1684294123_1	12_1684294123	hoo mũkãmĩ	trug bereits so	already wore like that	sudah memakai seperti itu		
-1525	12_1684294123_2	12_1684294123	eanãmĩ	das so Tragen	Wearing it like that (noun)	Memakainya seperti itu (kata benda)		
+1522	12_1684293982_0	12_1684293982	kikaməka	zuverlässig sein	to be reliable	agar dapat diandalkan	dapat diandalkan	
+1523	12_1684294123_0	12_1684294123	kikãmĩ	im Tragetuch vor sich tragen	to carry in front of oneself in a sling	untuk dibawa di depan diri sendiri dengan gendongan	dibawa di depan diri sendiri dengan gendongan	
+1524	12_1684294123_1	12_1684294123	hoo mũkãmĩ	trug bereits so	already wore like that	sudah memakai seperti itu	sudah dibawa begitu	
+1525	12_1684294123_2	12_1684294123	eanãmĩ	das so Tragen	Wearing it like that (noun)	Memakainya seperti itu (kata benda)	menggunakannya seperti itu (kata benda)	
 1526	12_1684294389_0	12_1684294389	ekamĩũ kaʔikoko	rote Tritonschnecke	red triton snail	siput triton merah		
 1527	12_1684294389_1	12_1684294389	ekamĩũ kaʔuda:ixo	weiße Tritonschnecke	white triton snail	siput triton putih		
-1528	12_1684391453_0	12_1684391453	epakanãʔã	Trennung , Entzweiung	Separation , division	Pemisahan, pembagian		
-1529	12_1684391963_0	12_1684391963	epakanãʔã:ĩ	Trennung , das sich Trennen , Verabschieden	Separation , the parting , saying goodbye	Perpisahan, perpisahan, mengucapkan selamat tinggal		
-1530	12_1684391963_1	12_1684391963	kipakanã́ʔã:ĩ hii	sich trennen , verabschieden von	to separate , to say goodbye to	untuk memisahkan, untuk mengucapkan selamat tinggal kepada		
-1531	12_1684391963_2	12_1684391963	kipakanã́ʔã:ĩñã	sich trennen werden	to separate (in the future)	untuk memisahkan (di masa depan)		
-1532	12_1684391963_3	12_1684391963	kipakanã́ʔĩ́ãʔa	etwas teilen	to divide/share something	membagi/membagi sesuatu		
-1533	12_1684392699_0	12_1684392699	kipakanãʔĩ́ãʔã	etwas teilen	to divide/share something	membagi/membagi sesuatu		
-1534	12_1684392699_1	12_1684392699	kipakanãʔĩ́ãʔã ʔarua	in zwei Teile teilen	to divide into two parts	untuk membagi menjadi dua bagian		
+1528	12_1684391453_0	12_1684391453	epakanãʔã	Trennung , Entzweiung	Separation , division	Pemisahan, pembagian	pemisahan, pembagian	
+1529	12_1684391963_0	12_1684391963	epakanãʔã:ĩ	Trennung , das sich Trennen , Verabschieden	Separation , the parting , saying goodbye	Perpisahan, perpisahan, mengucapkan selamat tinggal	perpisahan, perpisahan, mengucapkan selamat tinggal	
+1530	12_1684391963_1	12_1684391963	kipakanã́ʔã:ĩ hii	sich trennen , verabschieden von	to separate , to say goodbye to	untuk memisahkan, untuk mengucapkan selamat tinggal kepada	memisahkan, mengucapkan selamat tinggal kepada	
+1531	12_1684391963_2	12_1684391963	kipakanã́ʔã:ĩñã	sich trennen werden	to separate (in the future)	untuk memisahkan (di masa depan)	memisahkan (di masa depan)	
+1532	12_1684391963_3	12_1684391963	kipakanã́ʔĩ́ãʔa	etwas teilen	to divide/share something	membagi/membagi sesuatu	membagi/berbagi sesuatu	
+1533	12_1684392699_0	12_1684392699	kipakanãʔĩ́ãʔã	etwas teilen	to divide/share something	membagi/membagi sesuatu	membagi/berbagi sesuatu	
+1534	12_1684392699_1	12_1684392699	kipakanãʔĩ́ãʔã ʔarua	in zwei Teile teilen	to divide into two parts	untuk membagi menjadi dua bagian	membagi menjadi dua bagian	
 1535	12_1684393396_0	12_1684393396	kikanã:ĩñã	verbraucht , nicht mehr vorhanden , ausgerottet , verschwinden ; beenden , vernichten	used up , no longer existent , extinct , to disappear ; end , annihilate	habis, tidak ada lagi, punah, lenyap, lenyap; mengakhiri, memusnahkan		
 1536	12_1684393396_1	12_1684393396	kakanãĩñã	vernichtet sein	to have been destroyed	telah dihancurkan		
-1537	12_1684393396_2	12_1684393396	eakanãĩñã	das Ver- , Fortgeben	to give away , to give away	untuk memberikan, untuk memberikan		
+1537	12_1684393396_2	12_1684393396	eakanãĩñã	das Ver- , Fortgeben	to give away , to give away	untuk memberikan, untuk memberikan	yang diteruskan/diberikan	
 1538	12_1684393396_3	12_1684393396	ekanãĩñãhã	"(""Verschwindensort"" =) Begräbnisstätte"	"(""place of disappearance"" =) burial site"	"(""tempat hilangnya"" =) tempat pemakaman"		
-1539	12_1684393396_4	12_1684393396	kikanãĩñãʔã	etwas beenden , verbrauchen	to end something , consume	untuk mengakhiri sesuatu , mengkonsumsi		
+1539	12_1684393396_4	12_1684393396	kikanãĩñãʔã	etwas beenden , verbrauchen	to end something , consume	untuk mengakhiri sesuatu , mengkonsumsi	mengakhiri sesuatu , mengkonsumsi	
 1540	12_1684393396_5	12_1684393396	kanãĩñãʔã:ə̃[nã]	brauche auf , verbrauche , vernichte , zerstöre ; vergib , gib wegǃ	use up , consume , destroy , annihilate ; forgive , give awayǃ (sg)	menghabiskan, mengkonsumsi, menghancurkan, memusnahkan, memaafkan, memberikanǃ (sg)		
-1541	12_1684393519_0	12_1684393519	kaʔakanakuae	Schatten werfen , sich dunkel abzeichnen	to cast a shadow , to become dark	untuk membuat bayangan, menjadi gelap		
+1541	12_1684393519_0	12_1684393519	kaʔakanakuae	Schatten werfen , sich dunkel abzeichnen	to cast a shadow , to become dark	untuk membuat bayangan, menjadi gelap	membuat bayangan, menjadi gelap	
 1542	12_1684394139_0	12_1684394139	kakanãñã	verschwinden	to disappear	menghilang		
 1543	12_1684394399_0	12_1684394399	ekanãʔṹẽʔẽ:ĩ eʔukaʔaodo	kleiner Seefisch	little sea fish	ikan laut kecil		
-1544	12_1684828030_0	12_1684828030	kikakanəʔa	watend gehen , einen watenden Gang haben	to walk wading , have a wading walk	untuk berjalan mengarungi, berjalan mengarungi		
+1544	12_1684828030_0	12_1684828030	kikakanəʔa	watend gehen , einen watenden Gang haben	to walk wading , have a wading walk	untuk berjalan mengarungi, berjalan mengarungi	berjalan mengarungi, berjalan mengarungi	
 1545	12_1684828030_1	12_1684828030	kikakanəʔaha	wird watend gehen	will walk wading	akan berjalan mengarungi		
 1546	12_1684828030_2	12_1684828030	hoomũkanəkanəʔa	ging bereits watend	already walked wading	sudah berjalan mengarungi		
 1547	12_1684828030_3	12_1684828030	kaʔakakanəʔa	watend	wading	mengarungi		
@@ -1538,51 +1538,51 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 1555	12_1684833798_0	12_1684833798	ekanõã udopo	Nebel	fog	kabut		
 1556	12_1684833798_1	12_1684833798	ekanõã uʔobi	Rauch	smoke	asap		
 1557	12_1684834062_0	12_1684834062	ekanõʔṍãʔã	Kreide , Kalk	chalk , lime	kapur, kapur		
-1558	12_1684834240_0	12_1684834240	kanõʔõhãʔã	fange aufǃ	catchǃ (sg)	menangkapǃ (sg)		
+1558	12_1684834240_0	12_1684834240	kanõʔõhãʔã	fange aufǃ	catchǃ (sg)	menangkapǃ (sg)	tangkap! (sg)	
 1559	12_1684834240_1	12_1684834240	ekanõʔṍhõ:ĩ	Trinkgefäß , Tasse	drinking vessel , cup	bejana minum, cangkir		
-1560	12_1684834578_0	12_1684834578	kikanũʔa	spannen , durchdrücken	stretch , push through	peregangan, dorong melalui		
+1560	12_1684834578_0	12_1684834578	kikanũʔa	spannen , durchdrücken	stretch , push through	peregangan, dorong melalui	kencangkan, dorong terus	
 1561	12_1684834578_1	12_1684834578	ʔua kikanũʔã eaeʔe:u	ich drücke meine Beine (beim Gehen) durch	I push my legs through (when walking)	Saya mendorong kaki saya (saat berjalan)		
 1562	12_1684835648_0	12_1684835648	kubakao kia	er läuft	he runs	dia berjalan		
 1563	12_1684835648_1	12_1684835648	ʔua kika:oha	ich laufe	I run	Aku lari		
-1564	12_1684835993_0	12_1684835993	kikao	zudecken , schließen	to cover , close	untuk menutupi, menutup		
+1564	12_1684835993_0	12_1684835993	kikao	zudecken , schließen	to cover , close	untuk menutupi, menutup	menutupi, menutup	
 1565	12_1684835993_1	12_1684835993	hoo bukao	schloß bereits	already closed	sudah ditutup		
 1566	12_1684835993_2	12_1684835993	dibukao	sie deckten zu	they covered up	mereka menutup-nutupi		
-1567	12_1684835993_3	12_1684835993	kikaoaʔa	mit etwas zu- , bedecken , etwas zum Zudecken gebrauchen	to cover with something , to cover with something , to use something to cover up	untuk menutupi dengan sesuatu , untuk menutupi dengan sesuatu , menggunakan sesuatu untuk menutupi		
-1568	12_1684835993_4	12_1684835993	edikao	(noun) Geschlossene	closed (things) (noun)	tertutup (benda) (kata benda) (nomina)		
+1567	12_1684835993_3	12_1684835993	kikaoaʔa	mit etwas zu- , bedecken , etwas zum Zudecken gebrauchen	to cover with something , to cover with something , to use something to cover up	untuk menutupi dengan sesuatu , untuk menutupi dengan sesuatu , menggunakan sesuatu untuk menutupi	menutupi dengan sesuatu , menggunakan sesuatu untuk menutupi	
+1568	12_1684835993_4	12_1684835993	edikao	(noun) Geschlossene	closed (things) (noun)	tertutup (benda) (kata benda) (nomina)	(benda) yang tertutup/ditutup (kata benda)	
 1569	12_1684835993_5	12_1684835993	ekaoo	zu Schließende	(things) to be closed (noun)	(benda) yang akan ditutup (kata benda)		
 1570	12_1684835993_6	12_1684835993	eakao	Tür	Door	Pintu		
-1571	12_1684835993_7	12_1684835993	eakao	Weg , der gebahnt Wird , um auf Wildschweinjagd zu gehen ; Jagdpfad	Path paved for wild boar hunting ; hunting trail	Jalan setapak yang diaspal untuk berburu babi hutan; jalur berburu		
-1572	12_1684846122_0	12_1684846122	eʔapakaʔo ubahau	Bewußtsein	Consciousness	Kesadaran		
+1571	12_1684835993_7	12_1684835993	eakao	Weg , der gebahnt Wird , um auf Wildschweinjagd zu gehen ; Jagdpfad	Path paved for wild boar hunting ; hunting trail	Jalan setapak yang diaspal untuk berburu babi hutan; jalur berburu	jalan setapak yang dibuat untuk berburu babi hutan; jalur berburu	
+1572	12_1684846122_0	12_1684846122	eʔapakaʔo ubahau	Bewußtsein	Consciousness	Kesadaran	kesadaran	
 1573	12_1684849832_0	12_1684849832	kikaʔoba	bestürzt , betroffen , verdutzt sein	to be dismayed , affected , puzzled	kecewa, terpengaruh, bingung		
 1574	12_1684849832_1	12_1684849832	kikakaʔóba	sehr bestürzt	very upset	sangat kesal		
 1575	12_1684849832_2	12_1684849832	ekaʔaobo	das Bestürztsein	the dismay	kekecewaan		
 1576	12_1684850457_0	12_1684850457	bukapáda	ein Festhakender (intr) , Stolpernder	one who gets caught (intr) , one who stumbles	orang yang tertangkap (intr) , orang yang tersandung		
-1577	12_1684850987_0	12_1684850987	kikapai	schälen (Kokosnüsse)	to peel (coconuts)	untuk mengupas (kelapa)		
+1577	12_1684850987_0	12_1684850987	kikapai	schälen (Kokosnüsse)	to peel (coconuts)	untuk mengupas (kelapa)	mengupas (kelapa)	
 1578	12_1684850987_1	12_1684850987	hoo bukapai	geschält haben	to have peeled	telah dikupas		
-1579	12_1684850987_2	12_1684850987	edikapai	Geschältes	peeled (things) (noun)	dikupas (benda) (kata benda) (kata benda)		
-1580	12_1684850987_3	12_1684850987	eakapai	Schälinstrument	peeling instrument	instrumen mengupas		
-1581	12_1684851295_0	12_1684851295	kikãpã:ĩʔĩã	sich fortsetzen	to be continued	untuk dilanjutkan		
-1582	12_1684851295_1	12_1684851295	kikãpãʔĩ́ãʔã	etwas sich fortsetzen lassen , etwas auf etwas legen	to let something continue , to put something on top of something	untuk membiarkan sesuatu berlanjut , untuk meletakkan sesuatu di atas sesuatu		
+1579	12_1684850987_2	12_1684850987	edikapai	Geschältes	peeled (things) (noun)	dikupas (benda) (kata benda) (kata benda)	(benda) yang dikupas (kata benda)	
+1580	12_1684850987_3	12_1684850987	eakapai	Schälinstrument	peeling instrument	instrumen mengupas	alat mengupas	
+1581	12_1684851295_0	12_1684851295	kikãpã:ĩʔĩã	sich fortsetzen	to be continued	untuk dilanjutkan	dilanjutkan	
+1582	12_1684851295_1	12_1684851295	kikãpãʔĩ́ãʔã	etwas sich fortsetzen lassen , etwas auf etwas legen	to let something continue , to put something on top of something	untuk membiarkan sesuatu berlanjut , untuk meletakkan sesuatu di atas sesuatu	membiarkan sesuatu berlanjut , meletakkan sesuatu di atas sesuatu	
 1583	12_1684913634_0	12_1684913634	keabaʔa yabaʔuʔua ekiteika	wir sind nicht glücklich	we are not happy	kami tidak senang		
 1584	12_1684914315_0	12_1684914315	kítera ekaka	alle Menschen	all people	semua orang		
-1585	12_1684987604_0	12_1684987604	kikitə	baden	to bathe	untuk mandi		
-1586	12_1684987604_1	12_1684987604	kipakitə	jmd baden	to bathe someone	untuk memandikan seseorang		
+1585	12_1684987604_0	12_1684987604	kikitə	baden	to bathe	untuk mandi	mandi	
+1586	12_1684987604_1	12_1684987604	kipakitə	jmd baden	to bathe someone	untuk memandikan seseorang	memandikan seseorang	
 1587	12_1684987604_2	12_1684987604	ekitəa	Badeplatz	Bathing place	Tempat mandi		
-1588	12_1684987604_3	12_1684987604	edipakitə	(noun) Gebadete	bathed (things/people) (noun)	dimandikan (benda/orang) (kata benda)		
-1589	12_1684987952_0	12_1684987952	kikiti	aufpicken	to pick up	untuk mengambil		
-1590	12_1684987952_1	12_1684987952	hoo bukiti	pickte bereits auf	already picked up	sudah dijemput		
+1588	12_1684987604_3	12_1684987604	edipakitə	(noun) Gebadete	bathed (things/people) (noun)	dimandikan (benda/orang) (kata benda)	(benda) yang dimandikan (kata benda)	
+1589	12_1684987952_0	12_1684987952	kikiti	aufpicken	to pick up	untuk mengambil	mengambil	
+1590	12_1684987952_1	12_1684987952	hoo bukiti	pickte bereits auf	already picked up	sudah dijemput	sudah diambil	
 1591	12_1684987952_2	12_1684987952	edikiti	(noun) Aufgepickte	(things) picked up (noun)	(benda) yang diambil (kata benda)		
 1592	12_1684987952_3	12_1684987952	ekitio	(noun) Aufzupickende	(things) to be picked up (noun)	(benda) yang akan diambil (kata benda)		
-1593	12_1684988544_0	12_1684988544	kikito	schmecken (tr) , versuchen , untersuchen	taste (tr) , try , examine	mencicipi (tr) , mencoba , memeriksa		
+1593	12_1684988544_0	12_1684988544	kikito	schmecken (tr) , versuchen , untersuchen	taste (tr) , try , examine	mencicipi (tr) , mencoba , memeriksa	mencicipi (transitif) , mencoba , memeriksa	
 1594	12_1684988544_1	12_1684988544	hoo bukito	geschmeckt haben	have tasted	telah mencicipi		
 1595	12_1684988544_2	12_1684988544	kia kikito bupudu ekoyo	er versuchte , das Schwein zu töten	he tried to kill the pig	dia mencoba membunuh babi itu		
-1596	12_1684988544_3	12_1684988544	kaditoi	jmd , etwas untersuchen	to investigate someone/something	untuk menyelidiki seseorang/sesuatu		
-1597	12_1684988544_4	12_1684988544	hoo baditoi	untersuchte bereits jmd , etwas	was already examining someone , something	sudah memeriksa seseorang , sesuatu		
+1596	12_1684988544_3	12_1684988544	kaditoi	jmd , etwas untersuchen	to investigate someone/something	untuk menyelidiki seseorang/sesuatu	menyelidiki seseorang/sesuatu	
+1597	12_1684988544_4	12_1684988544	hoo baditoi	untersuchte bereits jmd , etwas	was already examining someone , something	sudah memeriksa seseorang , sesuatu	sudah memeriksa seseorang/sesuatu	
 1598	12_1684988544_5	12_1684988544	edikito	(noun) Untersuchte	(thing) investigated (noun)	(benda) yang diselidiki (kata benda)		
 1599	12_1684988544_6	12_1684988544	ekitoho	(noun) zu Untersuchende	(thing) to be investigated (noun)	(benda) yang akan diselidiki (kata benda)		
 1600	12_1684988544_7	12_1684988544	eaditoa	Untersuchensort	Examination location	Lokasi pemeriksaan		
 1601	12_1684988790_0	12_1684988790	kikito	baden (intr)	bathe (intr)	mandi (intr)		
-1602	12_1684988790_1	12_1684988790	kipakito	jmd baden (tr)	to bathe someone (tr)	untuk memandikan seseorang (tr)		
+1602	12_1684988790_1	12_1684988790	kipakito	jmd baden (tr)	to bathe someone (tr)	untuk memandikan seseorang (tr)	memandikan seseorang (tr)	
 1603	12_1684988790_2	12_1684988790	yapakikito	sie badet jmd gründlich	she bathes someone thoroughly	dia memandikan seseorang secara menyeluruh		
 1604	12_1684988790_3	12_1684988790	yabakitoho:i eboo	sie badet in dem Wasser	she bathes in the water	dia mandi di dalam air		
 1605	12_1684988840_0	12_1684988840	kipakito	spielen , tollen	play , have fun	bermain, bersenang-senang		
@@ -1590,86 +1590,86 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 1607	12_1684989249_1	12_1684989249	ekito emãnũkũnĩ	Haiart	type of shark	jenis hiu		
 1608	12_1684989249_2	12_1684989249	ekito kaʔakaʔa pakaʔã:ĩnã	dgl	and the like	dan sejenisnya		
 1609	12_1684989249_3	12_1684989249	ekito eboboʔo:ipo	dgl	and the like	dan sejenisnya		
-1610	12_1684989249_4	12_1684989249	ekito eũʔũ upõ	Tümmler	Porpoise	Porpoise		
+1610	12_1684989249_4	12_1684989249	ekito eũʔũ upõ	Tümmler	Porpoise	Porpoise	lumba-lumba hidung botol	
 1611	12_1684989249_5	12_1684989249	ekito eʔanõnõnõ	kleine Haiart	small species of shark	spesies hiu kecil		
 1612	12_1684989249_6	12_1684989249	ekito ekapedoa	dgl	and the like	dan sejenisnya		
 1613	12_1684989249_7	12_1684989249	ekito kaʔuda:ixo	weißer Hai	Great white shark	Hiu putih besar		
-1614	12_1684989690_0	12_1684989690	kakitohe	vorbeigehen an , passieren	to pass by , to pass	untuk melewati, untuk melewati		
-1615	12_1684989690_1	12_1684989690	kipakitohéaʔa	vorbeigehen an	to pass by	untuk melewati		
-1616	12_1684989779_0	12_1684989779	kakitóhoe	vorbeigehen an jmd , etwas , jmd passieren	to pass by sb , something	untuk melewati sb , sesuatu		
-1617	12_1684989835_0	12_1684989835	akitorea	folgeǃ	followǃ (sg)	followǃ (sg)		
-1618	12_1684989835_1	12_1684989835	kabakitorea	folgen	to follow	untuk mengikuti		
-1619	12_1684990010_0	12_1684990010	ekituu	Unterseite	bottom	bawah		
+1614	12_1684989690_0	12_1684989690	kakitohe	vorbeigehen an , passieren	to pass by , to pass	untuk melewati, untuk melewati	melewati , melewati	
+1615	12_1684989690_1	12_1684989690	kipakitohéaʔa	vorbeigehen an	to pass by	untuk melewati	melewati	
+1616	12_1684989779_0	12_1684989779	kakitóhoe	vorbeigehen an jmd , etwas , jmd passieren	to pass by sb , something	untuk melewati sb , sesuatu	melewati seseorang/sesuatu	
+1617	12_1684989835_0	12_1684989835	akitorea	folgeǃ	followǃ (sg)	followǃ (sg)	ikuti! (bentuk tunggal)	
+1618	12_1684989835_1	12_1684989835	kabakitorea	folgen	to follow	untuk mengikuti	mengikuti	
+1619	12_1684990010_0	12_1684990010	ekituu	Unterseite	bottom	bawah	bawah	
 1620	12_1684990010_1	12_1684990010	ikituu	an der Unterseite , unten , unter	at the bottom , below , under	di bagian bawah, di bawah, di bawah		
 1621	12_1684990187_0	12_1684990187	ekituo	Großfamilie	extended family	keluarga besar		
 1622	12_1684990187_1	12_1684990187	ki kahakituo	sie , die einer Großfamilie anghören	they who belong to an extended family	mereka yang merupakan bagian dari keluarga besar		
-1623	12_1684997364_0	12_1684997364	kipapepei	ablehnen	to reject	untuk menolak		
-1624	12_1684999182_0	12_1684999182	kipəa	sehen	to see	untuk melihat		
-1625	12_1684999182_1	12_1684999182	hoo bupəa	sah	saw	melihat		
-1626	12_1684999182_10	12_1684999182	kipəpə́amãʔãnãpõnãʔã	tatenlos zuzusehen pflegen	to (habitually) watch idly	untuk (biasanya) menonton secara iseng		
+1623	12_1684997364_0	12_1684997364	kipapepei	ablehnen	to reject	untuk menolak	menolak	
+1624	12_1684999182_0	12_1684999182	kipəa	sehen	to see	untuk melihat	melihat	
+1625	12_1684999182_1	12_1684999182	hoo bupəa	sah	saw	melihat	melihat (bentuk lampau)	
+1626	12_1684999182_10	12_1684999182	kipəpə́amãʔãnãpõnãʔã	tatenlos zuzusehen pflegen	to (habitually) watch idly	untuk (biasanya) menonton secara iseng	(selalu) menonton secara iseng	
 1627	12_1684999182_11	12_1684999182	epə́aha	Aussehen , Charakter	appearance , character	penampilan, karakter		
-1628	12_1684999182_12	12_1684999182	eabapəa	das Sehen	the seeing	melihat		
-1629	12_1684999182_13	12_1684999182	epapəa	das (nach etwas) Sehen , Ausschauen	the seeing/looking for (something)	melihat/mencari (sesuatu)		
-1630	12_1684999182_14	12_1684999182	epapəpəa	das Beobachten	the watching	menonton		
-1631	12_1684999182_15	12_1684999182	edipəa	(noun) Gesehene	(thing) seen (noun)	(benda) terlihat (kata benda)		
+1628	12_1684999182_12	12_1684999182	eabapəa	das Sehen	the seeing	melihat	(proses) melihat	
+1629	12_1684999182_13	12_1684999182	epapəa	das (nach etwas) Sehen , Ausschauen	the seeing/looking for (something)	melihat/mencari (sesuatu)	(proses) melihat/mencari sesuatu	
+1630	12_1684999182_14	12_1684999182	epapəpəa	das Beobachten	the watching	menonton	(proses) menonton/menyaksikan	
+1631	12_1684999182_15	12_1684999182	edipəa	(noun) Gesehene	(thing) seen (noun)	(benda) terlihat (kata benda)	(benda) yang terlihat/dilihat (kata benda)	
 1632	12_1684999182_16	12_1684999182	edixii bupəa	wird wieder gesehen	will be seen again	akan terlihat lagi		
 1633	12_1684999182_17	12_1684999182	ekaparapi káupe bupea	das Schiff wird noch nicht gesehen	the ship is not yet seen	kapal belum terlihat		
 1634	12_1684999182_18	12_1684999182	eəpəa	Fernrohr , Mikroskop	Telescope , microscope	Teleskop, mikroskop		
-1635	12_1684999182_19	12_1684999182	epə́aha:o	(noun) zu Sehende	(thing) to be seen (noun)	(benda) yang dapat dilihat (kata benda)		
+1635	12_1684999182_19	12_1684999182	epə́aha:o	(noun) zu Sehende	(thing) to be seen (noun)	(benda) yang dapat dilihat (kata benda)	(benda) yang dilihat (kata benda)	
 1636	12_1684999182_2	12_1684999182	kibupəa	sie sahen	they saw	mereka melihat		
 1637	12_1684999182_20	12_1684999182	epapə́aha	Sehensort	place of seeing	tempat melihat		
-1638	12_1684999182_3	12_1684999182	uabapəa	sieh duǃ	you look! (sg)	anda lihat! (sg)		
-1639	12_1684999182_4	12_1684999182	kipapəa	einander sehen	to see one another	untuk bertemu satu sama lain		
+1638	12_1684999182_3	12_1684999182	uabapəa	sieh duǃ	you look! (sg)	anda lihat! (sg)	sampai jumpa! (bentuk tunggal)	
+1639	12_1684999182_4	12_1684999182	kipapəa	einander sehen	to see one another	untuk bertemu satu sama lain	bertemu/menatap satu sama lain	
 1640	12_1684999182_5	12_1684999182	kidipəa	wird gesehen	is seen	terlihat		
 1641	12_1684999182_6	12_1684999182	kipedəa	wiederholt sehen , zu sehen pflegen	usually/normally see	biasanya/biasanya melihat		
 1642	12_1684999182_7	12_1684999182	kipəpəpəa	zu Gesicht bekommen , beobachten yai yabapəa besuchen	get to see , observe yai yabapəa visit	bisa melihat, mengamati kunjungan yai yabapəa		
 1643	12_1684999182_8	12_1684999182	yai yabapəa	besuchen	visit	kunjungi		
 1644	12_1684999182_9	12_1684999182	dabapəpəa	besuchen	visit	kunjungi		
-1645	12_1684999717_0	12_1684999717	kapəa	abkühlen (in)	to cool down (in)	untuk mendinginkan (dalam)		
+1645	12_1684999717_0	12_1684999717	kapəa	abkühlen (in)	to cool down (in)	untuk mendinginkan (dalam)	pendinginan (intransitif)	
 1646	12_1684999717_1	12_1684999717	yapəa	es ist kalt	it is cold	itu dingin		
 1647	12_1684999717_2	12_1684999717	kaʔapəaʔaʔa	erkältet sein	to have a cold	masuk angin		
-1648	12_1685000280_0	12_1685000280	kipéaʔa	etwas zerbrechen , abbrechen , spalten	to break something , to break off , to split	untuk memecahkan sesuatu , untuk memutuskan , untuk membelah		
+1648	12_1685000280_0	12_1685000280	kipéaʔa	etwas zerbrechen , abbrechen , spalten	to break something , to break off , to split	untuk memecahkan sesuatu , untuk memutuskan , untuk membelah	mematahkan, mematahkan, membelah sesuatu	
 1649	12_1685000280_1	12_1685000280	kabə́aʔa	(Küken) ausschlüpfen , herauskommen	(chick) hatch , come out	(anak ayam) menetas, keluar		
 1650	12_1685000280_2	12_1685000280	eara ukiʔadobu kabə́aʔa	das Küken schlüpft aus	the chick hatches out	anak ayam menetas		
 1651	12_1685000280_3	12_1685000280	hoo babéaʔa	kam bereits heraus	already came out	sudah keluar		
-1652	12_1685000280_4	12_1685000280	kidipə́aʔa	gespalten werden	to be split	untuk dibagi		
-1653	12_1685000280_5	12_1685000280	edipə́aʔa	(noun) Zerbrochene	broken (things) (noun)	rusak (benda) (kata benda) (kata benda)		
-1654	12_1685000280_6	12_1685000280	eəpə́aʔa	Zerbrechensinstrument	Breaking instrument	Instrumen pemecah		
+1652	12_1685000280_4	12_1685000280	kidipə́aʔa	gespalten werden	to be split	untuk dibagi	dibagi	
+1653	12_1685000280_5	12_1685000280	edipə́aʔa	(noun) Zerbrochene	broken (things) (noun)	rusak (benda) (kata benda) (kata benda)	(benda) yang rusak (kata benda)	
+1654	12_1685000280_6	12_1685000280	eəpə́aʔa	Zerbrechensinstrument	Breaking instrument	Instrumen pemecah	alat pemecah	
 1655	12_1685021591_0	12_1685021591	epapəʔa	Heiratzverflechtung	Marriage entanglement	Keterikatan dalam pernikahan		
 1656	12_1685021591_1	12_1685021591	ipapəʔaka upahaonã	zu unserer Heiratsverflechtung	to our marriage entanglement	untuk keterikatan pernikahan kita		
 1657	12_1685022717_0	12_1685022717	kipəʔaka	zufrieden , freigebig , zahm , milde sein , zugeneigt , vertraut	to be content , bountiful , tame , mild , affectionate , familiar	menjadi puas, berlimpah, jinak, lembut, penuh kasih sayang, akrab		
 1658	12_1685022717_1	12_1685022717	ekapii eʔana hoo pəʔaka	die Kuh ist zahm	the cow is tame	sapi itu jinak		
-1659	12_1685022717_10	12_1685022717	ʔupapeʔakaʔa:o ʔai ukidai	wir (ex) lassen unseren Zorn (?ǃ) aneinander aus	we (ex) vent our anger (?ǃ) on each other	kami (mantan) melampiaskan kemarahan kami (?ǃ) satu sama lain		
+1659	12_1685022717_10	12_1685022717	ʔupapeʔakaʔa:o ʔai ukidai	wir (ex) lassen unseren Zorn (?ǃ) aneinander aus	we (ex) vent our anger (?ǃ) on each other	kami (mantan) melampiaskan kemarahan kami (?ǃ) satu sama lain	kami (eksklusif) melampiaskan kemarahan kami (?ǃ) satu sama lain	
 1660	12_1685022717_11	12_1685022717	adipəʔakáha:i ukaka eʔana epae	das Beschenkte jenes Mensch ist ein Kind	the receiver of that person's gift is a child	penerima hadiah dari orang tersebut adalah seorang anak		
-1661	12_1685022717_2	12_1685022717	edipeʔakahíaʔa	das , was verschenkt wird	that which is given away	apa yang diberikan		
+1661	12_1685022717_2	12_1685022717	edipeʔakahíaʔa	das , was verschenkt wird	that which is given away	apa yang diberikan	yang diberikan	
 1662	12_1685022717_3	12_1685022717	epitipiti edipəʔakahíaʔa	es wird mit Geld beschenkt	gifts are given in monetary form	hadiah diberikan dalam bentuk uang		
-1663	12_1685022717_4	12_1685022717	kapəʔaka ekidai	zufrieden sein , sich freuen	to be satisfied , to rejoice	untuk puas, untuk bersukacita		
-1664	12_1685022717_5	12_1685022717	kipəʔakáha:i	jmd befriedigen	to satisfy sb.	untuk memuaskan sb.		
-1665	12_1685022717_6	12_1685022717	kipeʔakahíaʔa	befriedigen , beschenken mit	satisfy , bestow with	memuaskan, berikan dengan		
-1666	12_1685022717_7	12_1685022717	kipəʔakáʔa	zähmen	to tame	untuk menjinakkan		
-1667	12_1685022717_8	12_1685022717	eapəʔaka	Zahmsein , Milde	the being-tame/mild (noun)	yang jinak/ringan (kata benda)		
+1663	12_1685022717_4	12_1685022717	kapəʔaka ekidai	zufrieden sein , sich freuen	to be satisfied , to rejoice	untuk puas, untuk bersukacita	puas, bersukacita	
+1664	12_1685022717_5	12_1685022717	kipəʔakáha:i	jmd befriedigen	to satisfy sb.	untuk memuaskan sb.	memuaskan seseorang	
+1665	12_1685022717_6	12_1685022717	kipeʔakahíaʔa	befriedigen , beschenken mit	satisfy , bestow with	memuaskan, berikan dengan	memuaskan, menghadiahi dengan	
+1666	12_1685022717_7	12_1685022717	kipəʔakáʔa	zähmen	to tame	untuk menjinakkan	menjinakkan	
+1667	12_1685022717_8	12_1685022717	eapəʔaka	Zahmsein , Milde	the being-tame/mild (noun)	yang jinak/ringan (kata benda)	(benda) yang dijinakkan (kata benda)	
 1668	12_1685022717_9	12_1685022717	eapəʔaka ukitai	Zufriedenheit , Glücklichsein	contentment , happiness	kepuasan, kebahagiaan		
-1669	12_1685023412_0	12_1685023412	kipəʔəka	explodieren , knallen , dröhnen	explode , bang , roar	meledak, bang, mengaum		
+1669	12_1685023412_0	12_1685023412	kipəʔəka	explodieren , knallen , dröhnen	explode , bang , roar	meledak, bang, mengaum	meledak, bum, mengaum	
 1670	12_1685023412_1	12_1685023412	eʔabeha kipəʔəka	der Bambus knallt (im Feuer)	the bamboo pops (in the fire)	bambu meletus (di dalam api)		
-1671	12_1685023412_2	12_1685023412	kipaməməʔəka	wiederholt knallen	to pop repeatedly	muncul berulang kali		
+1671	12_1685023412_2	12_1685023412	kipaməməʔəka	wiederholt knallen	to pop repeatedly	muncul berulang kali	meletus berkali-kali	
 1672	12_1685023412_3	12_1685023412	eapəʔə́ka	das Dröhnen	the roar	gemuruh		
-1673	12_1685023645_0	12_1685023645	kaʔapəhaʔaʔa	1. abkühlen (in) , 2. (Essen) fade , geschmacklos sein ; nüchtern	1. cool (in) , 2. (food) be bland , tasteless ; sober	1. sejuk (dalam), 2. (makanan) menjadi hambar, tidak berasa; tidak berasa		
+1673	12_1685023645_0	12_1685023645	kaʔapəhaʔaʔa	1. abkühlen (in) , 2. (Essen) fade , geschmacklos sein ; nüchtern	1. cool (in) , 2. (food) be bland , tasteless ; sober	1. sejuk (dalam), 2. (makanan) menjadi hambar, tidak berasa; tidak berasa	1. sejuk (intransitif), 2. (makanan) menjadi hambar, tidak berasa; tidak berasa	
 1674	12_1685070028_0	12_1685070028	kipəhai	können , kennen , wissen , verstehen , möglich sein , imstande sein	to be able , to know , to know , to understand , to be possible , to be capable of	mampu, mengetahui, mengenal, memahami, menjadi mungkin, mampu		
 1675	12_1685070028_1	12_1685070028	kipəhaiya	wird können	will be able	akan dapat		
 1676	12_1685070028_2	12_1685070028	keobaʔa kapəhai	nicht dürfen	not be allowed	tidak diperbolehkan		
 1677	12_1685070028_3	12_1685070028	edipəhai	(noun) Gekonnte	(ability/skill) possessed/acquired (noun)	(kemampuan/keterampilan) yang dimiliki/diperoleh (kata benda)		
 1678	12_1685070028_4	12_1685070028	epapəhai ukaka eʔana ʔamũhö	das Wissen jenes Menschen ist groß	the knowledge of that person is great	pengetahuan orang tersebut sangat bagus		
-1679	12_1685070255_0	12_1685070255	pəkanãʔã	zerbrich , hebe (ein Verbot) aufǃ	break , lift (a ban)ǃ (sg)	istirahat , angkat (larangan) ǃ (sg)		
-1680	12_1685070255_1	12_1685070255	kamũpə̃kãnãʔã ekauaba	wir heben das (Spinnennetz=) Verbot auf	we lift the (cobweb=) prohibition	kami mencabut larangan (sarang laba-laba=)		
-1681	12_1685070536_0	12_1685070536	kipəkaʔa	etwas vor-/zubereiten	to prepare/prepare something	untuk mempersiapkan/menyiapkan sesuatu		
-1682	12_1685070672_0	12_1685070672	kipəkana	sprießen , bersten	sprout , burst	bertunas, meledak		
+1679	12_1685070255_0	12_1685070255	pəkanãʔã	zerbrich , hebe (ein Verbot) aufǃ	break , lift (a ban)ǃ (sg)	istirahat , angkat (larangan) ǃ (sg)	istirahat , angkat (pantang) ǃ (bentuk tunggal)	
+1680	12_1685070255_1	12_1685070255	kamũpə̃kãnãʔã ekauaba	wir heben das (Spinnennetz=) Verbot auf	we lift the (cobweb=) prohibition	kami mencabut larangan (sarang laba-laba=)	kami mencabut (sarang laba-laba=) larangan	
+1681	12_1685070536_0	12_1685070536	kipəkaʔa	etwas vor-/zubereiten	to prepare/prepare something	untuk mempersiapkan/menyiapkan sesuatu	mempersiapkan/menyiapkan sesuatu	
+1682	12_1685070672_0	12_1685070672	kipəkana	sprießen , bersten	sprout , burst	bertunas, meledak	bertunas, keluar/meledak	
 1683	12_1685070672_1	12_1685070672	hoo pəkana	sproß	sprout	bertunas		
-1684	12_1685071827_0	12_1685071827	kipəkanãʔã	etwas bersten lassen	to burst something	untuk meledakkan sesuatu		
+1684	12_1685071827_0	12_1685071827	kipəkanãʔã	etwas bersten lassen	to burst something	untuk meledakkan sesuatu	meledakkan sesuatu	
 1685	12_1685071827_1	12_1685071827	edipəkanãʔã	das , was man bersten läßt	that which is allowed to burst	apa yang dibiarkan meledak		
-1686	12_1685071958_0	12_1685071958	kipəkanãʔã	gleichmäßig verteilen	distribute evenly	mendistribusikan secara merata		
+1686	12_1685071958_0	12_1685071958	kipəkanãʔã	gleichmäßig verteilen	distribute evenly	mendistribusikan secara merata	membagikan secara merata	
 1687	12_1685072000_0	12_1685072000	kipekau	teilen	divide	membagi		
 1688	12_1685072105_0	12_1685072105	kapəkəa ekidai	die Eingeweide werden heraustreten	the entrails will come out	isi perut akan keluar		
-1690	12_1685072375_0	12_1685072375	pəpəʔaʔa:i	zerschneideǃ	cut upǃ (sg)	potongǃ (sg)		
+1690	12_1685072375_0	12_1685072375	pəpəʔaʔa:i	zerschneideǃ	cut upǃ (sg)	potongǃ (sg)	potongǃ (bentuk tunggal)	
 1691	12_1685072973_0	12_1685072973	kipĩĩ	nicht wollen , verweigern	not to want , to refuse	tidak menginginkan, menolak		
 1692	12_1685072973_1	12_1685072973	ʔua kipĩĩ eaha:e	ich will nicht gehen	I do not want to go	Saya tidak ingin pergi		
 1693	12_1685072973_2	12_1685072973	kamũpĩĩ mũnõõ	will nicht essen	do not want to eat	tidak mau makan		
