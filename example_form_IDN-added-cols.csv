@@ -1,5 +1,5 @@
 ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Remark
-1	10_1683773149_0	10_1683773149	kikobu	rösten , braten	roast , fry	panggang, goreng		
+1	10_1683773149_0	10_1683773149	kikobu	rösten , braten	roast , fry	panggang, goreng		ok
 2	10_1683773886_0	10_1683773886	kikode	auf der Schulter tragen	carry on the shoulder	membawa di bahu	membawa di bahu; memikul	
 3	10_1683773886_1	10_1683773886	dakubode	sie tragen auf der Schulter	they carry on the shoulder	yang mereka bawa di bahu		
 4	10_1683773886_2	10_1683773886	ʔobukodeaʔa	tragtǃ	carry! (pl)	bawa! (pl)	bawa! (jamak); pikul! (jamak)	
@@ -1132,138 +1132,138 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 1143	11_1686795954_0	11_1686795954	dahabeoho:i	sie entreißen	to snatch them away	untuk merebut mereka pergi	merebut mereka	
 1144	11_1686797147_0	11_1686797147	kibəha	gekocht , gar	cooked , cooked	dimasak, dimasak	dimasak, matang	
 1145	11_1686797147_1	11_1686797147	kipabəha	"(""fertig machen"" =) braten , kochen , brennen (Ton)"	"(""get ready"" =) fry , cook , burn (clay)"	"(""bersiap-siap"" =) menggoreng, memasak, membakar (tanah liat)"		
-1146	11_1686797147_10	11_1686797147	epabəáho	Garzumachendes (Gerundiv̱um)	thing(s) to be cooked (gerundivum)	benda yang akan dimasak (gerundivum)		
-1147	11_1686797147_11	11_1686797147	epahabəhə́aha	Küche	Kitchen	Dapur		
-1148	11_1686797147_2	11_1686797147	kahabəha	kochen	to cook	untuk memasak		
-1149	11_1686797147_3	11_1686797147	kababəha	es kocht , gart	it boils , cooks	itu mendidih , memasak		
+1146	11_1686797147_10	11_1686797147	epabəáho	Garzumachendes (Gerundiv̱um)	thing(s) to be cooked (gerundivum)	benda yang akan dimasak (gerundivum)	benda yang akan dimasak (nominalisasi)	
+1147	11_1686797147_11	11_1686797147	epahabəhə́aha	Küche	Kitchen	Dapur	dapur	
+1148	11_1686797147_2	11_1686797147	kahabəha	kochen	to cook	untuk memasak	memasak	
+1149	11_1686797147_3	11_1686797147	kababəha	es kocht , gart	it boils , cooks	itu mendidih , memasak	itu mendidih , masak	
 1150	11_1686797147_4	11_1686797147	hoo [pa]bəha	kochte bereits , bereits gar sein	already cooked , to be cooked already	sudah dimasak, sudah dimasak		
-1151	11_1686797147_5	11_1686797147	pahabəha uũʔã	koche Nahrungǃ	cook food! (sg)	memasak makanan! (sg)		
-1152	11_1686797147_6	11_1686797147	pabəha	kocheǃ	cook! (sg)	masak! (sg)		
+1151	11_1686797147_5	11_1686797147	pahabəha uũʔã	koche Nahrungǃ	cook food! (sg)	memasak makanan! (sg)	masak makanan! (bentuk tunggal)	
+1152	11_1686797147_6	11_1686797147	pabəha	kocheǃ	cook! (sg)	masak! (sg)	masak! (bentuk tunggal)	
 1153	11_1686797147_7	11_1686797147	kidipabəha	gekocht , gebraten	boiled , fried	direbus , digoreng		
-1154	11_1686797147_8	11_1686797147	edipabəha	Gegartes	cooked (noun)	dimasak (kata benda)		
+1154	11_1686797147_8	11_1686797147	edipabəha	Gegartes	cooked (noun)	dimasak (kata benda)	yang dimasak (kata benda)	
 1155	11_1686797147_9	11_1686797147	epahabəha	das Kochen	the cooking	memasak		
-1156	11_1686797766_0	11_1686797766	epaʔabibi	Versöhnung	Reconciliation	Rekonsiliasi		
+1156	11_1686797766_0	11_1686797766	epaʔabibi	Versöhnung	Reconciliation	Rekonsiliasi	rekonsiliasi	
 1157	11_1686797766_1	11_1686797766	kipaʔabibi	versöhnte Gegner	reconciled opponents	mendamaikan lawan		
-1158	11_1686797766_2	11_1686797766	kaʔabibi·dia	Feindschaft hegen , seiner Feinde , seine Gegner	to harbor enmity , his enemies , his opponents	untuk memendam permusuhan, musuh-musuhnya, lawan-lawannya		
+1158	11_1686797766_2	11_1686797766	kaʔabibi·dia	Feindschaft hegen , seiner Feinde , seine Gegner	to harbor enmity , his enemies , his opponents	untuk memendam permusuhan, musuh-musuhnya, lawan-lawannya	memendam permusuhan, musuh-musuhnya, lawan-lawannya	
 1159	11_1686797766_3	11_1686797766	akinõnõ ekitai abibika	wie unser Feind denkt	how our enemy thinks	bagaimana musuh kita berpikir		
 1160	11_1686797766_4	11_1686797766	ũmãhãũ akaʔabibidia	ob er Feindschaft hege	whether he harbors enmity	apakah dia menyimpan permusuhan		
 1161	11_1686797975_0	11_1686797975	kaʔabikaʔaho:i	oberflächlich sein	to be shallow	menjadi dangkal		
-1162	11_1686798064_0	11_1686798064	kabikebi	gefleckt , bunt	spotted , colorful	terlihat, berwarna-warni		
-1163	11_1686798064_1	11_1686798064	ekiʔadobu kabikebi	das Huhn ist gefleckt	the chicken is spotted	ayam itu terlihat		
-1164	11_1686798064_2	11_1686798064	kabibikebi	stark gefleckt	heavily spotted	sangat terlihat		
+1162	11_1686798064_0	11_1686798064	kabikebi	gefleckt , bunt	spotted , colorful	terlihat, berwarna-warni	berbintik-bintik, berwarna-warni	
+1163	11_1686798064_1	11_1686798064	ekiʔadobu kabikebi	das Huhn ist gefleckt	the chicken is spotted	ayam itu terlihat	ayam itu berbintik-bintik	
+1164	11_1686798064_2	11_1686798064	kabibikebi	stark gefleckt	heavily spotted	sangat terlihat	sangat berbintik-bintik	
 1165	11_1686798193_0	11_1686798193	kahabita	ein Sektor	a sector	sebuah sektor		
 1166	11_1686798193_1	11_1686798193	ʔakodu habita	drei Sektoren	three sectors	tiga sektor		
 1167	11_1686798424_0	11_1686798424	eboo epũʔã	Aschenregen	rain of ash	hujan abu		
-1168	11_1686798424_1	11_1686798424	eboo kaʔuda:ixo	Sonnenregen	rain of sunshine	hujan sinar matahari		
+1168	11_1686798424_1	11_1686798424	eboo kaʔuda:ixo	Sonnenregen	rain of sunshine	hujan sinar matahari	sinar matahari	
 1169	11_1686798424_2	11_1686798424	kaboakaʔa eboo	feiner Regen	fine/light rain	hujan ringan/hujan ringan		
-1170	11_1686798566_0	11_1686798566	kipabobokeke	krümmen	to bend	untuk membungkuk		
+1170	11_1686798566_0	11_1686798566	kipabobokeke	krümmen	to bend	untuk membungkuk	membungkuk	
 1171	11_1687148162_0	11_1687148162	kiʔokoʔo:i	markieren durch Ritzen , behauen	mark by carving , hewing	tandai dengan ukiran, gergaji		
 1172	11_1687148162_1	11_1687148162	kiʔokoʔó:iaʔa	etwas markieren durch Ritzen/Schnitzen	mark something by scratching/carving	menandai sesuatu dengan menggores/mengukir		
 1173	11_1687148162_2	11_1687148162	kanõkṍʔõ:ĩ u-	schnitzen , ritzen	carve , scratch	mengukir, menggaruk		
-1174	11_1687148162_3	11_1687148162	aʔokoʔo:i	schnitze , ritzeǃ	carve , scratch! (sg)	mengukir, menggores! (sg)		
-1175	11_1687148162_4	11_1687148162	kabokoʔo:i	wir (in) ritzen	we (in) scratch	kita (di) awal		
-1176	11_1687148228_0	11_1687148228	epaokopa	Anlegeplatz	Mooring place	Tempat berlabuh		
-1177	11_1687148766_0	11_1687148766	eʔõmẽ́ãʔã	Stock zum Abstoßen der Früchte vom Baum	stick for pushing fruit off the tree	tongkat untuk mendorong buah dari pohon		
+1174	11_1687148162_3	11_1687148162	aʔokoʔo:i	schnitze , ritzeǃ	carve , scratch! (sg)	mengukir, menggores! (sg)	ukir, gores! (bentuk tunggal)	
+1175	11_1687148162_4	11_1687148162	kabokoʔo:i	wir (in) ritzen	we (in) scratch	kita (di) awal	kami (dalam) mengukir	
+1176	11_1687148228_0	11_1687148228	epaokopa	Anlegeplatz	Mooring place	Tempat berlabuh	dermaga	
+1177	11_1687148766_0	11_1687148766	eʔõmẽ́ãʔã	Stock zum Abstoßen der Früchte vom Baum	stick for pushing fruit off the tree	tongkat untuk mendorong buah dari pohon	tongkat untuk mendorong buah jatuh dari pohon	
 1178	11_1687148952_0	11_1687148952	kipáomõ	voll sein	being full	menjadi penuh		
 1179	11_1687148952_1	11_1687148952	hõ páomõ	schon voll	already full	sudah penuh		
 1180	11_1687148952_2	11_1687148952	euba ukaenĩ kipaomõ	die Kleiderkiste ist voll	the clothes box is full	kotak pakaian sudah penuh		
-1181	11_1687149665_0	11_1687149665	kõmõ	(ab)warten , bewachen , aufpassen , beobachten	(to) wait , guard , watch , observe	(untuk) menunggu, menjaga, menonton, mengamati		
+1181	11_1687149665_0	11_1687149665	kõmõ	(ab)warten , bewachen , aufpassen , beobachten	(to) wait , guard , watch , observe	(untuk) menunggu, menjaga, menonton, mengamati	menunggu, menjaga, menonton, mengamati	
 1182	11_1687149665_1	11_1687149665	kõmõã	wird warten	will wait	akan menunggu		
 1183	11_1687149665_10	11_1687149665	enõmõ	(noun) Bewachte usw	(things) guarded etc. (noun)	(benda) yang dijaga dsb. (kata benda)		
 1184	11_1687149665_11	11_1687149665	eõmə̃ã	(noun) Erwartete	(things) expected	(hal-hal) yang diharapkan		
 1185	11_1687149665_12	11_1687149665	epã:õmõ	das Warten , auf etwas Achten	waiting , paying attention to something (noun)	menunggu , memperhatikan sesuatu (kata benda)		
 1186	11_1687149665_13	11_1687149665	epã:õmə̃ã	Wartensort	Waiting place	Tempat tunggu		
 1187	11_1687149665_14	11_1687149665	eõmõhõ	zu Erwartendes	(thing) to be expected (noun)	(benda) yang diharapkan (kata benda)		
-1188	11_1687149665_15	11_1687149665	kə̃mə̃ãʔã	mit etwas warten	to wait with something	untuk menunggu dengan sesuatu		
+1188	11_1687149665_15	11_1687149665	kə̃mə̃ãʔã	mit etwas warten	to wait with something	untuk menunggu dengan sesuatu	dengan sedikit menunggu	
 1189	11_1687149665_16	11_1687149665	enə̃mə̃ãʔã́hõ	das , womit zu erwarten (??) ist	that with which is to be expected (??)	yang diharapkan (??)		
-1190	11_1687149665_17	11_1687149665	kipã:õmõ	bewachen	to guard	untuk menjaga		
+1190	11_1687149665_17	11_1687149665	kipã:õmõ	bewachen	to guard	untuk menjaga	menjaga	
 1191	11_1687149665_18	11_1687149665	hoo pã:õmõ	bewachte bereits	already guarded	sudah dijaga		
 1192	11_1687149665_2	11_1687149665	ṍmõpe nũkĩ	warte ein wenigǃ	wait a little! (sg)	tunggu sebentar! (sg)		
 1193	11_1687149665_3	11_1687149665	hoo mõmõ	hat bewacht	has guarded	telah menjaga		
-1194	11_1687149665_4	11_1687149665	kaha:e mã:õmõ	gehen , um zu erwarten	to go in order to expect	untuk pergi untuk mengharapkan		
+1194	11_1687149665_4	11_1687149665	kaha:e mã:õmõ	gehen , um zu erwarten	to go in order to expect	untuk pergi untuk mengharapkan	pergi mengharapkan	
 1195	11_1687149665_5	11_1687149665	nãmã:õmõ	sie warten ab	they wait	mereka menunggu		
-1196	11_1687149665_6	11_1687149665	kõmõmõ	pflegt zu bewachen	tends to guard	cenderung menjaga		
+1196	11_1687149665_6	11_1687149665	kõmõmõ	pflegt zu bewachen	tends to guard	cenderung menjaga	digunakan untuk menjaga	
 1197	11_1687149665_7	11_1687149665	kipapã:õmõ	zu bewachen pflegen	usually/normally guard	biasanya/biasanya menjaga		
 1198	11_1687149665_8	11_1687149665	ki kipã:õmõ iʔioo kapae eʔana	sie wachen über (achten auf ; erwarten) jene Kinder	they watch over (pay attention to ; expect) those children	mereka mengawasi (memperhatikan; mengharapkan) anak-anak itu		
 1199	11_1687149665_9	11_1687149665	kã:õmõãʔã	aufpassen , abwarten	watch out , wait	hati-hati, tunggu		
 1200	11_1687149795_0	11_1687149795	eʔõmõĩñãhã ukehebu	Untergehensort der Sonne	Place of setting of the sun	Tempat terbenamnya matahari		
-1201	11_1687149856_0	11_1687149856	kiõnãnõ	(im Schlaf) wühlen	to burrow (in sleep).	untuk menggali (dalam tidur).		
+1201	11_1687149856_0	11_1687149856	kiõnãnõ	(im Schlaf) wühlen	to burrow (in sleep).	untuk menggali (dalam tidur).	(dalam [keadaan] tidur) menggeledah	
 1202	11_1687150212_0	11_1687150212	kiõnẽkã	biegsam , geschmeidig	flexible , supple	fleksibel, lentur		
-1203	11_1687150212_1	11_1687150212	hoo mũõnẽkã	war bereits biegsam	was already flexible	sudah fleksibel		
-1204	11_1687150212_2	11_1687150212	kõnẽkãʔã	biegsam machen mit etwas	to make flexible with something	untuk membuat fleksibel dengan sesuatu		
-1205	11_1687150212_3	11_1687150212	kipaõnẽkã	biegen	to bend	untuk membungkuk		
+1203	11_1687150212_1	11_1687150212	hoo mũõnẽkã	war bereits biegsam	was already flexible	sudah fleksibel	sudah lentur	
+1204	11_1687150212_2	11_1687150212	kõnẽkãʔã	biegsam machen mit etwas	to make flexible with something	untuk membuat fleksibel dengan sesuatu	membuat menjadi lentur/fleksibel dengan sesuatu	
+1205	11_1687150212_3	11_1687150212	kipaõnẽkã	biegen	to bend	untuk membungkuk	membungkuk	
 1206	11_1687150644_0	11_1687150644	oʔõnõ	das Schwachsein	the being-weak	makhluk yang lemah		
 1207	11_1687150644_1	11_1687150644	kioʔõnõ	schwach	weak	lemah		
 1208	11_1687150644_2	11_1687150644	kioʔõnə̃ã	wird schwach sein	will be weak	akan menjadi lemah		
-1209	11_1687150644_3	11_1687150644	hoo mũõʔõnõ	war (bereits) schwach , ist schwach gewesen	was (already) weak , has been weak	adalah (sudah) lemah , telah lemah		
+1209	11_1687150644_3	11_1687150644	hoo mũõʔõnõ	war (bereits) schwach , ist schwach gewesen	was (already) weak , has been weak	adalah (sudah) lemah , telah lemah	(sudah) lemah , telah lemah	
 1210	11_1687150644_4	11_1687150644	kéabaʔa yaʔõnõ	er ist nicht schwach	he is not weak	dia tidak lemah		
 1211	11_1687833979_0	11_1687833979	kiõnõã	(Wind , Kraft , usw) aufhören , nachlassen	(wind , power , etc.) stop , subside	(angin, listrik, dll.) berhenti, mereda		
 1212	11_1687833979_1	11_1687833979	ekiu hoo mũõnõã	der Wind hat aufgehört	the wind has stopped	angin telah berhenti		
-1213	11_1687833979_2	11_1687833979	kipaõnõã	jmd hindern	prevent smb	mencegah smb		
-1214	11_1687834486_0	11_1687834486	kiʔõnõpãʔã	etwas herausreißen , entwurzeln	to tear something out , to uproot something	untuk merobek sesuatu , untuk mencabut sesuatu		
+1213	11_1687833979_2	11_1687833979	kipaõnõã	jmd hindern	prevent smb	mencegah smb	mencegah sesorang	
+1214	11_1687834486_0	11_1687834486	kiʔõnõpãʔã	etwas herausreißen , entwurzeln	to tear something out , to uproot something	untuk merobek sesuatu , untuk mencabut sesuatu	merobek sesuatu, mencabut sesuatu	
 1215	11_1687834486_1	11_1687834486	hoo mũʔõnõpãʔã	entwurzelte	uprooted	dicabut		
-1216	11_1687834486_2	11_1687834486	enĩʔõnõpãʔã	(noun) Herausgerissene	uprooted (things) (noun)	mencabut (benda) (kata benda) (kata benda)		
-1217	11_1687834486_3	11_1687834486	eʔõnõpãʔã́hõ	(noun) Herauszuziehende	(things) to be uprooted (noun)	(benda) yang dicabut (kata benda)		
-1218	11_1687834571_0	11_1687834571	kiʔõnõpĩ	herausreißen	to tear out	untuk merobek		
+1216	11_1687834486_2	11_1687834486	enĩʔõnõpãʔã	(noun) Herausgerissene	uprooted (things) (noun)	mencabut (benda) (kata benda) (kata benda)	(benda) yang dicabut (kata benda)	
+1217	11_1687834486_3	11_1687834486	eʔõnõpãʔã́hõ	(noun) Herauszuziehende	(things) to be uprooted (noun)	(benda) yang dicabut (kata benda)	(benda) yang dicabut (kata benda)	
+1218	11_1687834571_0	11_1687834571	kiʔõnõpĩ	herausreißen	to tear out	untuk merobek	merobek	
 1219	11_1687834670_0	11_1687834670	konũ	auftauchen , an die Oberfläche kommen	to surface , to come to the surface	ke permukaan, muncul ke permukaan		
-1220	11_1687834670_1	11_1687834670	kipa:onũ	auftauchen lassen	to let something surface	untuk membiarkan sesuatu muncul ke permukaan		
+1220	11_1687834670_1	11_1687834670	kipa:onũ	auftauchen lassen	to let something surface	untuk membiarkan sesuatu muncul ke permukaan	membiarkan sesuatu muncul ke permukaan	
 1221	11_1687835014_0	11_1687835014	kiʔoʔo	auf etwas zeigen	point to something	menunjuk ke sesuatu		
 1222	11_1687835014_1	11_1687835014	kabuʔuoʔo	er zeigte (mit ausgestrecktem Finger) auf etwas	he pointed (with an outstretched finger) at something	dia menunjuk (dengan jari terulur) pada sesuatu		
-1223	11_1687835014_2	11_1687835014	uabaʔa̱ʔo	du zeigst so	you (sg) point like this	anda (sg) menunjuk seperti ini		
-1224	11_1687835337_0	11_1687835337	kiʔõʔõ	1. gerinnen 2. (Früchte) dicht sitzen	1. coagulate 2. (fruits) sit tight	1. menggumpal 2. (buah) duduk rapat		
+1223	11_1687835014_2	11_1687835014	uabaʔa̱ʔo	du zeigst so	you (sg) point like this	anda (sg) menunjuk seperti ini	Anda (bentuk tunggal) menunjuk seperti ini	
+1224	11_1687835337_0	11_1687835337	kiʔõʔõ	1. gerinnen 2. (Früchte) dicht sitzen	1. coagulate 2. (fruits) sit tight	1. menggumpal 2. (buah) duduk rapat	1. menggumpal 2. (buah) merapat	
 1225	11_1687835337_1	11_1687835337	ekiaki hoo mũʔõ?õ	das Blut ist geronnen	the blood has coagulated	darah telah membeku		
-1226	11_1687835337_2	11_1687835337	ehũã upoo hoo mũʔõʔõ	die Kokosnüsse sitzen dicht	the coconuts sit tight	kelapa duduk dengan rapat		
+1226	11_1687835337_2	11_1687835337	ehũã upoo hoo mũʔõʔõ	die Kokosnüsse sitzen dicht	the coconuts sit tight	kelapa duduk dengan rapat	kelapa duduk tumbuh rapat	
 1227	11_1687835558_0	11_1687835558	eʔõʔõ	(noun) Harte , Kräftige , Starke , das Kräftigsein	the hard , strong , sturdy , the being-strong	yang keras, kuat, kokoh, dan kuat		
 1228	11_1687835558_1	11_1687835558	ʔua eʔõʔõ	ich bin kräftig	I am strong	Aku kuat		
 1229	11_1687835558_2	11_1687835558	kaʔã:õʔõ	(Stimme) kräftig , laut	(voice) strong , loud	(suara) kuat, keras		
 1230	11_1687835558_3	11_1687835558	kaʔã:õʔõʔõ	sehr hart , sehr kräftig , sehr laut	very hard , very strong , very loud	sangat keras, sangat kuat, sangat keras		
 1231	11_1687835558_4	11_1687835558	kipaʔaʔõʔõʔõ	kräftig , laut sein lassen	strong , to let be loud	kuat, agar menjadi keras		
-1232	11_1687835961_0	11_1687835961	kaʔõʔõã	mit dem Jagdnetz fangen	to catch with the hunting net	untuk menangkap dengan jaring berburu		
+1232	11_1687835961_0	11_1687835961	kaʔõʔõã	mit dem Jagdnetz fangen	to catch with the hunting net	untuk menangkap dengan jaring berburu	menangkap dengan jaring berburu	
 1233	11_1687836145_0	11_1687836145	kiʔoʔóaʔa:i	schreien , laut sprechen	shout , speak loudly	berteriak, berbicara dengan keras		
-1234	11_1687836145_1	11_1687836145	kipaʔoʔóa?a:i	jmd anschreien	to shout at someone	untuk berteriak pada seseorang		
+1234	11_1687836145_1	11_1687836145	kipaʔoʔóa?a:i	jmd anschreien	to shout at someone	untuk berteriak pada seseorang	berteriak pada seseorang	
 1235	11_1687836145_2	11_1687836145	epaʔoʔóaʔa:i	das Schreien	the shouting	teriakan		
-1236	11_1687836449_0	11_1687836449	kaʔoʔoba	etwas stützen	to support something	untuk mendukung sesuatu		
-1237	11_1687836449_1	11_1687836449	kaʔoʔobaháʔa	etwas mit etwas stützen	to support something with something	untuk mendukung sesuatu dengan sesuatu		
-1238	11_1687836449_2	11_1687836449	eoʔoba	Stock , Stab	stick , staff	tongkat, staf		
-1239	11_1687836449_3	11_1687836449	eaʔoʔoba	das sich Stützen auf etwas	the leaning on something (noun)	bersandar pada sesuatu (kata benda)		
-1240	11_1687836449_4	11_1687836449	eaʔoʔobaha	Stützensort	place of support	tempat dukungan		
-1241	11_1687836449_5	11_1687836449	edaʔoʔobahaʔa	das , womit etwas gestützt wird	that with which something is supported	yang dengannya sesuatu didukung		
+1236	11_1687836449_0	11_1687836449	kaʔoʔoba	etwas stützen	to support something	untuk mendukung sesuatu	menyangga sesuatu	
+1237	11_1687836449_1	11_1687836449	kaʔoʔobaháʔa	etwas mit etwas stützen	to support something with something	untuk mendukung sesuatu dengan sesuatu	menyangga sesuatu dengan sesuatu	
+1238	11_1687836449_2	11_1687836449	eoʔoba	Stock , Stab	stick , staff	tongkat, staf	tongkat, batang	
+1239	11_1687836449_3	11_1687836449	eaʔoʔoba	das sich Stützen auf etwas	the leaning on something (noun)	bersandar pada sesuatu (kata benda)	bersandarnya pada sesuatu (kata benda)	
+1240	11_1687836449_4	11_1687836449	eaʔoʔobaha	Stützensort	place of support	tempat dukungan	tempat bersandar	
+1241	11_1687836449_5	11_1687836449	edaʔoʔobahaʔa	das , womit etwas gestützt wird	that with which something is supported	yang dengannya sesuatu didukung	alat yang digunakan menyangga	
 1242	11_1687836449_6	11_1687836449	edaʔoʔobahaʔaho	(noun) zum Stützen zu Benutzende	(thing) to be used for support (noun)	(benda) yang digunakan sebagai penyangga (kata benda)		
-1243	11_1687836553_0	11_1687836553	kipaʔóʔobadi	sich widersetzen , sich sträuben	to oppose , to resist	untuk menentang, untuk menolak		
+1243	11_1687836553_0	11_1687836553	kipaʔóʔobadi	sich widersetzen , sich sträuben	to oppose , to resist	untuk menentang, untuk menolak	menantang, menolak	
 1244	11_1687836553_1	11_1687836553	epaʔóʔobadi	Uneinigkeit	discord/disagreement	perselisihan/ketidaksepakatan		
-1245	11_1687837045_0	11_1687837045	kiʔoʔobo	auf allen vieren kriechen	to crawl on all fours	merangkak dengan merangkak		
+1245	11_1687837045_0	11_1687837045	kiʔoʔobo	auf allen vieren kriechen	to crawl on all fours	merangkak dengan merangkak	merangkat dengan tangan dan kaki	
 1246	11_1687837045_1	11_1687837045	hoo buʔoʔobo	kroch bereits	crawled already	sudah merangkak		
-1247	11_1687837045_2	11_1687837045	eoʔobo	das Kriechen , Krabbeln	the crawling	yang merangkak		
-1248	11_1687837045_3	11_1687837045	kipaʔoʔobóaʔa	etwas zum Kriechen benutzen	to use something to crawl	untuk menggunakan sesuatu untuk merangkak		
+1247	11_1687837045_2	11_1687837045	eoʔobo	das Kriechen , Krabbeln	the crawling	yang merangkak	(proses) merangkak	
+1248	11_1687837045_3	11_1687837045	kipaʔoʔobóaʔa	etwas zum Kriechen benutzen	to use something to crawl	untuk menggunakan sesuatu untuk merangkak	menggunakan sesuatu untuk merangkak	
 1249	11_1687837045_4	11_1687837045	ʔua kipaʔoʔobóaʔa eʔapóʔo:u	ich krieche auf meinen Händen	I crawl on my hands	Aku merangkak dengan tanganku		
-1250	11_1687837045_5	11_1687837045	kiʔoʔóboho:i	auf etwas kriechen	to crawl on something	untuk merangkak pada sesuatu		
+1250	11_1687837045_5	11_1687837045	kiʔoʔóboho:i	auf etwas kriechen	to crawl on something	untuk merangkak pada sesuatu	merangkak pada sesuatu	
 1251	11_1687837045_6	11_1687837045	edipaʔoʔobóaʔa	(noun) zum Kriechen Benutzte	(thing) used for crawling (noun)	(benda) yang digunakan untuk merangkak (kata benda)		
 1252	11_1687837045_7	11_1687837045	edipaʔoʔoboaʔáho	(noun) zum Kriechen zu Benutzende	(thing) to be used for crawling (noun)	(benda) yang digunakan untuk merangkak (kata benda)		
-1253	11_1687837045_8	11_1687837045	ediʔoʔobohó:iyo	(noun) zu Bekriechende	(thing) to be crawled on/through (noun)	(benda) untuk dirayapi/ditembus (kata benda)		
+1253	11_1687837045_8	11_1687837045	ediʔoʔobohó:iyo	(noun) zu Bekriechende	(thing) to be crawled on/through (noun)	(benda) untuk dirayapi/ditembus (kata benda)	(benda) yang dirayapi/ditembus (kata benda)	
 1254	11_1687837733_0	11_1687837733	kiʔoʔoboi	beschleichen , auflauern ; mit dem Netz fangen	to stalk , to ambush ; to catch with the net	menguntit, menyergap; menangkap dengan jaring		
-1255	11_1687837733_1	11_1687837733	kiʔoʔoboi eʔa:iyo (ekoyo)	Fische (Wildschweine) fangen	to catch fish (wild boar).	untuk menangkap ikan (babi hutan).		
+1255	11_1687837733_1	11_1687837733	kiʔoʔoboi eʔa:iyo (ekoyo)	Fische (Wildschweine) fangen	to catch fish (wild boar).	untuk menangkap ikan (babi hutan).	menangkap ikan (babi hutan).	
 1256	11_1687837733_10	11_1687837733	eahoʔobóiya	Fangensort	place of catching	tempat penangkapan		
 1257	11_1687837733_11	11_1687837733	eʔoʔoboiyo	(noun) zu Beschleichende	(thing) to be stalked (noun)	(benda) yang dikuntit (kata benda)		
 1258	11_1687837733_2	11_1687837733	kabuʔoʔoboi ki	er beschlich sie	he stalked her/them	dia menguntit dia / mereka		
-1259	11_1687837733_3	11_1687837733	kidiʔoʔoboi	gefangen werden	to be caught	untuk ditangkap		
+1259	11_1687837733_3	11_1687837733	kidiʔoʔoboi	gefangen werden	to be caught	untuk ditangkap	ditangkap	
 1260	11_1687837733_4	11_1687837733	kiʔoʔoboíaʔa	zum Fangen (als Netz) benutzen	use to catch (as a net)	digunakan untuk menangkap (sebagai jaring)		
 1261	11_1687837733_5	11_1687837733	ʔua kiʔoʔoboíaʔa ekabo iʔioo uʔa:iyo	ich benutze ein Wurfnetz zum Fangen von Fischen	I use a cast net to catch fish	Saya menggunakan jaring untuk menangkap ikan		
-1262	11_1687837733_6	11_1687837733	eʔoʔoboi	Wurfnetz	cast net	melemparkan jaring		
-1263	11_1687837733_7	11_1687837733	ediʔoʔoboi	(noun) Beschlichene	(thing) stalked (noun)	(benda) menguntit (kata benda)		
+1262	11_1687837733_6	11_1687837733	eʔoʔoboi	Wurfnetz	cast net	melemparkan jaring	melemparkan/menebar jaring	
+1263	11_1687837733_7	11_1687837733	ediʔoʔoboi	(noun) Beschlichene	(thing) stalked (noun)	(benda) menguntit (kata benda)	(benda) yang dikuntit (kata benda)	
 1264	11_1687837733_8	11_1687837733	ediʔoʔoboíaʔa	das , was zum Fangen benutzt wird	that which is used for catching	yang digunakan untuk menangkap		
 1265	11_1687837733_9	11_1687837733	eahoʔoboi	das Fangen	the catching	penangkapan		
-1266	11_1687844693_0	11_1687844693	kaʔoʔobu	tun	to do	untuk melakukan		
+1266	11_1687844693_0	11_1687844693	kaʔoʔobu	tun	to do	untuk melakukan	melakukan 	
 1267	11_1687844693_1	11_1687844693	ehabaʔoʔobu	Tun , Tat	doing , deed (noun)	melakukan , perbuatan (kata benda)		
-1268	11_1687844693_2	11_1687844693	kiʔoʔobúaʔa	etwas gerade gebrauchen , sich um etwas bemühen	to be using something , to strive for something	untuk menggunakan sesuatu , untuk mengupayakan sesuatu		
+1268	11_1687844693_2	11_1687844693	kiʔoʔobúaʔa	etwas gerade gebrauchen , sich um etwas bemühen	to be using something , to strive for something	untuk menggunakan sesuatu , untuk mengupayakan sesuatu	menggunakan sesuatu , mengupayakan sesuatu	
 1269	11_1687844693_3	11_1687844693	kidiʔoʔobúaʔa	wird gerade gebraucht	is currently needed/used	saat ini dibutuhkan/digunakan		
 1270	11_1687844899_0	11_1687844899	kiʔoʔokáha:i	jmd auslachen	laugh at someone	menertawakan seseorang		
-1271	11_1687844899_1	11_1687844899	ʔoʔokáha:iaʔa	verlacht jmdǃ	laugh at someone! (pl)	menertawakan seseorang! (pl)		
+1271	11_1687844899_1	11_1687844899	ʔoʔokáha:iaʔa	verlacht jmdǃ	laugh at someone! (pl)	menertawakan seseorang! (pl)	tertawakan orang itu! (bentuk jamak)	
 1272	11_1687844899_2	11_1687844899	kidiʔoʔokaha:i	verlacht werden	be laughed at	ditertawakan		
-1273	11_1687844899_3	11_1687844899	ediʔoʔokáha:i	(noun) Verlachte , Ausgelachte	(person) laughed at , ridiculed (noun)	(orang) ditertawakan , diejek (kata benda)		
-1274	11_1687845183_0	11_1687845183	kiʔoʔoki	sägen , zerschneiden , schlachten	to saw , cut , slaughter	untuk menggergaji, memotong, menyembelih		
-1275	11_1687845183_1	11_1687845183	kidiʔoʔoki	gesägt werden	to be sawed	untuk digergaji		
-1276	11_1687845183_2	11_1687845183	kiʔoʔokiaʔa	mit etwas sägen	to saw with something	untuk melihat dengan sesuatu		
-1277	11_1687845183_3	11_1687845183	epaoʔóki	Säge	saw	melihat		
+1273	11_1687844899_3	11_1687844899	ediʔoʔokáha:i	(noun) Verlachte , Ausgelachte	(person) laughed at , ridiculed (noun)	(orang) ditertawakan , diejek (kata benda)	(orang) yang ditertawakan , yang diejek (kata benda)	
+1274	11_1687845183_0	11_1687845183	kiʔoʔoki	sägen , zerschneiden , schlachten	to saw , cut , slaughter	untuk menggergaji, memotong, menyembelih	menggergaji, memotong, menyembelih	
+1275	11_1687845183_1	11_1687845183	kidiʔoʔoki	gesägt werden	to be sawed	untuk digergaji	digergaji	
+1276	11_1687845183_2	11_1687845183	kiʔoʔokiaʔa	mit etwas sägen	to saw with something	untuk melihat dengan sesuatu	menggergaji dengan sesuatu	
+1277	11_1687845183_3	11_1687845183	epaoʔóki	Säge	saw	melihat	gergaji	
 1278	11_1687845183_4	11_1687845183	ediʔoʔoki	(noun) Gesägte usw	(thing) sawed etc. (noun)	(benda) yang digergaji dsb. (kata benda)		
 1279	11_1687845183_5	11_1687845183	eʔoʔokio	(noun) zu Sägende	(thing) to be sawed (noun)	(benda) yang digergaji (kata benda)		
 1280	11_1687845183_6	11_1687845183	eahaʔoki	das Sägen	the sawing	penggergajian		
@@ -1273,37 +1273,37 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 1284	11_1687845534_1	11_1687845534	hoo buʔõʔõnõ	bereits schwach	already weak	sudah lemah		
 1285	11_1687845534_2	11_1687845534	kiʔõʔõnṍhõ:ĩ	schwächen , besiegen	weaken , defeat	melemahkan, mengalahkan		
 1286	11_1687845534_3	11_1687845534	kipaʔõʔõnṍhõ:ĩ	schwächen	weaken	melemahkan		
-1287	11_1687845534_4	11_1687845534	eaʔõʔõnõ	das Schwachsein , Schwäche	being weak , weakness (noun)	menjadi lemah , kelemahan (kata benda)		
+1287	11_1687845534_4	11_1687845534	eaʔõʔõnõ	das Schwachsein , Schwäche	being weak , weakness (noun)	menjadi lemah , kelemahan (kata benda)	keadaan menjadi lemah , kelemahan (kata benda)	
 1288	11_1687845679_0	11_1687845679	kaʔaʔõʔõʔõ	sehr kräftig , sehr laut	very strong , very loud	sangat kuat, sangat keras		
-1289	11_1687845679_1	11_1687845679	kipaʔaʔõʔõʔõ	kräftig , laut sein lassen	to let it be loud , strong	untuk membuatnya menjadi keras, kuat		
+1289	11_1687845679_1	11_1687845679	kipaʔaʔõʔõʔõ	kräftig , laut sein lassen	to let it be loud , strong	untuk membuatnya menjadi keras, kuat	membuatnya/membiarkannya menjadi keras, kuat	
 1290	11_1687845952_0	11_1687845952	eʔoʔóʔo:i	das Lachen	laughter	tawa		
 1291	11_1687845952_1	11_1687845952	kiʔoʔóʔo:i	lauthals lachen	laugh out loud	tertawa terbahak-bahak		
 1292	11_1687845952_2	11_1687845952	ʔua kiʔoʔóʔo:i kia	ich lache über ihn	I laugh at him	Aku menertawakannya		
 1293	11_1687845952_3	11_1687845952	ediʔoʔóʔo:i	(noun) Ausgelachte	(person) laughed at (noun)	(orang) yang ditertawakan (kata benda)		
-1294	11_1687846046_0	11_1687846046	koʔo:ui	herabblicken	to look down	untuk melihat ke bawah		
+1294	11_1687846046_0	11_1687846046	koʔo:ui	herabblicken	to look down	untuk melihat ke bawah	melihat ke bawah	
 1295	11_1687846147_0	11_1687846147	ʔaopa	vier	four	empat		
 1296	11_1687846631_0	11_1687846631	kaʔopahã:ĩã	Pl , Sippenverbandsangehörige	(plural form) clansmen	(bentuk jamak) anggota klan		
 1297	11_1687846777_0	11_1687846777	kiõpãnĩ	lecken (tr)	lick (transitive)	menjilat (transitif)		
-1298	11_1687846777_1	11_1687846777	hoo mũõpãnĩ	leckte bereits	licked already	menjilat sudah		
+1298	11_1687846777_1	11_1687846777	hoo mũõpãnĩ	leckte bereits	licked already	menjilat sudah	sudah menjilat	
 1299	11_1687846777_2	11_1687846777	enĩõpãnĩ	(noun) Geleckte	(person/thing) licked (noun)	(orang/benda) menjilat (kata benda)		
 1300	11_1687846777_3	11_1687846777	eõpãnĩõ	zu Leckendes	(thing) to be licked (noun)	(benda) yang dijilat (kata benda)		
-1301	11_1687846853_0	11_1687846853	kiʔope	jmd auflauern	to waylay sb.	ke waylay sb.		
-1302	11_1687846853_1	11_1687846853	eaha:ope	das Auflauern	the waylaying	cara peletakan		
-1303	11_1687847211_0	11_1687847211	kiʔoope	jmd auflauern	to waylay sb.	ke waylay sb.		
-1304	11_1687847211_1	11_1687847211	hoo buʔoope	lauerte auf	lay in wait	berbaring menunggu		
-1305	11_1687847211_2	11_1687847211	ediʔoope	der , dem aufgelauert wird	he who is waylaid	dia yang ditelantarkan		
-1306	11_1687847211_3	11_1687847211	edixoo buʔõpe	der , dem aufgelauert wurde	he who was waylaid	dia yang telah ditelantarkan		
-1307	11_1687847211_4	11_1687847211	eahoope	das Auflauern	the laying in wait	yang menunggu dalam penantian		
-1308	11_1687847448_0	11_1687847448	kiʔoope	viereckig zuhauen (einen Stamm)	to knock (a trunk) into a square shape	untuk mengetuk (batang) menjadi bentuk persegi		
-1309	11_1687847448_1	11_1687847448	kah[a]oope	zuhauen , zurechtschlagen	to knock into shape	untuk mengetuk ke dalam bentuk		
-1310	11_1687847448_2	11_1687847448	kidiʔoope	viereckig gebaut	built square	dibangun persegi		
+1301	11_1687846853_0	11_1687846853	kiʔope	jmd auflauern	to waylay sb.	ke waylay sb.	menyergap seseorang	
+1302	11_1687846853_1	11_1687846853	eaha:ope	das Auflauern	the waylaying	cara peletakan	penyergapan	
+1303	11_1687847211_0	11_1687847211	kiʔoope	jmd auflauern	to waylay sb.	ke waylay sb.	menyergap seseorang	
+1304	11_1687847211_1	11_1687847211	hoo buʔoope	lauerte auf	lay in wait	berbaring menunggu	mengintai	
+1305	11_1687847211_2	11_1687847211	ediʔoope	der , dem aufgelauert wird	he who is waylaid	dia yang ditelantarkan	dia yang disergap	
+1306	11_1687847211_3	11_1687847211	edixoo buʔõpe	der , dem aufgelauert wurde	he who was waylaid	dia yang telah ditelantarkan	dia yang telah disergap (bentuk lampau)	
+1307	11_1687847211_4	11_1687847211	eahoope	das Auflauern	the laying in wait	yang menunggu dalam penantian	yang mengintai	
+1308	11_1687847448_0	11_1687847448	kiʔoope	viereckig zuhauen (einen Stamm)	to knock (a trunk) into a square shape	untuk mengetuk (batang) menjadi bentuk persegi	memotong batang pohon menjadi persegi	
+1309	11_1687847448_1	11_1687847448	kah[a]oope	zuhauen , zurechtschlagen	to knock into shape	untuk mengetuk ke dalam bentuk	menempa (sesuatu) menjadi berbentuk sesuatu	
+1310	11_1687847448_2	11_1687847448	kidiʔoope	viereckig gebaut	built square	dibangun persegi	persegi yang dibangun	
 1311	11_1687847448_3	11_1687847448	euba kidiʔoope	das viereckige Wohnhaus der Engganesen	the square dwelling house of the Engganese	rumah tinggal persegi milik orang Enggano		
-1312	11_1687847448_4	11_1687847448	eoʔoope	Instrument zum Zuhauen	instrument for knocking into shape	instrumen untuk mengetuk bentuk		
-1313	11_1687847448_5	11_1687847448	eahoope	das Zuhauen	the knocking into shape	mengetuk ke dalam bentuk		
+1312	11_1687847448_4	11_1687847448	eoʔoope	Instrument zum Zuhauen	instrument for knocking into shape	instrumen untuk mengetuk bentuk	instrumen untuk memalu	
+1313	11_1687847448_5	11_1687847448	eahoope	das Zuhauen	the knocking into shape	mengetuk ke dalam bentuk	menempa (sesuatu) ke dalam (suatu) bentuk	
 1314	11_1687847448_6	11_1687847448	kaʔopeʔope	viereckig	square	persegi		
 1315	11_1688355508_0	11_1688355508	kiʔopeka	(Wangen) eingefallen , (Nüsse) taub , hohl	(cheeks) sunken , (nuts) numb , hollow	(pipi) cekung, (kacang) mati rasa, berongga		
 1316	11_1688355508_1	11_1688355508	kiʔopeka epapa ukabake kaʔao	die Wangen des Toten sind eingefallen	the cheeks of the dead (person) are sunken	pipi (orang) yang meninggal cekung		
-1317	11_1688355723_0	11_1688355723	kiʔopekáʔa	etwas zusammendrücken , länglich zuschneiden	to squeeze something , to cut lengthwise	untuk memeras sesuatu , untuk memotong memanjang		
+1317	11_1688355723_0	11_1688355723	kiʔopekáʔa	etwas zusammendrücken , länglich zuschneiden	to squeeze something , to cut lengthwise	untuk memeras sesuatu , untuk memotong memanjang	memeras sesuatu , memotong memanjang	
 1318	11_1688355723_1	11_1688355723	ediʔopekáʔa	(noun) länglich Zugeschnittene	(thing) cut into an elongated shape (noun)	(benda) dipotong menjadi bentuk memanjang (kata benda)		
 1319	11_1688355723_2	11_1688355723	eoʔopekaʔa	Mittel zum Zuschneiden	means for cutting	sarana untuk memotong		
 1320	11_1688355723_3	11_1688355723	eʔopekaʔaho	so Zuzuschneidendes	(thing) to be so cut (noun)	(benda) menjadi sangat terpotong (kata benda)		
@@ -1312,14 +1312,14 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 1323	11_1688355845_2	11_1688355845	edipaʔopekíaʔa	(noun) Gefaltete	(thing) folded (noun)	(benda) dilipat (kata benda)		
 1324	11_1688355845_3	11_1688355845	epahoʔopekíaʔa	Falte	Fold	Lipat		
 1325	11_1688356130_0	11_1688356130	eaʔa:opəhəa	Schmerzensgeld	compensation for injury (literally: pain money)	kompensasi untuk cedera (secara harfiah: uang sakit)		
-1326	11_1688356326_0	11_1688356326	kiʔõpõ	etwas raspeln , schaben	to rasp something , to scrape	untuk mengunyah sesuatu , untuk mengikis		
-1327	11_1688356326_1	11_1688356326	kiʔõpə̃ã	wird raspeln	will rasp	akan serak		
-1328	11_1688356326_2	11_1688356326	hoo mũʔõpõ	raspelte bereits	already rasped	sudah serak		
+1326	11_1688356326_0	11_1688356326	kiʔõpõ	etwas raspeln , schaben	to rasp something , to scrape	untuk mengunyah sesuatu , untuk mengikis	memarut, mengikis sedikit	
+1327	11_1688356326_1	11_1688356326	kiʔõpə̃ã	wird raspeln	will rasp	akan serak	akan memarut	
+1328	11_1688356326_2	11_1688356326	hoo mũʔõpõ	raspelte bereits	already rasped	sudah serak	sudah terparut	
 1329	11_1688356326_3	11_1688356326	eniiʔõpõ	Geraspeltes	grated (stuff) (noun)	parutan (barang) (kata benda)		
-1330	11_1688356326_4	11_1688356326	eʔõʔõpõ upoo	Kokosraspel	coconut rasp	serak kelapa		
+1330	11_1688356326_4	11_1688356326	eʔõʔõpõ upoo	Kokosraspel	coconut rasp	serak kelapa	parutan kelapa	
 1331	11_1688356326_5	11_1688356326	eʔõpẽõ	zu Raspelndes	(thing) to be grated (noun)	(benda) yang diparut (kata benda)		
 1332	11_1688356402_0	11_1688356402	eaʔopohəa	Schmerzensgeld	compensation for injury (literally: pain money)	kompensasi untuk cedera (secara harfiah: uang sakit)		
-1333	11_1688356454_0	11_1688356454	opoho eʔakapũʔã	weiland der Häuptling	once the chief	pernah menjadi kepala		
+1333	11_1688356454_0	11_1688356454	opoho eʔakapũʔã	weiland der Häuptling	once the chief	pernah menjadi kepala	pernah menjadi ketua/kepala	
 1334	11_1688356531_0	11_1688356531	eaʔopoho ukita:uʔuo	Schmerzensgeld für die Witwe	Pain money for the widow	Uang sakit untuk janda		
 1335	11_1688356952_0	11_1688356952	kiʔopóho	verwitwet	widowed	janda		
 1336	11_1688356952_1	11_1688356952	ehuda kiʔopoho	Witwe	widow	janda		
@@ -1328,41 +1328,41 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 1339	11_1688357178_0	11_1688357178	edopoi	(noun) Angepustete	(things) blown at (noun)	(benda) yang ditiup (kata benda)		
 1340	11_1688357508_0	11_1688357508	kaʔopoi mõhõ	anderen Sippenzweigen (Subclans) angehören	to belong to other clans (subclans)	menjadi bagian dari marga (submarga) lain		
 1341	11_1688358148_0	11_1688358148	kipaʔoréaʔa	rund um etwas fahren , gehen , umfahren , umrunden	to drive around , to walk around , to circumnavigate , to go round something	berkeliling, berjalan-jalan, mengelilingi, mengitari, mengitari sesuatu		
-1342	11_1688358696_0	11_1688358696	koro	ziehen , an sich reißen , entreißen	to pull , to snatch , to snatch away	untuk menarik, untuk merebut, untuk merenggut		
+1342	11_1688358696_0	11_1688358696	koro	ziehen , an sich reißen , entreißen	to pull , to snatch , to snatch away	untuk menarik, untuk merebut, untuk merenggut	untuk menarik, merebut, merenggut	
 1343	11_1688358696_1	11_1688358696	hoo boro	zog bereits	already pulled	sudah ditarik		
-1344	11_1688358696_2	11_1688358696	kidoro	entrissen werden	to be snatched	untuk disambar		
-1345	11_1688358696_3	11_1688358696	dabahoro u-	ziehen usw	to pull , etc.	untuk menarik, dll.		
-1346	11_1688358696_4	11_1688358696	kaha:oro ukaʔá:iʔio	Krieg führen	to wage war	untuk berperang		
+1344	11_1688358696_2	11_1688358696	kidoro	entrissen werden	to be snatched	untuk disambar	disambar	
+1345	11_1688358696_3	11_1688358696	dabahoro u-	ziehen usw	to pull , etc.	untuk menarik, dll.	untuk menarik, dll.	
+1346	11_1688358696_4	11_1688358696	kaha:oro ukaʔá:iʔio	Krieg führen	to wage war	untuk berperang	berperang	
 1347	11_1688358696_5	11_1688358696	edoro	(noun) Entrissene	(thing) torn away (noun)	(benda) terkoyak (kata benda)		
 1348	11_1688358696_6	11_1688358696	eoroa	Entreißensort	place of tearing away	tempat merobek-robek		
 1349	11_1688358696_7	11_1688358696	eoroo	zu Entreißendes	(thing) to be torn away (noun)	(benda) yang akan dirobek (kata benda)		
-1353	11_1688358984_0	11_1688358984	hoo paradúoho:i	bereits gleich stark sein	already be of the same age	sudah memiliki usia yang sama		
-1354	11_1688359052_0	11_1688359052	kipara:əda hii	gleichaltrig sein mit	be the same age as	memiliki usia yang sama dengan		
+1353	11_1688358984_0	11_1688358984	hoo paradúoho:i	bereits gleich stark sein	already be of the same age	sudah memiliki usia yang sama	sudah berusia sama	
+1354	11_1688359052_0	11_1688359052	kipara:əda hii	gleichaltrig sein mit	be the same age as	memiliki usia yang sama dengan	berusia sama dengan	
 1355	11_1688359154_0	11_1688359154	karahabaha:i	etwas mit Vogelnetzen fangen	to catch something with bird nets	untuk menangkap sesuatu dengan jaring burung		
-1356	11_1688359154_1	11_1688359154	earahabahe	das mit Netzen Jagen	hunting with nets (noun)	berburu dengan jaring (kata benda)		
+1356	11_1688359154_1	11_1688359154	earahabahe	das mit Netzen Jagen	hunting with nets (noun)	berburu dengan jaring (kata benda)	perburuan dengan jaring (kata benda)	
 1357	11_1688359529_0	11_1688359529	kiparaha:əaha:i hii	(Mädchen) verlobt sein mit , Verlobte sein von	(girl) be engaged to , be fiancée of	(perempuan) bertunangan dengan , menjadi tunangan dari		
 1358	11_1688359661_0	11_1688359661	karahao	Onkel (Pl)	uncle (Plural)	paman (Jamak)		
 1359	11_1688359661_1	11_1688359661	kiparahao	Großfamilie	extended family	keluarga besar		
-1360	11_1688359772_0	11_1688359772	kiparaha:odi	sich kreuzen	to cross	untuk menyeberang		
-1361	11_1688359847_0	11_1688359847	kiparáha:u	jagen	to hunt	untuk berburu		
-1362	11_1688359847_1	11_1688359847	kiparahá:ui	etwas jagen	to hunt something	untuk berburu sesuatu		
+1360	11_1688359772_0	11_1688359772	kiparaha:odi	sich kreuzen	to cross	untuk menyeberang	menyeberang	
+1361	11_1688359847_0	11_1688359847	kiparáha:u	jagen	to hunt	untuk berburu	berburu	
+1362	11_1688359847_1	11_1688359847	kiparahá:ui	etwas jagen	to hunt something	untuk berburu sesuatu	berburu sesuatu	
 1363	11_1688359847_2	11_1688359847	eparaha:u	Jagd	hunt	berburu		
 1364	11_1688359939_0	11_1688359939	karaha:uhu	donnern , (Flammen) prasseln , entflammt sein , lodern	thunder , (flames) crackle , be inflamed , blaze	guntur, (api) berderak, meradang, berkobar		
 1365	11_1688359939_1	11_1688359939	Karaha:uhu	Männername	man's name	nama pria		
 1366	11_1688360041_0	11_1688360041	kiparahəaha:i	(Mädchen) verlobt sein	(girl) be engaged	(perempuan) bertunangan		
-1367	11_1688360041_1	11_1688360041	kixii barahəaha:i	wieder jmd (Söhne) verloben	to betroth sb (sons) again	untuk menikahkan sb (anak laki-laki) lagi		
+1367	11_1688360041_1	11_1688360041	kixii barahəaha:i	wieder jmd (Söhne) verloben	to betroth sb (sons) again	untuk menikahkan sb (anak laki-laki) lagi	menikahkan kembali anak laki-laki	
 1368	11_1688360128_0	11_1688360128	karaʔibia	Feinde	enemies	musuh		
 1369	11_1688360128_1	11_1688360128	kiparaʔibia	miteinander verfeindet sein	to be enemies with each other	menjadi musuh satu sama lain		
 1370	11_1688360128_2	11_1688360128	eparaʔibia	das Verfeindetsein	being enemies (noun)	menjadi musuh (kata benda)		
 1371	11_1688360215_0	11_1688360215	kiparakua hii	zusammenfallen mit , zusammenkommen mit , gemeinsam mit	to fall together with , to come together with , together with	jatuh bersama dengan , datang bersama dengan , bersama dengan		
 1372	11_1688360215_1	11_1688360215	ʔua kiparakua bai hii kia	ich komme gemeinsam mit ihm	I'm coming together with him	Aku akan datang bersama dengan dia		
-1373	11_1688360297_0	11_1688360297	kipararakui	etwas veranlassen , verursachen	to cause , bring about something	untuk menyebabkan , membawa sesuatu		
+1373	11_1688360297_0	11_1688360297	kipararakui	etwas veranlassen , verursachen	to cause , bring about something	untuk menyebabkan , membawa sesuatu	menyebabkan , membawa sesuatu	
 1374	11_1688360297_1	11_1688360297	epararakui	Anlaß , Ursache	cause , cause	menyebabkan, menyebabkan		
-1375	11_1688360361_0	11_1688360361	kiparaodi hii	sich rächen an	to take revenge on	untuk membalas dendam pada		
+1375	11_1688360361_0	11_1688360361	kiparaodi hii	sich rächen an	to take revenge on	untuk membalas dendam pada	membalas dendam pada	
 1376	11_1688360591_0	11_1688360591	kiparapi	sich vereinigen , versammeln	unite , assemble	menyatukan, merakit		
 1377	11_1688360591_1	11_1688360591	hoo parapi	vereinigten sich bereits	already united	sudah bersatu		
-1378	11_1688360591_2	11_1688360591	kiparapíaʔa	versammeln (tr)	to assemble (tr)	untuk merakit (tr)		
-1379	11_1688360591_3	11_1688360591	ediparapíaʔa	(noun) Versammelte	(people) gathered (noun)	(orang) berkumpul (kata benda)		
+1378	11_1688360591_2	11_1688360591	kiparapíaʔa	versammeln (tr)	to assemble (tr)	untuk merakit (tr)	merakit	
+1379	11_1688360591_3	11_1688360591	ediparapíaʔa	(noun) Versammelte	(people) gathered (noun)	(orang) berkumpul (kata benda)	yang datang berkumpul/perkumpuln (kata benda)	
 1380	11_1688361736_0	11_1688361736	kiparapi	dicht , gut schließend , eng zusammen	tight , closing well , close together	ketat, menutup dengan baik, berdekatan		
 1381	11_1688361736_1	11_1688361736	ekarepe eʔana kiparapi	die Geschwüre sind dicht zusammen	the ulcers are close together	boroknya berdekatan		
 1383	11_1688361839_0	11_1688361839	kabarapu	liegen lassen	let lie	biarkan berbohong		
@@ -1370,14 +1370,14 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 1386	11_1688362074_0	11_1688362074	erau	Klafter (Hilfszählwort)	fathom (auxiliary count word)	depa (kata hitungan tambahan)		
 1387	11_1688362074_1	11_1688362074	kaharau	ein Klafter	one fathom	satu depa		
 1388	11_1688362074_2	11_1688362074	ʔakodu harau	drei Klafter	three fathoms	tiga depa		
-1389	11_1688362074_3	11_1688362074	eharáʔua	Klafter	fathom	fathom		
+1389	11_1688362074_3	11_1688362074	eharáʔua	Klafter	fathom	fathom	melipat	
 1390	11_1688362190_0	11_1688362190	eparáu	Nahrungsmörser (aus Merbau-Holz)	food mortar (made of merbau wood)	lesung makanan (terbuat dari kayu merbau)		
-1391	11_1688362190_1	11_1688362190	kiparaúaʔa	spalten	to split	untuk membagi		
+1391	11_1688362190_1	11_1688362190	kiparaúaʔa	spalten	to split	untuk membagi	berpisah	
 1392	11_1688362190_2	11_1688362190	dabuparaúaʔa	sie spalten	they split	mereka berpisah		
 1393	11_1688362336_0	11_1688362336	karaudau	(Teller usw) flach sein	(plates etc) be flat	(piring, dll.) menjadi rata		
 1394	11_1688362467_0	11_1688362467	kipará:uʔuo	vorsichtig , sorgfältig sein	be careful , meticulous	hati-hati, teliti		
-1395	11_1688362693_0	11_1688362693	kiparixoʔíaʔa	formen , kneten (Ton)	shape , knead (clay)	bentuk, uleni (tanah liat)		
-1396	11_1688362779_0	11_1688362779	kiparixopi	verlangsamen	slow down	memperlambat		
+1395	11_1688362693_0	11_1688362693	kiparixoʔíaʔa	formen , kneten (Ton)	shape , knead (clay)	bentuk, uleni (tanah liat)	membentuk, menguleni (tanah liat)	
+1396	11_1688362779_0	11_1688362779	kiparixopi	verlangsamen	slow down	memperlambat	melambat	
 1397	11_1688362847_0	11_1688362847	kiparikaʔa	Widerstand leisten , trotzen , widerstehen , sich widersetzen , standhalten	resist , defy , withstand , resist , withstand	menolak, menentang, menahan, menolak, menahan		
 1398	12_1683687116_0	12_1683687116	kahao ehuda	Tante	Aunt	Bibi		
 1399	12_1683687116_1	12_1683687116	kahao emãnĩ	Onkel	Uncle	Paman		
@@ -1386,8 +1386,8 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 1402	12_1683688193_1	12_1683688193	ekahaʔo kiʔobario	halbbedeckte Sonne	half-covered sun	matahari setengah tertutup		
 1403	12_1683689278_0	12_1683689278	ikahapa ukaəhəicia	am Fuß des Berges	at the foot of the mountain	di kaki gunung		
 1404	12_1683689691_0	12_1683689691	eakahapi uidakoʔa	Verband der Wunde	bandage of the wound	perban luka		
-1405	12_1683690091_0	12_1683690091	kipakahapii	verdrehen	to twist	untuk memelintir		
-1406	12_1683690091_1	12_1683690091	kipakahapii ebaka	die Augen verdrehen	to roll one's eyes	untuk memutar mata seseorang		
+1405	12_1683690091_0	12_1683690091	kipakahapii	verdrehen	to twist	untuk memelintir	memelintir	
+1406	12_1683690091_1	12_1683690091	kipakahapii ebaka	die Augen verdrehen	to roll one's eyes	untuk memutar mata seseorang	memutar mata seseorang	
 1407	12_1683691252_0	12_1683691252	Kaharuba kaʔoãmee	Name eines Subclans	Name of a subclan	Nama submarga		
 1408	12_1683691252_1	12_1683691252	Kaharuba ebaha:eko	Name eines Subclans	Name of a subclan	Nama submarga		
 1409	12_1683691252_2	12_1683691252	Kaharuba karohadodo	Name eines Subclans	Name of a subclan	Nama submarga		
@@ -1399,9 +1399,9 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 1415	12_1683692376_3	12_1683692376	kikaha:uba edio	stottern	stutter	gagap		
 1416	12_1683692376_4	12_1683692376	kikaha:ubáʔa	gegen etwas stoßen , über etwas stolpern	bumping into something , stumbling over something	menabrak sesuatu , tersandung sesuatu		
 1417	12_1683692376_5	12_1683692376	ʔua kikaha:ubáʔa eũkũnã ixoku ukuo	ich stoße mit einem Pfahl an den Baumstumpf	I bump into the tree stump with a pole	Saya menabrak tunggul pohon dengan tiang		
-1418	12_1683692376_6	12_1683692376	edikaha:ubaʔa	das , worüber man stolpert	that over which one stumbles	yang di atasnya seseorang tersandung		
+1418	12_1683692376_6	12_1683692376	edikaha:ubaʔa	das , worüber man stolpert	that over which one stumbles	yang di atasnya seseorang tersandung	yang membuat orang tersandung	
 1419	12_1683772576_0	12_1683772576	kaha:əka	Waise	Orphan	Yatim piatu		
-1420	12_1683774116_0	12_1683774116	kipakahã́ũpã	(mit der Hand) umschließen	to enclose (with the hand)	untuk melingkupi (dengan tangan)		
+1420	12_1683774116_0	12_1683774116	kipakahã́ũpã	(mit der Hand) umschließen	to enclose (with the hand)	untuk melingkupi (dengan tangan)	melingkupi sesuatu (dengan tangan)	
 1421	12_1683776248_0	12_1683776248	kahə́aʔa	fange mit dem Schleppnetz!	catch with a trawl!	menangkap dengan pukat!		
 1422	12_1683776248_1	12_1683776248	kabadahə́aʔa	ein Netz spannen	to stretch a net	untuk meregangkan jaring		
 1423	12_1683776248_2	12_1683776248	eara:əaʔaʔa	das Netzespannen	the stretching of the net	peregangan jaring		
