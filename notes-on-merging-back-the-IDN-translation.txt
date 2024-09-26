@@ -1,7 +1,7 @@
 This directory is a GIT repository!
 
 
-For the checked Indonesian translation file, later combine this through the ID and Indonesian (by excluding the English) columns because there are some errors in the English and these are corrected in the original Google Sheet files checked by Barnaby (links below). That means, we need to re-run the code in 4-pre-processing... file (namely, re-access the edited English translation in GSheet into R; DO THIS AT THE VERY END AFTER CHECKING THE ENGLISH AND INDONESIAN TRANSLATIONS!)
+For the checked Indonesian translation file, later combine this through the ID and Indonesian (by excluding the English) columns because there are some errors in the English and these are corrected in the original Google Sheet files checked by Barnaby (links below). That means, we need to re-run the code in 4-pre-processing... file (namely, re-access the edited English translation in GSheet into R; DO THIS RE-ACCESSING AT THE VERY END AFTER CHECKING THE ENGLISH AND INDONESIAN TRANSLATIONS!)
 
 stem German translation to check
 https://docs.google.com/spreadsheets/d/1Xnd7hqZAv3-zuWcOCmbDpLOPOJrSIojSsM5blycI4Lw/edit?usp=drive_link
@@ -11,3 +11,15 @@ https://docs.google.com/spreadsheets/d/15yvHhEQaTTHg_9eR0IimizhDtAHbX27EwOJacdjH
 
 example German translation to check (BATCH 2)
 https://docs.google.com/spreadsheets/d/1eAW-zXLHVfgHkDfTkCr3GcH19wDKwe6P8unaW3e6kPc/edit?usp=drive_link
+
+
+Notes
+
+- for the English of the German "Rodeland" https://en.langenscheidt.com/german-english/rodeland
+
+
+# Show the last five lines of the + changes in a file
+git diff example_form_IDN-added-cols.csv | grep '^[+]' | tail -n 5
+
+# Show compact summary of changes
+git diff --compact-summary example_form_IDN-added-cols.csv
