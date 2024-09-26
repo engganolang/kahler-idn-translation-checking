@@ -4495,10 +4495,10 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 4537	8_1685084731_1	8_1685084731	epuradi itopo	Bauchflosse	ventral fin	sirip ventral		
 4538	8_1685084919_0	8_1685084919	puríxo	Witwer	widower	duda		
 4539	8_1685084919_1	8_1685084919	eʔapurixo	Verbot (durch Adat)	prohibition (by adat)	larangan (oleh adat)		
-4540	8_1685085009_0	8_1685085009	kipurika	wachsen , sprießen , keimen , grünen	grow , sprout , germinate , green	tumbuh , bertunas , berkecambah , hijau		
-4541	8_1685085163_0	8_1685085163	kipuru	töten , kämpfen	kill , fight	membunuh , berkelahi		
-4542	8_1685085163_1	8_1685085163	edipuru	(noun) Getötete	the deceased	almarhum		
-4543	8_1685085163_2	8_1685085163	epuruo	(noun) zu Tötende	the one to be killed	orang yang akan dibunuh		
+4540	8_1685085009_0	8_1685085009	kipurika	wachsen , sprießen , keimen , grünen	grow , sprout , germinate , green	tumbuh , bertunas , berkecambah , hijau	tumbuh , bertunas , berkecambah , (meng)hijau	
+4541	8_1685085163_0	8_1685085163	kipuru	töten , kämpfen	kill , fight	membunuh , berkelahi	membunuh , melawan	
+4542	8_1685085163_1	8_1685085163	edipuru	(noun) Getötete	the deceased	almarhum	yang terbunuh/tewas	
+4543	8_1685085163_2	8_1685085163	epuruo	(noun) zu Tötende	the one to be killed	orang yang akan dibunuh	yang akan dibunuh	
 4544	8_1685085163_3	8_1685085163	eahaada baburuaʔa	ihr Gehen , um kämpfen zu lassen	their going to let fight	mereka akan membiarkan pertarungan		
 4545	8_1685085288_0	8_1685085288	kahapuru	zehn	ten	sepuluh		
 4546	8_1685085635_0	8_1685085635	epurukuo	Baumblatt	tree leaf	daun pohon		
@@ -4507,47 +4507,47 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 4549	8_1685086114_0	8_1685086114	kaʔapurudui	Haare/Borsten haben	Have hair/bristles	Memiliki rambut/bulu		
 4550	8_1685086114_1	8_1685086114	epurudui ubaka	Wimper	eyelash	bulu mata		
 4551	8_1685086114_2	8_1685086114	epurudui ukaraha	Körperhaare	Body hair	Rambut tubuh		
-4552	8_1685086114_3	8_1685086114	epurudui ukĩʔĩ	Kinnbart	Chin beard	Jenggot dagu		
+4552	8_1685086114_3	8_1685086114	epurudui ukĩʔĩ	Kinnbart	Chin beard	Jenggot dagu	jenggot	
 4553	8_1685086709_0	8_1685086709	kaʔapuʔu	(Wildschweinhauer) gebogen , gekrümmt	(boar tusk) bent , curved	(gading babi hutan) bengkok , melengkung		
 4554	8_1685086967_0	8_1685086967	ekuo kahapuʔu	ein Stück Holz	a piece of wood	sepotong kayu		
 4555	8_1685086967_1	8_1685086967	kahapuʔu-kahapuʔu	Stück für Stück	piece by piece	sepotong demi sepotong		
 4556	8_1685088387_0	8_1685088387	epũʔũ	Knoten , Gelenk	knot , joint	simpul , sendi		
 4557	8_1685088387_1	8_1685088387	epũʔũ uae	Knie	knee	lutut		
-4558	8_1685088387_2	8_1685088387	epũʔũ uʔapo	Ellenbogen , Schwimmer am Bootsausleger	elbow , float on boat boom	siku , mengapung di atas perahu boom		
+4558	8_1685088387_2	8_1685088387	epũʔũ uʔapo	Ellenbogen , Schwimmer am Bootsausleger	elbow , float on boat boom	siku , mengapung di atas perahu boom	siku (perahu) , pengapung pada tiang layar perahu	
 4559	8_1685088387_3	8_1685088387	epũʔũ ukahãõ	Spinne	spider	laba-laba		
-4560	8_1685088387_4	8_1685088387	epũʔũ ukabuʔobo	Leuchtkäfer	Firefly	Firefly		
+4560	8_1685088387_4	8_1685088387	epũʔũ ukabuʔobo	Leuchtkäfer	Firefly	Firefly	Kunang-kunang	
 4561	8_1685088387_5	8_1685088387	epũʔũ ukinana	fliegende Eidechse	Flying lizard	Kadal terbang		
 4562	8_1685088387_6	8_1685088387	kipũʔṹĩ	zusammenknoten	knot together	simpul bersama		
-4563	8_1685088387_7	8_1685088387	epũʔũĩyã	"(""Zusammengeknotetes""=) Sippe , Clan"	"(""(thing) knotted together""=) clan , clan"	"(""(benda) yang diikat menjadi satu""=) marga , marga"		
-4564	8_1685088387_8	8_1685088387	epũʔũĩñã	Paar , Sippe	couple , clan	pasangan , marga		
+4563	8_1685088387_7	8_1685088387	epũʔũĩyã	"(""Zusammengeknotetes""=) Sippe , Clan"	"(""(thing) knotted together""=) clan , clan"	"(""(benda) yang diikat menjadi satu""=) marga , marga"	"(""(benda) yang diikat menjadi satu""=) suku , marga"	
+4564	8_1685088387_8	8_1685088387	epũʔũĩñã	Paar , Sippe	couple , clan	pasangan , marga	pasangan , suku	
 4565	8_1685088387_9	8_1685088387	epapṹʔũ	Bambus	bamboo	bambu		
-4566	8_1685088765_0	8_1685088765	kipuʔuda	fallen , (Gestirne) untergehen	fall , (heavenly bodies) set	jatuh , (benda-benda langit) mengatur		
+4566	8_1685088765_0	8_1685088765	kipuʔuda	fallen , (Gestirne) untergehen	fall , (heavenly bodies) set	jatuh , (benda-benda langit) mengatur	jatuh , (benda-benda langit) tenggelam	
 4567	8_1685088765_1	8_1685088765	hoo bupuʔuda	fiel bereits	already fell	sudah jatuh		
-4568	8_1685088765_2	8_1685088765	kipuʔudáʔa	etwas fallen lassen	to let something fall	untuk membiarkan sesuatu jatuh		
+4568	8_1685088765_2	8_1685088765	kipuʔudáʔa	etwas fallen lassen	to let something fall	untuk membiarkan sesuatu jatuh	membiarkan sesuatu jatuh	
 4569	8_1685088765_3	8_1685088765	eapuʔuda	das Fallen	the falling	jatuhnya		
 4570	8_1685088765_4	8_1685088765	eapuʔuda udopo	Aschenregen	ash rain	hujan abu		
 4571	8_1685088765_5	8_1685088765	epuʔudáha	Fallensort , Untergangsort	place of falling , place of sinking	tempat jatuh , tempat tenggelam		
-4572	8_1685088765_6	8_1685088765	eapuʔudaha (ukahaʔo)	Westen	west (noun)	barat (kata benda)		
+4572	8_1685088765_6	8_1685088765	eapuʔudaha (ukahaʔo)	Westen	west (noun)	barat (kata benda)	barat (lit. tempat tenggelamnya hari)	
 4573	8_1685499905_0	8_1685499905	omũʔãnõ[mu]?	auf wieviele schätzst du?	How many do you reckon?	Berapa banyak menurut Anda?		
 4574	8_1685500597_0	8_1685500597	kaʔãnõ	Pl	plural form	bentuk jamak		
-4575	8_1685500597_1	8_1685500597	ʔãnṍʔo:u	mein(e) Freund(in) = Anrede der Eheleute untereinander	my friend = form of address between the spouses	teman saya = bentuk alamat di antara pasangan		
+4575	8_1685500597_1	8_1685500597	ʔãnṍʔo:u	mein(e) Freund(in) = Anrede der Eheleute untereinander	my friend = form of address between the spouses	teman saya = bentuk alamat di antara pasangan	teman saya = bentuk sapaan di antara pasangan	
 4576	8_1685500597_2	8_1685500597	epaʔãnõ	Befreundetsein , Freundschaft	being friends , friendship	menjadi teman , persahabatan		
-4577	8_1685500597_3	8_1685500597	kaʔaʔãnõ	befreundet sein	to be friends	untuk menjadi teman		
+4577	8_1685500597_3	8_1685500597	kaʔaʔãnõ	befreundet sein	to be friends	untuk menjadi teman	berteman	
 4578	8_1685500597_4	8_1685500597	epaʔãnə̃ã	(noun) Bekannte	the acquaintance	kenalan		
 4579	8_1685500597_5	8_1685500597	kipaʔãnõ hii	befreundet sein mit ; einander unterhaken , einhaken	to be friends with ; to go arm in arm with (literally: to hook up one's arms)	berteman dengan ; bergandengan tangan (secara harfiah : mengaitkan lengan)		
-4580	8_1685500597_6	8_1685500597	kiʔãnõ	einhaken	to hook up	untuk menghubungkan		
+4580	8_1685500597_6	8_1685500597	kiʔãnõ	einhaken	to hook up	untuk menghubungkan	menghubungkan/mengaitkan	
 4581	8_1685500597_7	8_1685500597	enĩʔãnõ	Eingehakter	(person) hooked in (noun)	(orang) yang terpikat (kata benda)		
 4582	8_1685500597_8	8_1685500597	eʔanə̃õ	Einzuhakender	(person) to be hooked in (noun)	(orang) yang terpikat (kata benda)		
 4583	8_1685500597_9	8_1685500597	nãmãʔãnõã:ĩ	sie tun etwas gemeinsam , sie nehmen etwas gemeinsam in Angriff	they do something together , they tackle something together	mereka melakukan sesuatu bersama , mereka menangani sesuatu bersama		
 4584	8_1685501338_0	8_1685501338	kanũ	schlafen , liegen	sleep , lie down	tidur , berbaring		
 4585	8_1685501338_1	8_1685501338	eanũã	Liegematte	reclining mat	tikar berbaring		
 4586	8_1685501440_0	8_1685501440	ianṹʔa	in der Mitte	in the centre	di tengah		
-4587	8_1685501559_0	8_1685501559	kanũãẽ	mutwillig zerstört	wilfully destroyed	dengan sengaja dihancurkan		
+4587	8_1685501559_0	8_1685501559	kanũãẽ	mutwillig zerstört	wilfully destroyed	dengan sengaja dihancurkan	dengan sengaja menghancurkan	
 4588	8_1685501669_0	8_1685501669	yanũkũ edopo	die Sonne steht hoch	the sun is high	matahari sedang tinggi		
-4589	8_1685501669_1	8_1685501669	kanṹkũ	bereits hochstehend (von der Sonne)	already high (from the sun)	sudah tinggi (dari matahari)		
-4590	8_1685502001_0	8_1685502001	eañãmũ ehuda	Huhn	Chicken	Ayam		
-4591	8_1685502001_1	8_1685502001	eañãmũ emãnĩ	Hahn	cock	ayam		
-4592	8_1685503177_0	8_1685503177	kaʔao	sterben , tot/verstorben sein , (Pflanzen usw) absterben , eingehen , (Feuer) erlöschen	to die , to be dead/deceased , (plants etc) to die , to perish , (fire) to go out	mati , menjadi mati/meninggal , (tanaman dll) mati , binasa , (api) padam		
+4589	8_1685501669_1	8_1685501669	kanṹkũ	bereits hochstehend (von der Sonne)	already high (from the sun)	sudah tinggi (dari matahari)	sudah tinggi/terbit (terkait matahari)	
+4590	8_1685502001_0	8_1685502001	eañãmũ ehuda	Huhn	Chicken	Ayam	ayam	
+4591	8_1685502001_1	8_1685502001	eañãmũ emãnĩ	Hahn	cock	ayam	ayam jantan	
+4592	8_1685503177_0	8_1685503177	kaʔao	sterben , tot/verstorben sein , (Pflanzen usw) absterben , eingehen , (Feuer) erlöschen	to die , to be dead/deceased , (plants etc) to die , to perish , (fire) to go out	mati , menjadi mati/meninggal , (tanaman dll) mati , binasa , (api) padam	mati , mati/meninggal , (tanaman dll.) mati , binasa , (api) padam	
 4593	8_1685503177_1	8_1685503177	hoo baʔao	bereits gestorben	already died	sudah meninggal		
 4594	8_1685503177_10	8_1685503177	abaʔao Ekitai	trauern	mourn	berkabung		
 4595	8_1685503177_11	8_1685503177	eaʔao/eabaʔao Ukitai	Mitleid , Trauer	pity , sorrow	kasihan , kesedihan		
@@ -4565,21 +4565,21 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 4607	8_1685503582_0	8_1685503582	kaʔaʔo	auf etwas zeigen	point to something	menunjuk ke sesuatu		
 4608	8_1685503582_1	8_1685503582	uabaʔaʔo	du zeigst (mit ausgestrecktem Finger) auf etwas	you point (with outstretched finger) at something	anda menunjuk (dengan jari terulur) pada sesuatu		
 4609	8_1685503582_2	8_1685503582	akaʔaʔo Ebaka	wenn wir auf das Gesicht zeigen	when we point to the face	ketika kita menunjuk ke wajah		
-4610	8_1685503582_3	8_1685503582	eahaʔaʔo	das Zeigen auf etwas	the pointing at something	menunjuk pada sesuatu		
-4611	8_1685503582_4	8_1685503582	eahaʔaʔo Ubakadia	das auf sein Gesicht Zeigen	the pointing at his face	menunjuk ke wajahnya		
-4612	8_1685503754_0	8_1685503754	eaʔaʔõ	das Starksein	the being strong	yang kuat		
-4613	8_1685503754_1	8_1685503754	kamãʔãʔõ eʔue	das Meer ist (stark =) unruhig , tobt	the sea is (strong =) restless , raging	laut (kuat =) gelisah , mengamuk		
-4614	8_1685503754_2	8_1685503754	eaʔaʔõnõ	das Starksein	the being strong	yang kuat		
-4615	8_1685503876_0	8_1685503876	kahaʔaoa	ein Bündel (Hilfszählwort)	a bundle (auxiliary counting word)	bundel (kata bantu penghitungan)		
+4610	8_1685503582_3	8_1685503582	eahaʔaʔo	das Zeigen auf etwas	the pointing at something	menunjuk pada sesuatu	(aksi) menunjuk pada sesuatu	
+4611	8_1685503582_4	8_1685503582	eahaʔaʔo Ubakadia	das auf sein Gesicht Zeigen	the pointing at his face	menunjuk ke wajahnya	(aksi) menunjuk ke wajahnya	
+4612	8_1685503754_0	8_1685503754	eaʔaʔõ	das Starksein	the being strong	yang kuat	keadaan kuat	
+4613	8_1685503754_1	8_1685503754	kamãʔãʔõ eʔue	das Meer ist (stark =) unruhig , tobt	the sea is (strong =) restless , raging	laut (kuat =) gelisah , mengamuk	laut (kuat =) bergejolak , mengamuk	
+4614	8_1685503754_2	8_1685503754	eaʔaʔõnõ	das Starksein	the being strong	yang kuat	keadaan kuat	
+4615	8_1685503876_0	8_1685503876	kahaʔaoa	ein Bündel (Hilfszählwort)	a bundle (auxiliary counting word)	bundel (kata bantu penghitungan)	bundel (kata bantu penghitungan/numeralia)	
 4616	8_1685503876_1	8_1685503876	ʔarohaʔaoa; ʔakodu haʔaoa	zwei , drei Bündel	two , three bundles	dua , tiga bundel		
 4617	8_1685504216_0	8_1685504216	kaʔãõã	mit dem Jagdnetz fangen	catch with the hunting net	menangkap dengan jaring berburu		
 4618	8_1685504216_1	8_1685504216	kahae mãʔãõã	gehen , um so zu fangen	go in order to catch like this	pergi untuk menangkap seperti ini		
-4619	8_1685504216_2	8_1685504216	nãmãʔãõã	so fangen	to catch like this	untuk menangkap seperti ini		
+4619	8_1685504216_2	8_1685504216	nãmãʔãõã	so fangen	to catch like this	untuk menangkap seperti ini	menangkap seperti ini	
 4620	8_1685504216_3	8_1685504216	eaʔaoa	das so Fangen	the catching like this	penangkapan seperti ini		
 4621	8_1685504216_4	8_1685504216	kaʔaoaʔa:i	etwas so fangen	catch something like this	menangkap sesuatu seperti ini		
 4622	8_1685504316_0	8_1685504316	kaʔaʔã:õã	dick , korpulent (Menschen , Tiere)	fat , corpulent (people , animals)	gemuk , gemuk (manusia , hewan)		
 4623	8_1685504555_0	8_1685504555	kipaoaháʔa	etwas verbieten	forbid something	melarang sesuatu		
-4624	8_1685504555_1	8_1685504555	kidipa:oaháʔa	verboten werden	to be forbidden	untuk dilarang		
+4624	8_1685504555_1	8_1685504555	kidipa:oaháʔa	verboten werden	to be forbidden	untuk dilarang	dilarang	
 4625	8_1685504555_2	8_1685504555	edipaʔa:oaháʔa	das Verbot , das Auferlegte (Verbot)	the prohibition , the imposed (prohibition)	larangan , yang diberlakukan (larangan)		
 4626	8_1685504844_0	8_1685504844	kiaʔa:odi	schreien , laut rufen	shout , shout loudly	berteriak , berteriak keras		
 4627	8_1685504844_1	8_1685504844	dabaʔa:odi	sie schreien	they shout	mereka berteriak		
@@ -4589,7 +4589,7 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 4631	8_1685505151_2	8_1685505151	aʔáopa	je vier	four each	masing-masing empat		
 4633	8_1686019927_0	8_1686019927	kahaʔaoro	ein Bündel (Hilfszählwort)	one bundle (auxiliary counting word)	satu bundel (kata bantu penghitungan)		
 4634	8_1686019927_1	8_1686019927	ʔakodu haʔaoro	drei Bündel	three bundles	tiga bundel		
-4635	8_1686020006_0	8_1686020006	kipaʔapa	vermehren	multiply	berkembang biak		
+4635	8_1686020006_0	8_1686020006	kipaʔapa	vermehren	multiply	berkembang biak	melipatgandakan	
 4636	8_1686020006_1	8_1686020006	epahaʔapa	das Vermehren	the multiplication	perkalian		
 4637	8_1686020145_0	8_1686020145	eʔãpã	das Dicksein (von Stoffen)	the fatness (of substances/fabrics)	kegemukan (zat/kain)		
 4638	8_1686020145_1	8_1686020145	kaʔãpã	(Stoffe) dick sein	be (fabric) thick	menjadi (kain) tebal		
@@ -4602,21 +4602,21 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 4645	8_1686024192_2	8_1686024192	eʔaperúa:u eamãhã ukabake	Dreigestirn	triumvirate/triad	tiga serangkai/triad		
 4646	8_1686024192_3	8_1686024192	eʔaperúa:u kaʔinãpũ unṍhõã	Komet (?)	Comet (?)	Komet (?)		
 4647	8_1686024192_4	8_1686024192	eʔaperúa:u eũʔũnṹʔũĩ uʔəkaʔa/uaʔáu	Abendstern	evening star	bintang malam		
-4648	8_1686024516_0	8_1686024516	ʔapíaha-ʔapíaha	wieviele auch immer	however many	namun banyak		
+4648	8_1686024516_0	8_1686024516	ʔapíaha-ʔapíaha	wieviele auch immer	however many	namun banyak	seberapa banyak pun	
 4649	8_1686024516_1	8_1686024516	kéabaʔa iʔapíaha ekaka	es gibt nicht viele Leute	there are not many people	tidak banyak orang		
-4650	8_1686025588_0	8_1686025588	eʔapo udohəáo	Bootsausleger	Boat boom	Ledakan perahu		
+4650	8_1686025588_0	8_1686025588	eʔapo udohəáo	Bootsausleger	Boat boom	Ledakan perahu	tangan/canting perahu	
 4651	8_1686025588_1	8_1686025588	eʔapo ukuo	Ast , Zweig	branch , twig	cabang , ranting		
-4652	8_1686025588_2	8_1686025588	kamũʔãpõ	mit der Hand umschließen , umfassen	enclose with the hand , embrace	lampirkan dengan tangan , rangkul		
-4653	8_1686025588_3	8_1686025588	hoo mãmũʔãpõ	bereits umschlossen	already enclosed	sudah tertutup		
-4654	8_1686025588_4	8_1686025588	kinãmũʔãpõ	umschlossen werden	be enclosed	tertutup		
-4655	8_1686025588_5	8_1686025588	ehũã eʔana enãmũʔãpõ ukaka	jene Früchte sind das Umschlossene des Menschen	those fruits are the enclosed of the human being	buah-buah itu adalah penutup dari manusia		
+4652	8_1686025588_2	8_1686025588	kamũʔãpõ	mit der Hand umschließen , umfassen	enclose with the hand , embrace	lampirkan dengan tangan , rangkul	lingkupi dengan tangan , rangkul	
+4653	8_1686025588_3	8_1686025588	hoo mãmũʔãpõ	bereits umschlossen	already enclosed	sudah tertutup	sudah melingkupi	
+4654	8_1686025588_4	8_1686025588	kinãmũʔãpõ	umschlossen werden	be enclosed	tertutup	terlingkupi/tertutup	
+4655	8_1686025588_5	8_1686025588	ehũã eʔana enãmũʔãpõ ukaka	jene Früchte sind das Umschlossene des Menschen	those fruits are the enclosed of the human being	buah-buah itu adalah penutup dari manusia	buah-buah itu adalah yang tertutup dari manusia	
 4656	8_1686025977_0	8_1686025977	eãpũ uʔõnõ	Fersensehne  (= Achillessehne ?)	heel tendon (= Achilles tendon ?)	tendon tumit (= tendon Achilles?)		
 4657	8_1686027184_0	8_1686027184	karara	Pl	Plural form	Bentuk jamak		
 4658	8_1686027184_1	8_1686027184	eara eakãkãnũ	jüngstes Kind	youngest child	anak bungsu		
 4659	8_1686027184_10	8_1686027184	eara umĩnã uae	kleine Zehe	little toe	jempol kaki		
 4660	8_1686027184_11	8_1686027184	eara umĩnã uʔapo	kleiner Finger	little finger/pinkie finger	jari kelingking / kelingking		
 4661	8_1686027184_12	8_1686027184	eara uipikoʔo:i	Pfeil	arrow	panah		
-4662	8_1686027184_13	8_1686027184	eara uuba	Untertan	subject/subservient	subjek/tunduk		
+4662	8_1686027184_13	8_1686027184	eara uuba	Untertan	subject/subservient	subjek/tunduk	subjek/bawahan	
 4663	8_1686027184_14	8_1686027184	eaʔaraha ukeʔepa	Vogelnest	bird's nest	sarang burung		
 4664	8_1686027184_2	8_1686027184	eara epehe	ältestes Kind	eldest child	anak tertua		
 4665	8_1686027184_3	8_1686027184	eara kaha:iʔibaʔa	einziges Kind	only child	anak tunggal		
@@ -4628,20 +4628,20 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 4671	8_1686027184_9	8_1686027184	eara uae	Wade	calf	betis		
 4672	8_1686034330_0	8_1686034330	kaʔaʔara	ein Kind haben ; Eier legen	to have a child ; lay eggs	memiliki anak ; bertelur		
 4673	8_1686034330_1	8_1686034330	hoo baʔara	bereits ein Kind haben	already have a child	sudah memiliki anak		
-4674	8_1686034330_10	8_1686034330	kidixoo baʔara	wurde adoptiert	was adopted	diadopsi		
+4674	8_1686034330_10	8_1686034330	kidixoo baʔara	wurde adoptiert	was adopted	diadopsi	sudah diadopsi	
 4675	8_1686034330_11	8_1686034330	edaʔara	(noun) Adoptierte	the adoptee	orang yang diadopsi		
-4676	8_1686034330_12	8_1686034330	edaʔara uhuda eʔana epae kude i Búkuʔudu	das Adoptierte jener Frau ist ein Kind aus Bengkulen	the adoptee of that woman is a child from Bengkulu	anak yang diadopsi adalah seorang anak dari Bengkulu		
-4677	8_1686034330_13	8_1686034330	kipaʔarahaʔa iʔioo	durch Wechselheiraten verbunden sein mit	to be connected by intermarriage with	untuk dihubungkan melalui perkawinan silang dengan		
+4676	8_1686034330_12	8_1686034330	edaʔara uhuda eʔana epae kude i Búkuʔudu	das Adoptierte jener Frau ist ein Kind aus Bengkulen	the adoptee of that woman is a child from Bengkulu	anak yang diadopsi adalah seorang anak dari Bengkulu	anak yang diadopsi wanita itu adalah seorang anak dari Bengkulu	
+4677	8_1686034330_13	8_1686034330	kipaʔarahaʔa iʔioo	durch Wechselheiraten verbunden sein mit	to be connected by intermarriage with	untuk dihubungkan melalui perkawinan silang dengan	dihubungkan melalui perkawinan silang	
 4678	8_1686034330_2	8_1686034330	kaʔarahaʔa	jemanden als/zum Kind haben	have someone as/for a child	memiliki seseorang sebagai/untuk anak		
 4679	8_1686034330_3	8_1686034330	yaʔaraháʔa emãnĩ	er hat einen Sohn	he has a son	ia memiliki seorang putra		
 4680	8_1686034330_4	8_1686034330	eaʔara	das Gebären , Kinder Haben	giving birth , having children (noun)	melahirkan , memiliki anak (kata benda)		
 4681	8_1686034330_5	8_1686034330	abaʔarahaʔa	wenn sie gebiert	when she gives birth	ketika dia melahirkan		
-4682	8_1686034330_6	8_1686034330	dabuara	ihnen wurde geboren	was born to them	lahir untuk mereka		
-4683	8_1686034330_7	8_1686034330	kipara	eine Familie sein ; eine Hausgemeinschaft bilden	to be a family ; to form a household	menjadi keluarga ; membentuk rumah tangga		
+4682	8_1686034330_6	8_1686034330	dabuara	ihnen wurde geboren	was born to them	lahir untuk mereka	mereka lahir	
+4683	8_1686034330_7	8_1686034330	kipara	eine Familie sein ; eine Hausgemeinschaft bilden	to be a family ; to form a household	menjadi keluarga ; membentuk rumah tangga	berkeluarga ; membentuk rumah tangga	
 4684	8_1686034330_8	8_1686034330	kaʔara	adoptieren	adopt	mengadopsi		
 4685	8_1686034330_9	8_1686034330	kidaʔara	wird adoptiert	is adopted	diadopsi		
-4686	8_1686034876_0	8_1686034876	kiʔaraka	heiser sein	be hoarse	menjadi serak		
-4687	8_1686035077_0	8_1686035077	earapikia ukitauʔuo	Beschädigen (d.h. Geschlechtsverkehr mit) der Witwe	Damaging (i.e. sexual intercourse with) the widow (noun)	Merusak (yaitu hubungan seksual dengan) janda (kata benda)		
+4686	8_1686034876_0	8_1686034876	kiʔaraka	heiser sein	be hoarse	menjadi serak	serak	
+4687	8_1686035077_0	8_1686035077	earapikia ukitauʔuo	Beschädigen (d.h. Geschlechtsverkehr mit) der Witwe	Damaging (i.e. sexual intercourse with) the widow (noun)	Merusak (yaitu hubungan seksual dengan) janda (kata benda)	Merusak (yaitu berhubungan seksual dengan) janda (kata benda)	
 4688	8_1686035200_0	8_1686035200	aréʔeaʔa	kommt herǃ	come here! (pl)	kemarilah!		
 4689	8_1686036067_0	8_1686036067	ʔariba hii ʔadua	(5+2=) sieben	(5+2=) seven	(5+2=) tujuh		
 4690	8_1686036067_1	8_1686036067	ʔaribekaka	(5x20=) hundert	(5x20=) one hundred	(5x20=) seratus		
@@ -4649,21 +4649,21 @@ ID	example_id	stem_id	example_form	ex_DE	ex_EN	ex_form_IDN	ex_form_IDN_edited	Re
 4692	8_1686036716_1	8_1686036716	earopada	die durch Wechselheiraten Verbundenen	those connected by intermarriage	mereka yang terhubung melalui perkawinan campur		
 4693	8_1686036716_2	8_1686036716	ekaka ʔaropada	Vater (oder Mutter) mit einem Kind	father (or mother) with one child	ayah (atau ibu) dengan satu anak		
 4694	8_1686036716_3	8_1686036716	ʔaropara	ein Elternpaar (nicht -teil) mit einem Kind	a parent couple (not -part) with one child	pasangan orang tua (bukan orang tua tunggal) dengan satu anak		
-4695	8_1686036716_4	8_1686036716	ʔaropaha:i	verschwistert	related by marriage	terkait dengan pernikahan		
-4696	8_1686036716_5	8_1686036716	ʔaropaha:uda	Ehemann mit seiner Frau zu zweit	Husband with his wife as a couple	Suami dengan istrinya sebagai pasangan		
+4695	8_1686036716_4	8_1686036716	ʔaropaha:i	verschwistert	related by marriage	terkait dengan pernikahan	berkerabat atas dasar pernikahan	
+4696	8_1686036716_5	8_1686036716	ʔaropaha:uda	Ehemann mit seiner Frau zu zweit	Husband with his wife as a couple	Suami dengan istrinya sebagai pasangan	suami dan istrinya sebagai pasangan	
 4697	8_1686204027_0	8_1686204027	kixaraka	sich (im Netz) verfangen	get caught (in the net)	tertangkap (di dalam jaring)		
-4698	8_1686204027_1	8_1686204027	kixaraki	etwas umwickeln	to wrap something	untuk membungkus sesuatu		
-4699	8_1686204027_2	8_1686204027	harakíaʔa	umwickle mit etwasǃ	wrap with somethingǃ (sg)	membungkus dengan sesuatuǃ (sg)		
-4700	8_1686204251_0	8_1686204251	kiixarua	ihr Eigentum	her/their property	properti miliknya		
-4701	8_1686204251_1	8_1686204251	eʔaharuda	ihr Erbe	her/their legacy/inheritance	warisan/warisan mereka		
-4702	8_1686204540_0	8_1686204540	kixau	beißen	to bite	untuk menggigit		
-4703	8_1686204540_1	8_1686204540	hoo buhau	biß bereits	already bit	sudah sedikit		
-4704	8_1686204540_2	8_1686204540	kabuhau	biß	bit	sedikit		
-4705	8_1686204540_3	8_1686204540	kidixau	gebissen werden	to be bitten	untuk digigit		
+4698	8_1686204027_1	8_1686204027	kixaraki	etwas umwickeln	to wrap something	untuk membungkus sesuatu	membungkus sesuatu	
+4699	8_1686204027_2	8_1686204027	harakíaʔa	umwickle mit etwasǃ	wrap with somethingǃ (sg)	membungkus dengan sesuatuǃ (sg)	bungkus dengan sesuatuǃ (bentuk tunggal)	
+4700	8_1686204251_0	8_1686204251	kiixarua	ihr Eigentum	her/their property	properti miliknya	barang miliknya	
+4701	8_1686204251_1	8_1686204251	eʔaharuda	ihr Erbe	her/their legacy/inheritance	warisan/warisan mereka	peninggalan/warisan mereka	
+4702	8_1686204540_0	8_1686204540	kixau	beißen	to bite	untuk menggigit	menggigit	
+4703	8_1686204540_1	8_1686204540	hoo buhau	biß bereits	already bit	sudah sedikit	sudah menggigit	
+4704	8_1686204540_2	8_1686204540	kabuhau	biß	bit	sedikit	menggigit	
+4705	8_1686204540_3	8_1686204540	kidixau	gebissen werden	to be bitten	untuk digigit	digigit	
 4706	8_1686204540_4	8_1686204540	kixáuaʔa	mit etwas beißen ; beißen lassen	to bite with something ; to let bite	menggigit dengan sesuatu ; membiarkan menggigit		
 4707	8_1686204540_5	8_1686204540	eaháu	Zahn	Tooth	Gigi		
-4708	8_1686204540_6	8_1686204540	edixau	Gebissenes	bitten thing	hal yang digigit		
-4709	8_1686204540_7	8_1686204540	edixauaʔa	das , womit gebissen wird	that which is bitten with	apa yang digigit dengan		
+4708	8_1686204540_6	8_1686204540	edixau	Gebissenes	bitten thing	hal yang digigit	yang digigit	
+4709	8_1686204540_7	8_1686204540	edixauaʔa	das , womit gebissen wird	that which is bitten with	apa yang digigit dengan	benda yang digunakan menggigit (penggigit)	
 4710	8_1686204824_0	8_1686204824	epahau	das Geschrei beim eakalea-Fest (hierzu wird ein Mann mit besonders kräftiger Stimme ausgesucht)	the shouting at the eakalea festival (a man with a particularly strong voice is chosen for this)	teriakan di festival eakalea (seorang pria dengan suara yang sangat kuat dipilih untuk ini)		
 4711	8_1686204824_1	8_1686204824	epaháu ikadèaha	die Schreistimme auf dem Platz des eakalea-Festes	the shouting voice in the square of the eakalea festival	suara teriakan di alun-alun festival eakalea		
 4712	8_1686204975_0	8_1686204975	kahau	leicht sein (vom Gewicht)	to be light (by weight)	menjadi ringan (menurut beratnya)		
