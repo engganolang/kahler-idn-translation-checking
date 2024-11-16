@@ -8,11 +8,11 @@ of Oxford, UK & Universitas Udayana, Indonesia
 # Kähler’s (1987) Indonesian Translation To Check
 
 <!-- badges: start -->
-[<img src="../../FLEX/file-oxweb-logo.gif" width="84"
+[<img src="file-oxweb-logo.gif" width="84"
 alt="The University of Oxford" />](https://www.ox.ac.uk/)
-[<img src="../../FLEX/file-lingphil.png" width="83"
+[<img src="file-lingphil.png" width="83"
 alt="Faculty of Linguistics, Philology and Phonetics, the University of Oxford" />](https://www.ling-phil.ox.ac.uk/)
-[<img src="../../FLEX/file-ahrc.png" width="325"
+[<img src="file-ahrc.png" width="325"
 alt="Arts and Humanities Research Council (AHRC)" />](https://www.ukri.org/councils/ahrc/)
 </br>*This work is part of the [AHRC-funded
 project](https://app.dimensions.ai/details/grant/grant.12915105) on the
