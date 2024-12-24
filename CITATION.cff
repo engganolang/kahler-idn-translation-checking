@@ -1,0 +1,39 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Indonesian Translation of the Enggano-German Dictionary
+  (Kähler 1987)
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Gede Primahadi Wijaya
+    family-names: Rajeg
+    email: primahadi_wijaya@unud.ac.id
+    affiliation: University of Oxford & Universitas Udayana
+    orcid: 'https://orcid.org/0000-0002-2047-8621'
+repository-code: 'https://doi.org/10.25446/oxford.28057742'
+url: >-
+  https://github.com/engganolang/kahler-idn-translation-checking
+repository: 'https://zenodo.org/records/14514671'
+abstract: >-
+  This archived repository captures the completed stage of
+  the manual checking of the Indonesian translation of the
+  English translation derived from the German gloss. The
+  Indonesian translation was initially produced using the
+  deeplr R package from the English translation of the
+  Enggano-German Dictionary. Changes of the manual checking
+  are tracked via git in this repository.
+keywords:
+  - Enggano
+  - Enggano-German Dictionary
+  - Indonesian
+  - deeplr R package
+  - R programming
+  - legacy materials
+license: CC-BY-NC-SA-4.0
+version: 0.0.2
+date-released: '2024-12-24'
